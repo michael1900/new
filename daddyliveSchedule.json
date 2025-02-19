@@ -867,8 +867,8 @@
                 "event": "South Africa - DStv Premiership : Marumo Gallants vs Mamelodi Sundowns",
                 "channels": [
                     {
-                        "channel_name": "SuperSport Football",
-                        "channel_id": "56"
+                        "channel_name": "SuperSport PSL",
+                        "channel_id": "413"
                     }
                 ],
                 "channels2": []
@@ -939,7 +939,7 @@
                     },
                     {
                         "channel_name": "Ziggo Sport 1 NL",
-                        "channel_id": "383"
+                        "channel_id": "393"
                     },
                     {
                         "channel_name": "TRT 1 Turkey",
@@ -1912,6 +1912,68 @@
             {
                 "time": "16:00",
                 "event": "ATP - DOHA : Alcaraz C. vs Nardi L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 22",
+                        "channel_id": "1522"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
+        "Tennis ATP - RIO DE JANEIRO": [
+            {
+                "time": "19:30",
+                "event": "ATP - RIO DE JANEIRO : Comesana F. vs Jarry N.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 22",
+                        "channel_id": "1522"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "21:30",
+                "event": "ATP - RIO DE JANEIRO : Baez S. vs Navone M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 7",
+                        "channel_id": "1507"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "22:00",
+                "event": "ATP - RIO DE JANEIRO : Zverev A. vs Shevchenko A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 22",
+                        "channel_id": "1522"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "23:30",
+                "event": "ATP - RIO DE JANEIRO : Monteiro T. vs Tseng C. H.",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream 4",
@@ -2948,6 +3010,215 @@
                     {
                         "channel_name": "SD-7506201",
                         "channel_id": "7506201"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "ITF (F) - Spring (USA) : Maria Mateas vs Hanna Chang",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7509186",
+                        "channel_id": "7509186"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "UTR (F) - Newport Beach (USA) : Polina Jorniak vs Daniela Borruel",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7488635",
+                        "channel_id": "7488635"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "UTR (F) - Newport Beach (USA) : Jwany Sherif vs Tricia Mar",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7488162",
+                        "channel_id": "7488162"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "UTR (F) - Newport Beach (USA) : Veronica Miroshnichenko vs Hana Gamracy",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7488159",
+                        "channel_id": "7488159"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "UTR (F) - Newport Beach (USA) : Eduarda Piai vs Antonia Balzert",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7488152",
+                        "channel_id": "7488152"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "ATP - Rio de Janeiro (BRA) - Double : R.Matos\/M.Melo vs A.Krajicek\/R.Ram",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7493119",
+                        "channel_id": "7493119"
+                    }
+                ]
+            },
+            {
+                "time": "20:10",
+                "event": "UTR (F) - Boca Raton (USA) : Sabrina Jaramillo vs Katsiaryna Starastsenka",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7496768",
+                        "channel_id": "7496768"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "ATP - Rio de Janeiro (BRA) - Double : P.Martinez\/J.Munar vs R.Carballes Baena\/A.Muller",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7493118",
+                        "channel_id": "7493118"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "ATP - Rio de Janeiro (BRA) : Sebastian Baez vs Mariano Navone",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7509151",
+                        "channel_id": "7509151"
+                    }
+                ]
+            },
+            {
+                "time": "22:10",
+                "event": "ATP - Rio de Janeiro (BRA) - Double : L.Darderi\/M.Navone vs O.Luz\/F.Meligeni Rodrigues Alves",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7509750",
+                        "channel_id": "7509750"
+                    }
+                ]
+            },
+            {
+                "time": "22:40",
+                "event": "ATP - Rio de Janeiro (BRA) - Double : M.Gonzalez\/A.Molteni vs M.Demoliner\/F.Romboli",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7509770",
+                        "channel_id": "7509770"
+                    }
+                ]
+            },
+            {
+                "time": "23:10",
+                "event": "ATP - Rio de Janeiro (BRA) : Thiago Moura Monteiro vs Chun Hsin Tseng",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7504772",
+                        "channel_id": "7504772"
+                    }
+                ]
+            },
+            {
+                "time": "23:22",
+                "event": "ITF (F) - Spring (USA) - Double : M.Kozyreva\/A.Tikhonova vs M.Jones\/C.Rosca",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7505025",
+                        "channel_id": "7505025"
+                    }
+                ]
+            },
+            {
+                "time": "23:22",
+                "event": "ITF (F) - Spring (USA) - Double : E.Cayetano\/H.Giavara vs F.Crawley\/J.Loeb",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7505027",
+                        "channel_id": "7505027"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "UTR (M) - Kawaguchi (JAP) : Keisuke Yagi vs Ryoto Tachi",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7491870",
+                        "channel_id": "7491870"
+                    }
+                ]
+            },
+            {
+                "time": "02:10",
+                "event": "UTR (M) - Kawaguchi (JAP) : Taketo Takamisawa vs Yusuke Yoshikawa",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7491861",
+                        "channel_id": "7491861"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "UTR (F) - Newport Beach (USA) : Camille Kiss vs Vessa Turley",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7488628",
+                        "channel_id": "7488628"
+                    }
+                ]
+            },
+            {
+                "time": "03:20",
+                "event": "UTR (M) - Kawaguchi (JAP) : Ryoto Tachi vs Jannik Maute",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7491858",
+                        "channel_id": "7491858"
+                    }
+                ]
+            },
+            {
+                "time": "03:20",
+                "event": "UTR (M) - Kawaguchi (JAP) : Ryotero Matsumura vs Seiya Nakanishi",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7491846",
+                        "channel_id": "7491846"
                     }
                 ]
             }
