@@ -4,93 +4,14 @@ import json
 import logging
 import sys
 import re
-import time
-import os
-import random
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
-import pickle
-
-def generate_device_id():
-    """Genera un ID dispositivo casuale ma coerente"""
-    if os.path.exists('.device_id'):
-        with open('.device_id', 'r') as f:
-            return f.read().strip()
-    device_id = ''.join(random.choices('0123456789abcdef', k=16))
-    with open('.device_id', 'w') as f:
-        f.write(device_id)
-    return device_id
-
-def setup_logging():
-    """Configure logging settings"""
-    logging.basicConfig(
-        filename="excluded_channels.log",
-        level=logging.INFO,
-        format="%(asctime)s - %(message)s",
-        datefmt="%Y-%m-%d %H:%M:%S"
-    )
-    # Also log to console
-    console_handler = logging.StreamHandler()
-    console_handler.setLevel(logging.INFO)
-    logging.getLogger().addHandler(console_handler)
-
-
-def get_random_device():
-    """Genera informazioni casuali ma realistiche sul dispositivo"""
-    devices = [
-        {
-            "brand": "samsung",
-            "model": "SM-G973F",
-            "name": "Galaxy S10"
-        },
-        {
-            "brand": "xiaomi",
-            "model": "M2102J20SG",
-            "name": "Redmi Note 10"
-        },
-        {
-            "brand": "google",
-            "model": "Pixel 6",
-            "name": "pixel"
-        }
-    ]
-    return random.choice(devices)
-
-
-def create_session():
-    session = requests.Session()
-    
-    # Lista di User-Agents realistici
-    user_agents = [
-        "Mozilla/5.0 (Linux; Android 12; SM-G973F Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
-        "Mozilla/5.0 (Linux; Android 11; M2102J20SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36",
-        "Mozilla/5.0 (Linux; Android 13; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
-        "okhttp/4.11.0"
-    ]
-    
-    session.headers.update({
-        "User-Agent": random.choice(user_agents),
-        "Accept-Language": "en-US,en;q=0.9,de;q=0.8",
-        "Accept-Encoding": "gzip, deflate, br",
-        "Connection": "keep-alive",
-        "X-Requested-With": "tv.vavoo.app",
-        "Sec-Fetch-Site": "same-origin",
-        "Sec-Fetch-Mode": "cors",
-        "Sec-Fetch-Dest": "empty",
-        "Accept": "application/json, text/plain, */*"
-    })
-    
-    return session
 
 def get_auth_signature():
-    session = create_session()
-    device = get_random_device()
-    device_id = generate_device_id()
-    
-    current_time = int(time.time() * 1000)
-    
     headers = {
+        "user-agent": "okhttp/4.11.0",
+        "accept": "application/json",
         "content-type": "application/json; charset=utf-8",
+        "content-length": "1106",
+        "accept-encoding": "gzip"
     }
 
     data = {
@@ -101,24 +22,24 @@ def get_auth_signature():
         "metadata": {
             "device": {
                 "type": "Handset",
-                "brand": device["brand"],
-                "model": device["model"],
-                "name": device["name"],
-                "uniqueId": device_id
+                "brand": "google",
+                "model": "Nexus 5",
+                "name": "21081111RG",
+                "uniqueId": "d10e5d99ab665233"
             },
             "os": {
                 "name": "android",
-                "version": str(random.randint(10, 13)),  # Versione Android casuale
+                "version": "7.1.2",
                 "abis": ["arm64-v8a", "armeabi-v7a", "armeabi"],
-                "host": "android-" + str(random.randint(25, 33))  # API level casuale
+                "host": "android"
             },
             "app": {
                 "platform": "android",
                 "version": "3.0.2",
-                "buildId": str(random.randint(280000000, 290000000)),
+                "buildId": "288045000",
                 "engine": "jsc",
                 "signatures": ["09f4e07040149486e541a1cb34000b6e12527265252fa2178dfe2bd1af6b815a"],
-                "installer": random.choice(["com.android.vending", "com.android.secex"])
+                "installer": "com.android.secex"
             },
             "version": {
                 "package": "tv.vavoo.app",
@@ -126,7 +47,7 @@ def get_auth_signature():
                 "js": "3.1.4"
             }
         },
-        "appFocusTime": random.randint(20000, 50000),
+        "appFocusTime": 27229,
         "playerActive": True,
         "playDuration": 0,
         "devMode": False,
@@ -135,16 +56,16 @@ def get_auth_signature():
         "package": "tv.vavoo.app",
         "version": "3.1.4",
         "process": "app",
-        "firstAppStart": current_time - random.randint(1000000, 5000000),
-        "lastAppStart": current_time,
+        "firstAppStart": 1728674705639,
+        "lastAppStart": 1728674705639,
         "ipLocation": "",
-        "adblockEnabled": random.choice([True, False]),
+        "adblockEnabled": True,
         "proxy": {
             "supported": ["ss"],
             "engine": "ss",
             "enabled": False,
             "autoServer": True,
-            "id": random.choice(["ca-bhs", "de-fra", "nl-ams"])
+            "id": "ca-bhs"
         },
         "iap": {
             "supported": False
@@ -152,27 +73,14 @@ def get_auth_signature():
     }
 
     try:
-        # Aggiungi un delay casuale prima della richiesta
-        time.sleep(random.uniform(0.5, 1.5))
-        
-        response = session.post(
-            "https://www.vavoo.tv/api/app/ping",
-            json=data,
-            headers=headers,
-            timeout=10
-        )
+        response = requests.post("https://www.vavoo.tv/api/app/ping", json=data, headers=headers)
         response.raise_for_status()
-        return response.json().get("addonSig")
+        res_json = response.json()
+        return res_json.get("addonSig")
     except Exception as e:
-        print(f"Error getting signature: {e}")
+        print(f"Errore durante il recupero della firma: {e}")
         return None
 
-def get_category(channel_name):
-    lower_name = channel_name.lower()
-    for category, keywords in CATEGORY_KEYWORDS.items():
-        if any(keyword in lower_name for keyword in keywords):
-            return category
-    return "ALTRI"
 
 def setup_logging():
     logging.basicConfig(filename="excluded_channels.log", level=logging.INFO, format="%(asctime)s - %(message)s")
@@ -198,6 +106,17 @@ CATEGORY_KEYWORDS = {
     "SPORT": ["sport", "dazn", "tennis", "moto", "f1", "golf"],
     "ALTRI": []
 }
+
+def get_category(channel_name):
+    lower_name = channel_name.lower()
+    for category, keywords in CATEGORY_KEYWORDS.items():
+        if any(keyword in lower_name for keyword in keywords):
+            return category
+    return "ALTRI"
+
+def resolve_link(link, signature):
+    if "localhost" in link:
+        return link
 
 
 def get_channel_list(signature, group="Italy"):
@@ -233,7 +152,7 @@ def get_channel_list(signature, group="Italy"):
 
             items = result.get("items", [])
             if not items:
-                break  # Se non ci sono più canali, esce dal cicloc
+                break  # Se non ci sono più canali, esce dal ciclo
 
             all_items.extend(items)
             cursor += len(items)  # Aggiorna il cursore con il numero di canali ricevuti
@@ -245,171 +164,75 @@ def get_channel_list(signature, group="Italy"):
     return {"items": all_items}
 
 
-def resolve_link(link, signature, session, cache):
+def resolve_link(link, signature):
     if "localhost" in link:
         return link
-        
-    if link in cache:
-        return cache[link]
 
-    # Aggiunge variabilità ai headers per ogni richiesta
     headers = {
-        "content-type": "application/json; charset=utf-8",
+        "user-agent": "MediaHubMX/2",
         "accept": "application/json",
-        "mediahubmx-signature": signature,
-        "X-Request-ID": ''.join(random.choices('0123456789abcdef', k=32)),
-        "X-Client-Version": "3.0.2",
-        "X-Platform": "android"
+        "content-type": "application/json; charset=utf-8",
+        "accept-encoding": "gzip",
+        "mediahubmx-signature": signature
     }
 
     data = {
-        "language": random.choice(["de", "en", "it"]),
-        "region": random.choice(["DE", "AT", "CH", "IT"]),
+        "language": "de",
+        "region": "AT",
         "url": link,
         "clientVersion": "3.0.2"
     }
 
     try:
-        # Aggiunge un delay casuale naturale
-        time.sleep(random.uniform(0.2, 0.7))
-        
-        response = session.post(
-            "https://vavoo.to/vto-cluster/mediahubmx-resolve.json",
-            json=data,
-            headers=headers,
-            timeout=10
-        )
-        
-        if response.status_code == 200:
-            result = response.json()
-            if isinstance(result, list) and result and "url" in result[0]:
-                resolved_url = result[0]["url"]
-                cache[link] = resolved_url
-                return resolved_url
-                
-    except requests.exceptions.RequestException:
-        pass
-    
+        response = requests.post("https://vavoo.to/vto-cluster/mediahubmx-resolve.json", json=data, headers=headers)
+        response.raise_for_status()
+        result = response.json()
+        if isinstance(result, list) and result and "url" in result[0]:
+            return result[0]["url"]
+    except Exception as e:
+        print(f"Errore durante la risoluzione del link: {e}")
     return None
-
-def get_channel_list(signature, session, group="Italy"):
-    headers = {
-        "Accept-Encoding": "gzip",
-        "User-Agent": "MediaHubMX/2",
-        "Accept": "application/json",
-        "Content-Type": "application/json; charset=utf-8",
-        "mediahubmx-signature": signature
-    }
-
-    cursor = 0
-    all_items = []
-
-    while True:
-        data = {
-            "language": "de",
-            "region": "AT",
-            "catalogId": "vto-iptv",
-            "id": "vto-iptv",
-            "adult": False,
-            "search": "",
-            "sort": "name",
-            "filter": {"group": group},
-            "cursor": cursor,
-            "clientVersion": "3.0.2"
-        }
-
-        try:
-            response = session.post("https://vavoo.to/vto-cluster/mediahubmx-catalog.json", 
-                                  json=data, 
-                                  headers=headers,
-                                  timeout=10)
-            response.raise_for_status()
-            result = response.json()
-
-            items = result.get("items", [])
-            if not items:
-                break
-
-            all_items.extend(items)
-            cursor += len(items)
-            
-            # Add a small delay between requests
-            time.sleep(1)
-
-        except Exception as e:
-            print(f"Error getting channel list: {e}")
-            break
-
-    return {"items": all_items}
-
-# Rest of your code remains the same, but update the generate_m3u function to use the session:
-
-def load_cache(filename="cache.pkl"):
-    """Carica la cache da un file se esiste, altrimenti restituisce un dizionario vuoto."""
-    if os.path.exists(filename):
-        try:
-            with open(filename, "rb") as f:
-                return pickle.load(f)
-        except Exception:
-            return {}  # Se il file è corrotto, ritorna una cache vuota
-    return {}
-
-def save_cache(cache, filename="cache.pkl"):
-    """Salva la cache su file."""
-    with open(filename, "wb") as f:
-        pickle.dump(cache, f)
-
 
 def generate_m3u(channels_json, signature, filename="channels.m3u8"):
     setup_logging()
-    session = create_session()
-    cache = load_cache()  # Ora questa funzione è definita
-
     items = channels_json.get("items", [])
     if not items:
-        logging.error("No channels available.")
+        print("Nessun canale disponibile.")
         return
 
-    logging.info(f"Processing {len(items)} channels...")
-    successful_channels = 0
-    failed_channels = 0
+    print(f"Generating M3U8 file with {len(items)} channels...")
 
     with open(filename, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
 
         for idx, item in enumerate(items, 1):
-            try:
-                name = item.get("name", "Unknown")
-                if not any(filter_word.lower() in name.lower() for filter_word in CHANNEL_FILTERS):
-                    continue
-
-                original_link = item.get("url")
-                if not original_link:
-                    continue
-
-                print(f"Channel {idx}/{len(items)}: {name}", end='\r')
-                resolved_url = resolve_link(original_link, signature, session, cache)
-
-                if not resolved_url:
-                    failed_channels += 1
-                    continue
-
-                category = get_category(name)
-                tvg_id = sanitize_tvg_id(name)
-
-                f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{name}" group-title="{category}",{name}\n')
-                f.write('#EXTVLCOPT:http-user-agent=okhttp/4.11.0\n')
-                f.write('#EXTVLCOPT:http-origin=https://vavoo.to/\n')
-                f.write('#EXTVLCOPT:http-referrer=https://vavoo.to/\n')
-                f.write(f'{resolved_url}\n')
-                successful_channels += 1
-
-            except Exception as e:
-                failed_channels += 1
+            name = item.get("name", "Unknown")
+            if not any(filter_word.lower() in name.lower() for filter_word in CHANNEL_FILTERS):
+                logging.info(f"Excluded channel: {name}")
                 continue
 
-    save_cache(cache)  # Salva la cache aggiornata alla fine
-    print(f"\nCompleted: {successful_channels} successful, {failed_channels} failed")
+            tvg_id = sanitize_tvg_id(name)
+            original_link = item.get("url")
+
+            if not original_link:
+                continue
+
+            print(f"Processing channel {idx}/{len(items)}: {name}")
+            resolved_url = resolve_link(original_link, signature)
+
+            if not resolved_url:
+                print(f"Failed to resolve URL for {name}")
+                continue
+
+            category = get_category(name)
+
+            f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{name}" group-title="{category}",{name}\n')
+            f.write('#EXTVLCOPT:http-user-agent=okhttp/4.11.0\n')
+            f.write('#EXTVLCOPT:http-origin=https://vavoo.to/\n')
+            f.write('#EXTVLCOPT:http-referrer=https://vavoo.to/\n')
+            f.write(f'{resolved_url}\n')
+
+    print(f"M3U8 file generated successfully: {filename}")
 
 
 def main():
@@ -419,10 +242,8 @@ def main():
         print("Failed to get authentication signature.")
         sys.exit(1)
 
-    session = create_session()
-    
     print("Getting channel list...")
-    channels_json = get_channel_list(signature, session)
+    channels_json = get_channel_list(signature)
     if not channels_json:
         print("Failed to get channel list.")
         sys.exit(1)
