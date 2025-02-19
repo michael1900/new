@@ -2,8 +2,14 @@
 
 #EXTINF:-1 tvg-id="6fa17735-b572-f3d0-0b5c-ea6a41357e8c" tvg-name="UEFA Champions League : PSV vs Juventus 02/19/25 - 21:00 (CET) Digi Sport 2 Romania" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Champions League : PSV vs Juventus 02/19/25 - 21:00 (CET) Digi Sport 2 Romania
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
+#EXTVLCOPT:http-accept-language=it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,ru;q=0.5
+#EXTVLCOPT:http-accept-encoding=gzip, deflate, br, zstd
+#EXTVLCOPT:http-sec-fetch-site=cross-site
+#EXTVLCOPT:http-sec-fetch-mode=cors
+#EXTVLCOPT:http-sec-fetch-dest=empty
+#EXTVLCOPT:http-priority=u=1, i
 https://top2new.iosplayer.ru/top2/premium401/mono.m3u8
 
 #EXTINF:-1 tvg-id="61ee411a-1bac-27a7-b386-f7a4c991603f" tvg-name="UEFA Champions League : PSG vs Brest 02/19/25 - 21:00 (CET) SuperSport Football" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Champions League : PSG vs Brest 02/19/25 - 21:00 (CET) SuperSport Football
@@ -13,16 +19,10 @@ https://top2new.iosplayer.ru/top2/premium401/mono.m3u8
 https://zekonew.iosplayer.ru/zeko/premium56/mono.m3u8
 
 #EXTINF:-1 tvg-id="eb1fa9f2-d10b-d1d0-3317-347038f16a81" tvg-name="UEFA Champions League : PSG vs Brest 02/19/25 - 21:00 (CET) 5 Plus Israel" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Champions League : PSG vs Brest 02/19/25 - 21:00 (CET) 5 Plus Israel
-#EXTVLCOPT:http-referrer=https://thedaddy.to/
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium145/mono.m3u8
-
-#EXTINF:-1 tvg-id="6601ddd0-3170-f437-a8f7-ef5a060edf5b" tvg-name="UEFA Champions League : PSV vs Juventus 02/19/25 - 21:00 (CET) Sky Sport Austria 2" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Champions League : PSV vs Juventus 02/19/25 - 21:00 (CET) Sky Sport Austria 2
-#EXTVLCOPT:http-referrer=https://thedaddy.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddh2new.iosplayer.ru/ddh2/premium12/mono.m3u8
 
 #EXTINF:-1 tvg-id="11c58ef0-dd46-3c09-4752-87aa5408f9ac" tvg-name="UEFA Champions League : PSV vs Juventus 02/19/25 - 21:00 (CET) Movistar Liga de Campeones 3" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Champions League : PSV vs Juventus 02/19/25 - 21:00 (CET) Movistar Liga de Campeones 3
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
