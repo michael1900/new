@@ -344,11 +344,27 @@ def get_channel_list(signature, session, group="Italy"):
 
 # Rest of your code remains the same, but update the generate_m3u function to use the session:
 
+def load_cache(filename="cache.pkl"):
+    """Carica la cache da un file se esiste, altrimenti restituisce un dizionario vuoto."""
+    if os.path.exists(filename):
+        try:
+            with open(filename, "rb") as f:
+                return pickle.load(f)
+        except Exception:
+            return {}  # Se il file è corrotto, ritorna una cache vuota
+    return {}
+
+def save_cache(cache, filename="cache.pkl"):
+    """Salva la cache su file."""
+    with open(filename, "wb") as f:
+        pickle.dump(cache, f)
+
+
 def generate_m3u(channels_json, signature, filename="channels.m3u8"):
     setup_logging()
     session = create_session()
-    cache = load_cache()  # Assicuriamoci di avere la cache
-    
+    cache = load_cache()  # Ora questa funzione è definita
+
     items = channels_json.get("items", [])
     if not items:
         logging.error("No channels available.")
@@ -372,7 +388,6 @@ def generate_m3u(channels_json, signature, filename="channels.m3u8"):
                     continue
 
                 print(f"Channel {idx}/{len(items)}: {name}", end='\r')
-                # Qui passiamo anche il parametro cache
                 resolved_url = resolve_link(original_link, signature, session, cache)
 
                 if not resolved_url:
@@ -393,8 +408,10 @@ def generate_m3u(channels_json, signature, filename="channels.m3u8"):
                 failed_channels += 1
                 continue
 
+    save_cache(cache)  # Salva la cache aggiornata alla fine
     print(f"\nCompleted: {successful_channels} successful, {failed_channels} failed")
-    
+
+
 def main():
     print("Getting authentication signature...")
     signature = get_auth_signature()
