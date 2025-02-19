@@ -88,7 +88,7 @@ def get_stream_link(dlhd_id, max_retries=3):
                 parent_site_domain = real_link.split('/premiumtv')[0]
                 server_key_link = (f'{parent_site_domain}/server_lookup.php?channel_id=premium{dlhd_id}')
                 server_key_headers = headers.copy()
-                server_key_headers["Referer"] = f"https://newembedplay.xyz/premiumtv/daddyhd.php?id={dlhd_id}"
+                server_key_headers["Referer"] = f"https://newembedplay.xyz/premiumtv/daddylivehd.php?id={dlhd_id}"
                 server_key_headers["Origin"] = "https://newembedplay.xyz"
                 server_key_headers["Sec-Fetch-Site"] = "same-origin"
 
