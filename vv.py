@@ -347,45 +347,54 @@ def get_channel_list(signature, session, group="Italy"):
 def generate_m3u(channels_json, signature, filename="channels.m3u8"):
     setup_logging()
     session = create_session()
+    cache = load_cache()  # Assicuriamoci di avere la cache
+    
     items = channels_json.get("items", [])
     if not items:
-        print("No channels available.")
+        logging.error("No channels available.")
         return
 
-    print(f"Generating M3U8 file with {len(items)} channels...")
+    logging.info(f"Processing {len(items)} channels...")
+    successful_channels = 0
+    failed_channels = 0
 
     with open(filename, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
 
         for idx, item in enumerate(items, 1):
-            name = item.get("name", "Unknown")
-            if not any(filter_word.lower() in name.lower() for filter_word in CHANNEL_FILTERS):
-                logging.info(f"Excluded channel: {name}")
+            try:
+                name = item.get("name", "Unknown")
+                if not any(filter_word.lower() in name.lower() for filter_word in CHANNEL_FILTERS):
+                    continue
+
+                original_link = item.get("url")
+                if not original_link:
+                    continue
+
+                print(f"Channel {idx}/{len(items)}: {name}", end='\r')
+                # Qui passiamo anche il parametro cache
+                resolved_url = resolve_link(original_link, signature, session, cache)
+
+                if not resolved_url:
+                    failed_channels += 1
+                    continue
+
+                category = get_category(name)
+                tvg_id = sanitize_tvg_id(name)
+
+                f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{name}" group-title="{category}",{name}\n')
+                f.write('#EXTVLCOPT:http-user-agent=okhttp/4.11.0\n')
+                f.write('#EXTVLCOPT:http-origin=https://vavoo.to/\n')
+                f.write('#EXTVLCOPT:http-referrer=https://vavoo.to/\n')
+                f.write(f'{resolved_url}\n')
+                successful_channels += 1
+
+            except Exception as e:
+                failed_channels += 1
                 continue
 
-            tvg_id = sanitize_tvg_id(name)
-            original_link = item.get("url")
-
-            if not original_link:
-                continue
-
-            print(f"Processing channel {idx}/{len(items)}: {name}")
-            resolved_url = resolve_link(original_link, signature, session)
-
-            if not resolved_url:
-                print(f"Failed to resolve URL for {name}")
-                continue
-
-            category = get_category(name)
-
-            f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{name}" group-title="{category}",{name}\n')
-            f.write('#EXTVLCOPT:http-user-agent=okhttp/4.11.0\n')
-            f.write('#EXTVLCOPT:http-origin=https://vavoo.to/\n')
-            f.write('#EXTVLCOPT:http-referrer=https://vavoo.to/\n')
-            f.write(f'{resolved_url}\n')
-
-    print(f"M3U8 file generated successfully: {filename}")
-
+    print(f"\nCompleted: {successful_channels} successful, {failed_channels} failed")
+    
 def main():
     print("Getting authentication signature...")
     signature = get_auth_signature()
