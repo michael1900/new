@@ -21,7 +21,7 @@ mStopTime = 0
 
 # File e URL statici per la seconda parte dello script
 daddyLiveChannelsFileName = '247channels.html'
-daddyLiveChannelsURL = 'https://thedaddy.to/24-7-channels.php'
+daddyLiveChannelsURL = 'https://daddylive.mp/24-7-channels.php'
 
 # Headers and related constants from the first code block (assuming these are needed for requests)
 Referer = "https://ilovetoplay.xyz/"
@@ -53,7 +53,7 @@ def get_stream_link(dlhd_id, max_retries=3):
         try:
             # Use timeout for all requests
             response = client.get(
-                f"https://thedaddy.to/embed/stream-{dlhd_id}.php",
+                f"https://daddylive.mp/embed/stream-{dlhd_id}.php",
                 headers=headers,
                 timeout=base_timeout
             )
@@ -245,7 +245,7 @@ def addChannelsByLeagueSport():
                                     file.write('#EXTM3U\n')
                             with open(M3U8_OUTPUT_FILE, 'a', encoding='utf-8') as file:
 
-                                file.write(f'#EXTINF:-1 tvg-id="{UniqueID}" tvg-name="{tvgName}" tvg-logo="" group-title="Eventi", {tvLabel}\n')
+                                file.write(f'#EXTINF:-1 tvg-id="{UniqueID}" tvg-name="{tvgName}" tvg-logo="{LOGO}" group-title="Eventi", {tvLabel}\n')
                                 file.write('#EXTVLCOPT:http-referrer=https://newembedplay.xyz\n')
                                 file.write('#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36\n')
                                 file.write('#EXTVLCOPT:http-origin=https://newembedplay.xyz\n')
@@ -352,45 +352,45 @@ STATIC_TVG_IDS = {
 }
 
 STATIC_CATEGORIES = {
-    "sky uno": "SKY",
-    "rai 1": "RAI",
-    "rai 2": "RAI",
-    "rai 3": "RAI",
-    "eurosport 1": "SPORT",
-    "eurosport 2": "SPORT",
-    "italia 1": "MEDIASET",
-    "la7": "ALTRI",
-    "la7d": "ALTRI",
-    "rai sport": "SPORT",
-    "rai premium": "RAI",
-    "sky sports golf": "SPORT",
-    "sky sport motogp": "SPORT",
-    "sky sport tennis": "SPORT",
-    "sky sport f1": "SPORT",
-    "sky sport football": "SPORT",
-    "sky sport uno": "SPORT",
-    "sky sport arena": "SPORT",
-    "sky cinema collection": "SKY",
-    "sky cinema uno": "SKY",
-    "sky cinema action": "SKY",
-    "sky cinema comedy": "SKY",
-    "sky cinema uno +24": "SKY",
-    "sky cinema romance": "SKY",
-    "sky cinema family": "SKY",
-    "sky cinema due +24": "SKY",
-    "sky cinema drama": "SKY",
-    "sky cinema suspense": "SKY",
-    "sky sport 24": "SPORT",
-    "sky sport calcio": "SPORT",
-    "sky calcio 1": "SPORT",
-    "sky calcio 2": "SPORT",
-    "sky calcio 3": "SPORT",
-    "sky calcio 4": "SPORT",
-    "sky calcio 5": "SPORT",
-    "sky calcio 6": "SPORT",
-    "sky calcio 7": "SPORT",
-    "sky serie": "SKY",
-    "20 mediaset": "MEDIASET",
+    "sky uno": "Intrattenimento",
+    "rai 1": "Intrattenimento",
+    "rai 2": "Intrattenimento",
+    "rai 3": "Intrattenimento",
+    "eurosport 1": "Sport",
+    "eurosport 2": "Sport",
+    "italia 1": "Intrattenimento",
+    "la7": "Intrattenimento",
+    "la7d": "Intrattenimento",
+    "rai sport": "Sport",
+    "rai premium": "Intrattenimento",
+    "sky sports golf": "Sport",
+    "sky sport motogp": "Sport",
+    "sky sport tennis": "Sport",
+    "sky sport f1": "Sport",
+    "sky sport football": "Sport",
+    "sky sport uno": "Sport",
+    "sky sport arena": "Sport",
+    "sky cinema collection": "Film & Serie TV",
+    "sky cinema uno": "Film & Serie TV",
+    "sky cinema action": "Film & Serie TV",
+    "sky cinema comedy": "Film & Serie TV",
+    "sky cinema uno +24": "Film & Serie TV",
+    "sky cinema romance": "Film & Serie TV",
+    "sky cinema family": "Film & Serie TV",
+    "sky cinema due +24": "Film & Serie TV",
+    "sky cinema drama": "Film & Serie TV",
+    "sky cinema suspense": "Film & Serie TV",
+    "sky sport 24": "Sport",
+    "sky sport calcio": "Sport",
+    "sky calcio 1": "Sport",
+    "sky calcio 2": "Sport",
+    "sky calcio 3": "Sport",
+    "sky calcio 4": "Sport",
+    "sky calcio 5": "Sport",
+    "sky calcio 6": "Sport",
+    "sky calcio 7": "Sport",
+    "sky serie": "Film & Serie TV",
+    "20 mediaset": "Intrattenimento",
 }
 
 def fetch_with_debug(filename, url):
@@ -486,7 +486,7 @@ total_schedule_channels = 0 # Counter for total schedule channels attempted
 total_247_channels = 0 # Counter for total 24/7 channels attempted
 
 # Scarica il file JSON con la programmazione
-fetcher.fetchHTML(DADDY_JSON_FILE, "https://thedaddy.to/schedule/schedule-generated.json")
+fetcher.fetchHTML(DADDY_JSON_FILE, "https://daddylive.mp/schedule/schedule-generated.json")
 
 # Carica i dati dal JSON
 dadjson = loadJSON(DADDY_JSON_FILE)
