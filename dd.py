@@ -14,7 +14,7 @@ NUM_CHANNELS = 10000
 DADDY_JSON_FILE = "daddyliveSchedule.json"
 M3U8_OUTPUT_FILE = "mergeita.m3u8"
 EPG_OUTPUT_FILE = "mergeita.xml"
-LOGO = "asd"
+LOGO = "https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png"
 
 mStartTime = 0
 mStopTime = 0
