@@ -226,7 +226,7 @@ def generate_m3u(channels_json, signature, filename="channels.m3u8"):
 
             category = get_category(name)
 
-            f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{name}" group-title="{category}",{name}\n')
+            f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{tvg_id}" group-title="{category}",{tvg_id}\n')
             f.write('#EXTVLCOPT:http-user-agent=okhttp/4.11.0\n')
             f.write('#EXTVLCOPT:http-origin=https://vavoo.to/\n')
             f.write('#EXTVLCOPT:http-referrer=https://vavoo.to/\n')
