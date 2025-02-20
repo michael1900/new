@@ -461,12 +461,6 @@ https://windnew.iosplayer.ru/wind/premium468/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://windnew.iosplayer.ru/wind/premium453/mono.m3u8
 
-#EXTINF:-1 tvg-id="1064005c-3985-c3cf-3f76-be1d1efa2197" tvg-name="World - Women's Friendly : Russia vs Thailand 02/20/25 - 16:00 (CET) Match Premier Russia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", World - Women's Friendly : Russia vs Thailand 02/20/25 - 16:00 (CET) Match Premier Russia
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium573/mono.m3u8
-
 #EXTINF:-1 tvg-id="8dcdcd03-969b-6662-0562-8059568cc69b" tvg-name="Saudi Arabia - Pro League : Al Fateh vs Al Orubah 02/20/25 - 16:15 (CET) SSC" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Saudi Arabia - Pro League : Al Fateh vs Al Orubah 02/20/25 - 16:15 (CET) SSC
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -695,6 +689,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium160/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium799/mono.m3u8
 
+#EXTINF:-1 tvg-id="dca02eec-acda-bacc-1165-e21098543881" tvg-name="UEFA Europa League : Galatasaray vs AZ 02/20/25 - 18:45 (CET) Movistar Liga de Campeones 7" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : Galatasaray vs AZ 02/20/25 - 18:45 (CET) Movistar Liga de Campeones 7
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium155/mono.m3u8
+
 #EXTINF:-1 tvg-id="f10c718b-1eb0-e38a-675d-d5af3c365296" tvg-name="UEFA Europa League : Galatasaray vs AZ 02/20/25 - 18:45 (CET) Eleven Sports 2 Portugal" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : Galatasaray vs AZ 02/20/25 - 18:45 (CET) Eleven Sports 2 Portugal
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -791,6 +791,18 @@ https://windnew.iosplayer.ru/wind/premium458/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium156/mono.m3u8
 
+#EXTINF:-1 tvg-id="ce9e1a11-fcbb-4e59-fbdd-cf7c9c96e9ec" tvg-name="UEFA Europa League : FCSB vs PAOK 02/20/25 - 18:45 (CET) Ziggo Sport 6 NL" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : FCSB vs PAOK 02/20/25 - 18:45 (CET) Ziggo Sport 6 NL
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium173/mono.m3u8
+
+#EXTINF:-1 tvg-id="aaf91531-0200-b1f0-8768-a84fa76afde6" tvg-name="UEFA Europa League : FCSB vs PAOK 02/20/25 - 18:45 (CET) Sky Sport Austria 4" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : FCSB vs PAOK 02/20/25 - 18:45 (CET) Sky Sport Austria 4
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium166/mono.m3u8
+
 #EXTINF:-1 tvg-id="ee87905e-4ca4-15ea-8dfa-6a56d12dbc9a" tvg-name="UEFA Europa League : FCSB vs PAOK 02/20/25 - 18:45 (CET) Sky Sport Top Event DE" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : FCSB vs PAOK 02/20/25 - 18:45 (CET) Sky Sport Top Event DE
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -875,6 +887,12 @@ https://ddh2new.iosplayer.ru/ddh2/premium17/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium157/mono.m3u8
 
+#EXTINF:-1 tvg-id="b0e6a969-e213-42b0-f1ee-dba313432e61" tvg-name="UEFA Europa League : Bodø / Glimt vs Twente 02/20/25 - 18:45 (CET) Ziggo Sport 3 NL" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : Bodø / Glimt vs Twente 02/20/25 - 18:45 (CET) Ziggo Sport 3 NL
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium174/mono.m3u8
+
 #EXTINF:-1 tvg-id="093923de-8bab-ce3b-2628-6bfbe767dcea" tvg-name="UEFA Europa League : Bodø / Glimt vs Twente 02/20/25 - 18:45 (CET) Canal+ Live 4 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : Bodø / Glimt vs Twente 02/20/25 - 18:45 (CET) Canal+ Live 4 France
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -922,6 +940,12 @@ https://ddh2new.iosplayer.ru/ddh2/premium27/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium435/mono.m3u8
+
+#EXTINF:-1 tvg-id="bfddc3d9-9ee3-ac2a-f94d-62046808593f" tvg-name="UEFA Conference League : Real Betis vs Gent 02/20/25 - 18:45 (CET) Sky Sport Austria 6" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Conference League : Real Betis vs Gent 02/20/25 - 18:45 (CET) Sky Sport Austria 6
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium162/mono.m3u8
 
 #EXTINF:-1 tvg-id="3c9ad14c-ee0c-aeb5-ecfe-db992790cebd" tvg-name="UEFA Conference League : Real Betis vs Gent 02/20/25 - 18:45 (CET) Eleven Sports 1 Portugal" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Conference League : Real Betis vs Gent 02/20/25 - 18:45 (CET) Eleven Sports 1 Portugal
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
@@ -1037,6 +1061,12 @@ https://ddh2new.iosplayer.ru/ddh2/premium9/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://ddh2new.iosplayer.ru/ddh2/premium18/mono.m3u8
 
+#EXTINF:-1 tvg-id="587ef344-6f3f-920c-98b8-e4cc1bc044fc" tvg-name="UEFA Conference League : Olimpija vs Borac Banja Luka 02/20/25 - 18:45 (CET) Movistar Liga de Campeones 9" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Conference League : Olimpija vs Borac Banja Luka 02/20/25 - 18:45 (CET) Movistar Liga de Campeones 9
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium167/mono.m3u8
+
 #EXTINF:-1 tvg-id="6fb78271-504d-281f-c953-5b63ba81edd9" tvg-name="UEFA Conference League : Olimpija vs Borac Banja Luka 02/20/25 - 18:45 (CET) Arena 2 Premium Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Conference League : Olimpija vs Borac Banja Luka 02/20/25 - 18:45 (CET) Arena 2 Premium Serbia
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1049,11 +1079,29 @@ https://ddy6new.iosplayer.ru/ddy6/premium135/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://windnew.iosplayer.ru/wind/premium580/mono.m3u8
 
+#EXTINF:-1 tvg-id="30a900ad-939b-462d-e645-f129629c2ae3" tvg-name="UEFA Conference League : Olimpija vs Borac Banja Luka 02/20/25 - 18:45 (CET) Canal+ Live 12 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Conference League : Olimpija vs Borac Banja Luka 02/20/25 - 18:45 (CET) Canal+ Live 12 France
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium168/mono.m3u8
+
+#EXTINF:-1 tvg-id="6fa17735-b572-f3d0-0b5c-ea6a41357e8c" tvg-name="UEFA Conference League : Paphos vs Omonia Nicosia 02/20/25 - 18:45 (CET) Sky Sport Austria 7" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Conference League : Paphos vs Omonia Nicosia 02/20/25 - 18:45 (CET) Sky Sport Austria 7
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium164/mono.m3u8
+
 #EXTINF:-1 tvg-id="ce777f00-ecf2-7e76-8519-7ff4006ed6e3" tvg-name="UEFA Conference League : Paphos vs Omonia Nicosia 02/20/25 - 18:45 (CET) DAZN Eleven 5 Portugal" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Conference League : Paphos vs Omonia Nicosia 02/20/25 - 18:45 (CET) DAZN Eleven 5 Portugal
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://windnew.iosplayer.ru/wind/premium459/mono.m3u8
+
+#EXTINF:-1 tvg-id="f0b5156b-b82c-9074-afd5-dea589d7fd6c" tvg-name="UEFA Conference League : Paphos vs Omonia Nicosia 02/20/25 - 18:45 (CET) Movistar Liga de Campeones 10" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Conference League : Paphos vs Omonia Nicosia 02/20/25 - 18:45 (CET) Movistar Liga de Campeones 10
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium169/mono.m3u8
 
 #EXTINF:-1 tvg-id="3270e4fa-abae-4f43-bcae-8081bdf070aa" tvg-name="UEFA Conference League : Paphos vs Omonia Nicosia 02/20/25 - 18:45 (CET) Canal+ Live 11 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Conference League : Paphos vs Omonia Nicosia 02/20/25 - 18:45 (CET) Canal+ Live 11 France
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
@@ -1121,6 +1169,12 @@ https://windnew.iosplayer.ru/wind/premium396/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://ddh2new.iosplayer.ru/ddh2/premium6/mono.m3u8
 
+#EXTINF:-1 tvg-id="35ce8841-4973-2d6c-4dca-bfb7001a9a8b" tvg-name="UEFA Europa League : Real Sociedad vs Midtjylland 02/20/25 - 21:00 (CET) Movistar Liga de Campeones 2" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : Real Sociedad vs Midtjylland 02/20/25 - 21:00 (CET) Movistar Liga de Campeones 2
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium159/mono.m3u8
+
 #EXTINF:-1 tvg-id="9b4e2c24-9479-e1e6-c927-7d9b6e0d2648" tvg-name="UEFA Europa League : Real Sociedad vs Midtjylland 02/20/25 - 21:00 (CET) CBS Sports Network USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : Real Sociedad vs Midtjylland 02/20/25 - 21:00 (CET) CBS Sports Network USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1138,6 +1192,12 @@ https://dokko1new.iosplayer.ru/dokko1/premium556/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium557/mono.m3u8
+
+#EXTINF:-1 tvg-id="f5b78cc7-e6b3-c944-cb32-3e357922bac2" tvg-name="UEFA Europa League : Real Sociedad vs Midtjylland 02/20/25 - 21:00 (CET) Sky Sport Austria 4" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : Real Sociedad vs Midtjylland 02/20/25 - 21:00 (CET) Sky Sport Austria 4
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium166/mono.m3u8
 
 #EXTINF:-1 tvg-id="a8aa7158-2b70-e525-bc67-f831cbc84759" tvg-name="UEFA Europa League : Real Sociedad vs Midtjylland 02/20/25 - 21:00 (CET) DAZN Eleven 3 Portugal" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : Real Sociedad vs Midtjylland 02/20/25 - 21:00 (CET) DAZN Eleven 3 Portugal
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
@@ -1240,6 +1300,12 @@ https://ddh2new.iosplayer.ru/ddh2/premium2/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://ddh2new.iosplayer.ru/ddh2/premium3/mono.m3u8
+
+#EXTINF:-1 tvg-id="76f2dbfe-cd29-a36f-2222-82e174daaebf" tvg-name="UEFA Europa League : Anderlecht vs Fenerbahçe 02/20/25 - 21:00 (CET) Canal+ Live 5 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : Anderlecht vs Fenerbahçe 02/20/25 - 21:00 (CET) Canal+ Live 5 France
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium170/mono.m3u8
 
 #EXTINF:-1 tvg-id="8f15ba58-fce6-8504-87f8-424daae65fc1" tvg-name="UEFA Europa League : Anderlecht vs Fenerbahçe 02/20/25 - 21:00 (CET) Movistar Liga de Campeones 4" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : Anderlecht vs Fenerbahçe 02/20/25 - 21:00 (CET) Movistar Liga de Campeones 4
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
@@ -1475,6 +1541,12 @@ https://windnew.iosplayer.ru/wind/premium458/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium107/mono.m3u8
 
+#EXTINF:-1 tvg-id="0d557b61-8a17-5dfe-bfc0-0dc804f64d86" tvg-name="UEFA Europa League : Viktoria Plzeň vs Ferencváros 02/20/25 - 21:00 (CET) Ziggo Sport 6 NL" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : Viktoria Plzeň vs Ferencváros 02/20/25 - 21:00 (CET) Ziggo Sport 6 NL
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium173/mono.m3u8
+
 #EXTINF:-1 tvg-id="39669fa7-5997-0043-f3b1-025bfff9f585" tvg-name="UEFA Europa League : Viktoria Plzeň vs Ferencváros 02/20/25 - 21:00 (CET) Digi Sport 2 Romania" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : Viktoria Plzeň vs Ferencváros 02/20/25 - 21:00 (CET) Digi Sport 2 Romania
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1547,6 +1619,12 @@ https://ddh2new.iosplayer.ru/ddh2/premium28/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium771/mono.m3u8
 
+#EXTINF:-1 tvg-id="e87466d7-ad66-a1bd-9367-6a024fdc6e1b" tvg-name="UEFA Conference League : Shamrock Rovers vs Molde 02/20/25 - 21:00 (CET) Movistar Liga de Campeones 9" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Conference League : Shamrock Rovers vs Molde 02/20/25 - 21:00 (CET) Movistar Liga de Campeones 9
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium167/mono.m3u8
+
 #EXTINF:-1 tvg-id="f1043785-658b-2523-6014-1de9f54ad0a2" tvg-name="UEFA Conference League : Shamrock Rovers vs Molde 02/20/25 - 21:00 (CET) Canal+ Live 15 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Conference League : Shamrock Rovers vs Molde 02/20/25 - 21:00 (CET) Canal+ Live 15 France
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1577,11 +1655,23 @@ https://dokko1new.iosplayer.ru/dokko1/premium624/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://windnew.iosplayer.ru/wind/premium260/mono.m3u8
 
+#EXTINF:-1 tvg-id="90e0f4a0-fbdd-3933-cbd5-8bf61efd76e9" tvg-name="UEFA Conference League : Panathinaikos vs Víkingur Reykjavík 02/20/25 - 21:00 (CET) Sky Sport Austria 6" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Conference League : Panathinaikos vs Víkingur Reykjavík 02/20/25 - 21:00 (CET) Sky Sport Austria 6
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium162/mono.m3u8
+
 #EXTINF:-1 tvg-id="8861fe18-58e2-5888-0a83-81bec85aca46" tvg-name="UEFA Conference League : Panathinaikos vs Víkingur Reykjavík 02/20/25 - 21:00 (CET) Canal+ Live 13 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Conference League : Panathinaikos vs Víkingur Reykjavík 02/20/25 - 21:00 (CET) Canal+ Live 13 France
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium110/mono.m3u8
+
+#EXTINF:-1 tvg-id="11a72609-5edd-bbbf-a959-76636daa2e68" tvg-name="UEFA Conference League : Panathinaikos vs Víkingur Reykjavík 02/20/25 - 21:00 (CET) Movistar Liga de Campeones 7" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Conference League : Panathinaikos vs Víkingur Reykjavík 02/20/25 - 21:00 (CET) Movistar Liga de Campeones 7
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium155/mono.m3u8
 
 #EXTINF:-1 tvg-id="033d2bce-575a-ed2c-a5c5-650c8186a576" tvg-name="UEFA Conference League : Panathinaikos vs Víkingur Reykjavík 02/20/25 - 21:00 (CET) Cytavision Sports 4" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Conference League : Panathinaikos vs Víkingur Reykjavík 02/20/25 - 21:00 (CET) Cytavision Sports 4
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
@@ -1625,6 +1715,12 @@ https://ddh2new.iosplayer.ru/ddh2/premium21/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://windnew.iosplayer.ru/wind/premium134/mono.m3u8
 
+#EXTINF:-1 tvg-id="7701f7bb-7bc6-7e1f-c64e-e6e389c5b31a" tvg-name="UEFA Conference League : Jagiellonia Białystok vs Bačka Topola 02/20/25 - 21:00 (CET) Movistar Liga de Campeones 10" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Conference League : Jagiellonia Białystok vs Bačka Topola 02/20/25 - 21:00 (CET) Movistar Liga de Campeones 10
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium169/mono.m3u8
+
 #EXTINF:-1 tvg-id="97ac6aa8-bb24-88a3-d363-57b66f81cf4f" tvg-name="UEFA Conference League : Jagiellonia Białystok vs Bačka Topola 02/20/25 - 21:00 (CET) Canal+ Live 10 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Conference League : Jagiellonia Białystok vs Bačka Topola 02/20/25 - 21:00 (CET) Canal+ Live 10 France
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1648,6 +1744,12 @@ https://windnew.iosplayer.ru/wind/premium580/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://ddh2new.iosplayer.ru/ddh2/premium8/mono.m3u8
+
+#EXTINF:-1 tvg-id="ab0e664e-9c3e-b2d5-91e1-aa9676f72255" tvg-name="UEFA Conference League : APOEL vs Celje 02/20/25 - 21:00 (CET) Sky Sport Austria 7" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Conference League : APOEL vs Celje 02/20/25 - 21:00 (CET) Sky Sport Austria 7
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium164/mono.m3u8
 
 #EXTINF:-1 tvg-id="7e8adee7-0758-e201-561e-16d16105716b" tvg-name="UEFA Conference League : APOEL vs Celje 02/20/25 - 21:00 (CET) DAZN Eleven 5 Portugal" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Conference League : APOEL vs Celje 02/20/25 - 21:00 (CET) DAZN Eleven 5 Portugal
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
@@ -2471,6 +2573,12 @@ https://zekonew.iosplayer.ru/zeko/premium145/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://ddh2new.iosplayer.ru/ddh2/premium23/mono.m3u8
 
+#EXTINF:-1 tvg-id="059dd55d-4b94-3e30-b303-f438fe2110d0" tvg-name="EuroBasket : Belgium vs Slovakia 02/20/25 - 20:15 (CET) RTVS Sport Slovakia HD" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", EuroBasket : Belgium vs Slovakia 02/20/25 - 20:15 (CET) RTVS Sport Slovakia HD
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium171/mono.m3u8
+
 #EXTINF:-1 tvg-id="6553867d-a881-bfd3-d47d-577bfa5a91ca" tvg-name="EuroBasket : Belgium vs Slovakia 02/20/25 - 20:15 (CET) Sport Klub 4 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", EuroBasket : Belgium vs Slovakia 02/20/25 - 20:15 (CET) Sport Klub 4 Serbia
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2734,12 +2842,6 @@ https://zekonew.iosplayer.ru/zeko/premium338/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium411/mono.m3u8
-
-#EXTINF:-1 tvg-id="d56ce8ea-1959-7b5a-a7a8-f6366a35df59" tvg-name="NBA : Boston Celtics vs Philadelphia 76ers 02/20/25 - 01:00 (CET) Sport TV2 Portugal" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Boston Celtics vs Philadelphia 76ers 02/20/25 - 01:00 (CET) Sport TV2 Portugal
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://dokko1new.iosplayer.ru/dokko1/premium74/mono.m3u8
 
 #EXTINF:-1 tvg-id="f065c817-687a-4850-9d9b-62317d45d8ef" tvg-name="NBA : Boston Celtics vs Philadelphia 76ers 02/20/25 - 01:00 (CET) Canal+ Sport Poland" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Boston Celtics vs Philadelphia 76ers 02/20/25 - 01:00 (CET) Canal+ Sport Poland
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
@@ -3340,6 +3442,12 @@ https://ddh2new.iosplayer.ru/ddh2/premium706/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://ddh2new.iosplayer.ru/ddh2/premium704/mono.m3u8
+
+#EXTINF:-1 tvg-id="f758dce2-0556-daea-67b0-32831d7c0098" tvg-name="Norway Eliteserien : Vaalerenga IF Oslo vs. Stavanger Oilers 02/20/25 - 19:00 (CET) TV2 Sport 1 Norway HD" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Norway Eliteserien : Vaalerenga IF Oslo vs. Stavanger Oilers 02/20/25 - 19:00 (CET) TV2 Sport 1 Norway HD
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium165/mono.m3u8
 
 #EXTINF:-1 tvg-id="f296d9f0-cd23-72c2-2bff-e17b532401fc" tvg-name="PWHL : Fleet vs. Charge 02/20/25 - 01:00 (CET) NESN USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", PWHL : Fleet vs. Charge 02/20/25 - 01:00 (CET) NESN USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
