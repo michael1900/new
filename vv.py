@@ -98,13 +98,124 @@ CHANNEL_FILTERS = [
     "BOING", "FRISBEE", "DEEJAY TV", "CARTOON NETWORK", "TG COM 24", "WARNER TV", "BOING PLUS", "27 TWENTY SEVEN", "TGCOM 24", "SKY UNO", "sky uno"
 ]
 
+CHANNEL_REMOVE = ["maria+vision", "telepace", "uninettuno", "lombardia", "cusano", "FM italia", "Juwelo", "kiss kiss", "qvc", "rete tv", "italia 3", "fishing"]
+
 CATEGORY_KEYWORDS = {
-    "SKY": ["sky cin", "tv 8", "fox", "comedy central", "animal planet", "nat geo", "tv8", "sky atl", "sky uno", "sky prima", "sky serie"],
+    "SKY": ["sky cin", "tv 8", "fox", "comedy central", "animal planet", "nat geo", "tv8", "sky atl", "sky uno", "sky prima", "sky serie", "sky arte", "sky docum", "sky natu"],
     "RAI": ["rai"],
     "MEDIASET": ["mediaset", "canale 5", "rete 4", "italia", "focus"],
     "DISCOVERY": ["discovery", "real time", "investigation", "top crime", "wwe", "hgtv", "nove"],
     "SPORT": ["sport", "dazn", "tennis", "moto", "f1", "golf"],
     "ALTRI": []
+}
+
+CHANNEL_LOGOS = {
+    "sky uno .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png",
+    "rai 1 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png",
+    "rai 2 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png",
+    "rai 3 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png",
+    "eurosport 1 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png",
+    "eurosport 2 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png",
+    "italia 1 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png",
+    "la 7 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png",
+    "la 7 d .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7d-it.png",
+    "rai sport .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png",
+    "rai premium .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png",
+    "animal planet .s": "https://static.wikia.nocookie.net/dreamlogos/images/c/cd/Animal_Planet_1996.svg/revision/latest/scale-to-width-down/703?cb=20190310235220",
+    "sky sports golf .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png",
+    "sky sport motogp .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png",
+    "sky sport tennis .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png",
+    "sky sport f1 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png",
+    "sky sport football .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png",
+    "sky sport uno .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png",
+    "sky sport arena .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png",
+    "sky cinema collection .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png",
+    "sky cinema uno .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png",
+    "sky cinema action .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png",
+    "sky cinema comedy .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png",
+    "sky cinema uno +24 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png",
+    "sky cinema romance .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png",
+    "sky cinema family .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png",
+    "sky cinema due +24 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png",
+    "sky cinema drama .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png",
+    "sky cinema suspense .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png",
+    "sky sport 24 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png",
+    "sky sport calcio .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png",
+    "sky calcio 1 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-1-alt-de.png",
+    "sky calcio 2 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-2-alt-de.png",
+    "sky calcio 3 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-3-alt-de.png",
+    "sky calcio 4 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-4-alt-de.png",
+    "sky calcio 5 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-5-alt-de.png",
+    "sky calcio 6 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-6-alt-de.png",
+    "sky calcio 7 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-7-alt-de.png",
+    "sky serie .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png",
+    "mediaset 20 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png",
+    "canale 5 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png",
+    "cine 34 mediaset .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png",
+    "discovery focus .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png",
+    "focus .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png",
+    "italia 2 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png",
+    "mediaset extra .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/mediaset-extra-it.png",
+    "mediaset 1 .c": "https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0",
+    "mediaset infinity+ 1 .c": "https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0",
+    "mediaset infinity+ 2 .c": "https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0",
+    "mediaset infinity+ 5 .c": "https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0",
+    "mediaset iris .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png",
+    "rete 4 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png",
+    "sport italia .c": "https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k",
+    "dazn .c": "https://static.wikia.nocookie.net/logopedia/images/4/49/DAZN_1.svg/revision/latest?cb=20220119155737",
+    "dazn 1 .c": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/1200px-DAZN_1_Logo.svg.png",
+    "dazn 2 .c": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/1200px-DAZN_2.svg.png",
+    "motortrend .c": "https://eu1-prod-images.disco-api.com/2023/06/14/4c82b579-60f2-3e18-825c-7a0cbb601538.png?bf=0&f=jpg&p=true&q=70&w=1920",
+    "sky sport max .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png",
+    "sky sport nba .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png",
+    "sky sport serie a .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png",
+    "sky sport f1 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png",
+    "sky super tennis .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png",
+    "super tennis .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png",
+    "tv 8 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png",
+    "sky primafila 1 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png",
+    "sky primafila 2 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png",
+    "sky primafila 3 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png",
+    "sky primafila 4 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png",
+    "sky primafila 5 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png",
+    "sky primafila 6 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png",
+    "sky primafila 7 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png",
+    "sky primafila 8 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png",
+    "sky primafila 9 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png",
+    "sky primafila 10 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png",
+    "sky primafila 11 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png",
+    "sky primafila 12 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png",
+    "sky primafila 13 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png",
+    "sky primafila 14 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png",
+    "sky primafila 15 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png",
+    "sky primafila 16 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png",
+    "sky primafila 17 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png",
+    "sky primafila 18 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png",
+    "sky cinema due .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png",
+    "sky atlantic .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png",
+    "nat geo .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png",
+    "discovery nove .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png",
+    "discovery channel .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png",
+    "real time .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png",
+    "rai 5 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png",
+    "rai 4 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png",
+    "hgtv .c": "https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS",
+    "top crime .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png",
+    "cielo .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png",
+    "dmax .c": "https://cdn.cookielaw.org/logos/50417659-aa29-4f7f-b59d-f6e887deed53/a32be519-de41-40f4-abed-d2934ba6751b/9a44af24-5ca6-4098-aa95-594755bd7b2d/dmax_logo.png",
+    "food network .c": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png",
+    "giallo .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png",
+    "history .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png",
+    "la 5 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png",
+    "la 7 d .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7d-it.png",
+    "sky arte .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png",
+    "sky documentaries .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png",
+    "sky nature .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png",
+    "warner tv .c": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Warner_TV_Italy.svg/1200px-Warner_TV_Italy.svg.png",
+    "fox .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png",
+    "nat geo wild .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png",
+    "comedy central .c": "https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj"
 }
 
 def get_category(channel_name):
@@ -207,6 +318,10 @@ def generate_m3u(channels_json, signature, filename="channels.m3u8"):
 
         for idx, item in enumerate(items, 1):
             name = item.get("name", "Unknown")
+            if any(remove_word.lower() in name.lower() for remove_word in CHANNEL_REMOVE):
+                print(f"Skipping channel {name} (in CHANNEL_REMOVE)")
+                continue
+
             if not any(filter_word.lower() in name.lower() for filter_word in CHANNEL_FILTERS):
                 logging.info(f"Excluded channel: {name}")
                 continue
@@ -226,7 +341,8 @@ def generate_m3u(channels_json, signature, filename="channels.m3u8"):
 
             category = get_category(name)
 
-            f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{tvg_id}" group-title="{category}",{tvg_id}\n')
+            logo_url = CHANNEL_LOGOS.get(name.lower(), "")  # Prende il logo se esiste, altrimenti stringa vuota
+            f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{tvg_id}" tvg-logo="{logo_url}" group-title="{category}",{tvg_id}\n')
             f.write('#EXTVLCOPT:http-user-agent=okhttp/4.11.0\n')
             f.write('#EXTVLCOPT:http-origin=https://vavoo.to/\n')
             f.write('#EXTVLCOPT:http-referrer=https://vavoo.to/\n')
