@@ -21368,3 +21368,539 @@
 2025-02-21 15:54:02,975 - Excluded channel: VIDEOLINA .c
 2025-02-21 15:54:02,975 - Excluded channel: VIDEOSTAR TV .c
 2025-02-21 15:54:02,975 - Excluded channel: VIDEOTOLENTINO .c
+2025-02-21 15:59:27,393 - Excluded channel: 111 TV .c
+2025-02-21 15:59:27,394 - Excluded channel: 12 TV PARMA .c
+2025-02-21 15:59:27,984 - Excluded channel: 51 RADIO TV .c
+2025-02-21 15:59:27,984 - Excluded channel: 70 80 HITS .c
+2025-02-21 15:59:27,984 - Excluded channel: A3 .c
+2025-02-21 15:59:27,984 - Excluded channel: ALTO ADIGE TV .c
+2025-02-21 15:59:28,195 - Excluded channel: ANTENNA 2 .c
+2025-02-21 15:59:28,196 - Excluded channel: ANTENNA SUD .c
+2025-02-21 15:59:28,196 - Excluded channel: ARANCIA TV .c
+2025-02-21 15:59:28,196 - Excluded channel: ARTE NETWORK .c
+2025-02-21 15:59:28,196 - Excluded channel: AURORA ARTE .c
+2025-02-21 15:59:28,196 - Excluded channel: BABY TV .c
+2025-02-21 15:59:28,196 - Excluded channel: BABY TV .s
+2025-02-21 15:59:28,196 - Excluded channel: BELLA RADIO TV .c
+2025-02-21 15:59:28,196 - Excluded channel: BELLLA & MONELLA TV .c
+2025-02-21 15:59:28,196 - Excluded channel: BERGAMO TV .c
+2025-02-21 15:59:28,196 - Excluded channel: BLOOMBERG TV 4K .c
+2025-02-21 15:59:28,196 - Excluded channel: BLOOMBERG TV .s
+2025-02-21 15:59:28,737 - Excluded channel: BYOBLU .c
+2025-02-21 15:59:28,738 - Excluded channel: CACCIA E PESCA .c
+2025-02-21 15:59:28,738 - Excluded channel: CACCIA .c
+2025-02-21 15:59:28,738 - Excluded channel: CAFE 24 .c
+2025-02-21 15:59:28,738 - Excluded channel: CAMERA DEI DEPUTATI .c
+2025-02-21 15:59:28,738 - Excluded channel: CANALE 2 .c
+2025-02-21 15:59:28,738 - Excluded channel: CANALE 21 EXTRA .s
+2025-02-21 15:59:29,110 - Excluded channel: CANALE 7 .c
+2025-02-21 15:59:29,110 - Excluded channel: CANALE 7 .s
+2025-02-21 15:59:29,110 - Excluded channel: CANALE 8 .c
+2025-02-21 15:59:29,110 - Excluded channel: CANALE 8 .s
+2025-02-21 15:59:29,110 - Excluded channel: CARINA TV .c
+2025-02-21 15:59:31,173 - Excluded channel: CLASSICA .c
+2025-02-21 15:59:31,533 - Excluded channel: COMPANY TV .c
+2025-02-21 15:59:31,534 - Excluded channel: COMPANY TV .s
+2025-02-21 15:59:31,534 - Excluded channel: CREMONA 1 .c
+2025-02-21 15:59:31,534 - Excluded channel: CRIME + INV .s
+2025-02-21 15:59:34,500 - Excluded channel: ELIVE TV BRESCIA .c
+2025-02-21 15:59:34,500 - Excluded channel: ENTELLA TV .c
+2025-02-21 15:59:34,501 - Excluded channel: EQU TV .c
+2025-02-21 15:59:34,501 - Excluded channel: ESPANSIONE TV .c
+2025-02-21 15:59:34,501 - Excluded channel: ESPERIA TV 18 .s
+2025-02-21 15:59:34,501 - Excluded channel: ESPERIA TV .c
+2025-02-21 15:59:34,501 - Excluded channel: ETV MARCHE .s
+2025-02-21 15:59:34,501 - Excluded channel: EURO INDIE MUSIC CHART TV .c
+2025-02-21 15:59:34,501 - Excluded channel: EURO TV .c
+2025-02-21 15:59:34,501 - Excluded channel: EURONEWS .c
+2025-02-21 15:59:35,179 - Excluded channel: FANO TV .s
+2025-02-21 15:59:35,180 - Excluded channel: FASHION TV .s
+2025-02-21 15:59:35,180 - Excluded channel: FASHIONTV .c
+2025-02-21 15:59:35,975 - Excluded channel: FRANCE 24 (EN) .s
+2025-02-21 15:59:36,526 - Excluded channel: GLOBUS TELEVISION .c
+2025-02-21 15:59:36,527 - Excluded channel: GOLD TV .c
+2025-02-21 15:59:36,527 - Excluded channel: GRANDUCATO .c
+2025-02-21 15:59:37,172 - Excluded channel: ICARO TV .c
+2025-02-21 15:59:37,172 - Excluded channel: ICARO TV .s
+2025-02-21 15:59:37,569 - Excluded channel: IUNIOR TV .c
+2025-02-21 15:59:38,734 - Excluded channel: LA C TV .c
+2025-02-21 15:59:38,735 - Excluded channel: LA NUOVA TV .c
+2025-02-21 15:59:38,735 - Excluded channel: LA TR3 .c
+2025-02-21 15:59:38,735 - Excluded channel: LAZIO TV .c
+2025-02-21 15:59:38,735 - Excluded channel: LIRA TV .c
+2025-02-21 15:59:38,735 - Excluded channel: LOVE FM TV .c
+2025-02-21 15:59:38,735 - Excluded channel: M2O .c
+2025-02-21 15:59:40,150 - Excluded channel: MILAN TV .c
+2025-02-21 15:59:40,460 - Excluded channel: MTV HITS .s
+2025-02-21 15:59:41,469 - Excluded channel: OL3 RADIO .c
+2025-02-21 15:59:41,469 - Excluded channel: ONDA NOVARA TV .c
+2025-02-21 15:59:41,469 - Excluded channel: ONDA TV .c
+2025-02-21 15:59:41,469 - Excluded channel: ONDA TV .s
+2025-02-21 15:59:41,469 - Excluded channel: ORLER TV .c
+2025-02-21 15:59:41,469 - Excluded channel: PADRE PIO TV .c
+2025-02-21 15:59:41,469 - Excluded channel: PEER TV ALTO ADIGE .c
+2025-02-21 15:59:41,469 - Excluded channel: PESCA E CACCIA .s
+2025-02-21 15:59:41,469 - Excluded channel: PESCA .c
+2025-02-21 15:59:41,620 - Excluded channel: PRIMA TV .c
+2025-02-21 15:59:41,620 - Excluded channel: PRIMA TV .s
+2025-02-21 15:59:41,620 - Excluded channel: PRIMO CANALE .s
+2025-02-21 15:59:41,620 - Excluded channel: PRIMOCANALE .c
+2025-02-21 15:59:41,620 - Excluded channel: QUADRIFOGLIO TV .c
+2025-02-21 15:59:41,620 - Excluded channel: QUARTA RETE .s
+2025-02-21 15:59:41,620 - Excluded channel: RADIO 51 .s
+2025-02-21 15:59:41,621 - Excluded channel: RADIO CAPITAL .s
+2025-02-21 15:59:41,621 - Excluded channel: RADIO FRECCIA .s
+2025-02-21 15:59:41,621 - Excluded channel: RADIONORBA TV .c
+2025-02-21 15:59:47,784 - Excluded channel: RDS SOCIAL TV .c
+2025-02-21 15:59:47,785 - Excluded channel: RDS SOCIAL .s
+2025-02-21 15:59:48,046 - Excluded channel: REGGIO TV .c
+2025-02-21 15:59:48,046 - Excluded channel: REI TV .c
+2025-02-21 15:59:48,302 - Excluded channel: RETE ORO .c
+2025-02-21 15:59:48,302 - Excluded channel: RETE VENETA .c
+2025-02-21 15:59:48,302 - Excluded channel: RETEBIELLA TV .c
+2025-02-21 15:59:48,302 - Excluded channel: RMC 101 .c
+2025-02-21 15:59:49,075 - Excluded channel: RTC TELECALABRIA .c
+2025-02-21 15:59:49,075 - Excluded channel: RTL 102.5 .c
+2025-02-21 15:59:49,075 - Excluded channel: RTL 102.5 .s
+2025-02-21 15:59:49,075 - Excluded channel: RTP (RETE TELEVISIVA) .c
+2025-02-21 15:59:49,075 - Excluded channel: RTR 99 TV .c
+2025-02-21 15:59:49,075 - Excluded channel: RTTR TV .s
+2025-02-21 15:59:49,075 - Excluded channel: RTTR .c
+2025-02-21 15:59:49,075 - Excluded channel: RTV SAN MARINO SPORT .s
+2025-02-21 15:59:49,075 - Excluded channel: RTV SAN MARINO .s
+2025-02-21 15:59:49,075 - Excluded channel: RTV SPORT .c
+2025-02-21 15:59:49,075 - Excluded channel: SENATO TV .c
+2025-02-21 15:59:49,075 - Excluded channel: SENATO TV .s
+2025-02-21 16:00:02,669 - Excluded channel: 111 TV .c
+2025-02-21 16:00:02,669 - Excluded channel: 12 TV PARMA .c
+2025-02-21 16:00:03,126 - Excluded channel: 51 RADIO TV .c
+2025-02-21 16:00:03,127 - Excluded channel: 70 80 HITS .c
+2025-02-21 16:00:03,127 - Excluded channel: A3 .c
+2025-02-21 16:00:03,127 - Excluded channel: ALTO ADIGE TV .c
+2025-02-21 16:00:03,272 - Excluded channel: ANTENNA 2 .c
+2025-02-21 16:00:03,272 - Excluded channel: ANTENNA SUD .c
+2025-02-21 16:00:03,272 - Excluded channel: ARANCIA TV .c
+2025-02-21 16:00:03,272 - Excluded channel: ARTE NETWORK .c
+2025-02-21 16:00:03,272 - Excluded channel: AURORA ARTE .c
+2025-02-21 16:00:03,272 - Excluded channel: BABY TV .c
+2025-02-21 16:00:03,272 - Excluded channel: BABY TV .s
+2025-02-21 16:00:03,272 - Excluded channel: BELLA RADIO TV .c
+2025-02-21 16:00:03,272 - Excluded channel: BELLLA & MONELLA TV .c
+2025-02-21 16:00:03,272 - Excluded channel: BERGAMO TV .c
+2025-02-21 16:00:03,272 - Excluded channel: BLOOMBERG TV 4K .c
+2025-02-21 16:00:03,272 - Excluded channel: BLOOMBERG TV .s
+2025-02-21 16:00:03,782 - Excluded channel: BYOBLU .c
+2025-02-21 16:00:03,782 - Excluded channel: CACCIA E PESCA .c
+2025-02-21 16:00:03,782 - Excluded channel: CACCIA .c
+2025-02-21 16:00:03,782 - Excluded channel: CAFE 24 .c
+2025-02-21 16:00:03,782 - Excluded channel: CAMERA DEI DEPUTATI .c
+2025-02-21 16:00:03,783 - Excluded channel: CANALE 2 .c
+2025-02-21 16:00:03,783 - Excluded channel: CANALE 21 EXTRA .s
+2025-02-21 16:00:04,038 - Excluded channel: CANALE 7 .c
+2025-02-21 16:00:04,039 - Excluded channel: CANALE 7 .s
+2025-02-21 16:00:04,039 - Excluded channel: CANALE 8 .c
+2025-02-21 16:00:04,039 - Excluded channel: CANALE 8 .s
+2025-02-21 16:00:04,039 - Excluded channel: CARINA TV .c
+2025-02-21 16:00:04,242 - Excluded channel: STAR COMEDY .c
+2025-02-21 16:00:04,242 - Excluded channel: STAR LIFE .c
+2025-02-21 16:00:04,242 - Excluded channel: STEREO 5 TV .c
+2025-02-21 16:00:04,242 - Excluded channel: SUPER J .c
+2025-02-21 16:00:04,543 - Excluded channel: SUPER TV ARISTANIS .c
+2025-02-21 16:00:04,544 - Excluded channel: SUPER TV BRESCIA .c
+2025-02-21 16:00:04,687 - Excluded channel: TELE ABRUZZO .c
+2025-02-21 16:00:04,688 - Excluded channel: TELE CHIARA .c
+2025-02-21 16:00:04,688 - Excluded channel: TELE CHIARA .s
+2025-02-21 16:00:04,688 - Excluded channel: TELE FRIULI .s
+2025-02-21 16:00:04,688 - Excluded channel: TELE LIGURIA SUD .c
+2025-02-21 16:00:04,688 - Excluded channel: TELE MIA .c
+2025-02-21 16:00:04,688 - Excluded channel: TELE PAVIA .c
+2025-02-21 16:00:04,688 - Excluded channel: TELE RADIO SCIACCA .c
+2025-02-21 16:00:04,688 - Excluded channel: TELE ROMAGNA .s
+2025-02-21 16:00:04,688 - Excluded channel: TELE SIRIO .s
+2025-02-21 16:00:04,688 - Excluded channel: TELE TRICOLORE .s
+2025-02-21 16:00:04,688 - Excluded channel: TELE TUSCIASABINA 2000 .c
+2025-02-21 16:00:04,688 - Excluded channel: TELE VENEZIA .s
+2025-02-21 16:00:04,688 - Excluded channel: TELEA TV .c
+2025-02-21 16:00:04,688 - Excluded channel: TELEARENA .c
+2025-02-21 16:00:04,688 - Excluded channel: TELEARTE .c
+2025-02-21 16:00:04,688 - Excluded channel: TELEBARI .c
+2025-02-21 16:00:04,688 - Excluded channel: TELEBOARIO .c
+2025-02-21 16:00:04,688 - Excluded channel: TELECITTA .c
+2025-02-21 16:00:04,688 - Excluded channel: TELECOLOR .c
+2025-02-21 16:00:04,688 - Excluded channel: TELEMANTOVA .c
+2025-02-21 16:00:04,688 - Excluded channel: TELEMISTRETTA .c
+2025-02-21 16:00:04,688 - Excluded channel: TELEMOLISE .c
+2025-02-21 16:00:04,688 - Excluded channel: TELENORD .c
+2025-02-21 16:00:04,688 - Excluded channel: TELEQUATTRO .c
+2025-02-21 16:00:04,689 - Excluded channel: TELERAMA .c
+2025-02-21 16:00:04,689 - Excluded channel: TELEROMAGNA .c
+2025-02-21 16:00:04,689 - Excluded channel: TELETRICOLORE .c
+2025-02-21 16:00:04,689 - Excluded channel: TELETUBBIES .c
+2025-02-21 16:00:04,689 - Excluded channel: TELEVENEZIA .c
+2025-02-21 16:00:04,689 - Excluded channel: TELEVIDEO AGRIGENTO .c
+2025-02-21 16:00:05,010 - Excluded channel: TG NORBA 24 .c
+2025-02-21 16:00:05,011 - Excluded channel: TG NORBA 24 .s
+2025-02-21 16:00:05,470 - Excluded channel: TOP CALCIO 24 .c
+2025-02-21 16:00:05,725 - Excluded channel: CLASSICA .c
+2025-02-21 16:00:05,793 - Excluded channel: TRENTINO TV .c
+2025-02-21 16:00:05,794 - Excluded channel: TRENTINO TV .s
+2025-02-21 16:00:05,794 - Excluded channel: TRM H24 .c
+2025-02-21 16:00:05,794 - Excluded channel: TRSPORT .c
+2025-02-21 16:00:05,794 - Excluded channel: TT TELETUTTO .s
+2025-02-21 16:00:05,794 - Excluded channel: TV 2000 .c
+2025-02-21 16:00:05,794 - Excluded channel: TV 33 .c
+2025-02-21 16:00:06,030 - Excluded channel: COMPANY TV .c
+2025-02-21 16:00:06,030 - Excluded channel: COMPANY TV .s
+2025-02-21 16:00:06,030 - Excluded channel: CREMONA 1 .c
+2025-02-21 16:00:06,030 - Excluded channel: CRIME + INV .s
+2025-02-21 16:00:06,118 - Excluded channel: TV QUI (MODENA) .s
+2025-02-21 16:00:06,118 - Excluded channel: TV QUI .c
+2025-02-21 16:00:06,118 - Excluded channel: TV YES .c
+2025-02-21 16:00:06,118 - Excluded channel: TV2000 .s
+2025-02-21 16:00:06,119 - Excluded channel: TV7 NEWS .c
+2025-02-21 16:00:06,119 - Excluded channel: TVA VICENZA .c
+2025-02-21 16:00:06,119 - Excluded channel: TVA VICENZA .s
+2025-02-21 16:00:06,119 - Excluded channel: TVRS .c
+2025-02-21 16:00:06,119 - Excluded channel: UMBRIA TV .c
+2025-02-21 16:00:06,119 - Excluded channel: UMBRIA TV .s
+2025-02-21 16:00:06,119 - Excluded channel: VCO AZZURRA TV .c
+2025-02-21 16:00:06,119 - Excluded channel: VERA TV .c
+2025-02-21 16:00:06,119 - Excluded channel: VERA TV .s
+2025-02-21 16:00:06,119 - Excluded channel: VIDEO NOVARA .c
+2025-02-21 16:00:06,119 - Excluded channel: VIDEOLINA .c
+2025-02-21 16:00:06,119 - Excluded channel: VIDEOSTAR TV .c
+2025-02-21 16:00:06,119 - Excluded channel: VIDEOTOLENTINO .c
+2025-02-21 16:00:07,229 - Excluded channel: 111 TV .c
+2025-02-21 16:00:07,229 - Excluded channel: 12 TV PARMA .c
+2025-02-21 16:00:07,736 - Excluded channel: 51 RADIO TV .c
+2025-02-21 16:00:07,736 - Excluded channel: 70 80 HITS .c
+2025-02-21 16:00:07,737 - Excluded channel: A3 .c
+2025-02-21 16:00:07,737 - Excluded channel: ALTO ADIGE TV .c
+2025-02-21 16:00:07,869 - Excluded channel: ANTENNA 2 .c
+2025-02-21 16:00:07,869 - Excluded channel: ANTENNA SUD .c
+2025-02-21 16:00:07,869 - Excluded channel: ARANCIA TV .c
+2025-02-21 16:00:07,869 - Excluded channel: ARTE NETWORK .c
+2025-02-21 16:00:07,869 - Excluded channel: AURORA ARTE .c
+2025-02-21 16:00:07,869 - Excluded channel: BABY TV .c
+2025-02-21 16:00:07,869 - Excluded channel: BABY TV .s
+2025-02-21 16:00:07,869 - Excluded channel: BELLA RADIO TV .c
+2025-02-21 16:00:07,869 - Excluded channel: BELLLA & MONELLA TV .c
+2025-02-21 16:00:07,869 - Excluded channel: BERGAMO TV .c
+2025-02-21 16:00:07,869 - Excluded channel: BLOOMBERG TV 4K .c
+2025-02-21 16:00:07,869 - Excluded channel: BLOOMBERG TV .s
+2025-02-21 16:00:08,402 - Excluded channel: BYOBLU .c
+2025-02-21 16:00:08,402 - Excluded channel: CACCIA E PESCA .c
+2025-02-21 16:00:08,402 - Excluded channel: CACCIA .c
+2025-02-21 16:00:08,402 - Excluded channel: CAFE 24 .c
+2025-02-21 16:00:08,402 - Excluded channel: CAMERA DEI DEPUTATI .c
+2025-02-21 16:00:08,403 - Excluded channel: CANALE 2 .c
+2025-02-21 16:00:08,403 - Excluded channel: CANALE 21 EXTRA .s
+2025-02-21 16:00:08,828 - Excluded channel: CANALE 7 .c
+2025-02-21 16:00:08,828 - Excluded channel: CANALE 7 .s
+2025-02-21 16:00:08,828 - Excluded channel: CANALE 8 .c
+2025-02-21 16:00:08,828 - Excluded channel: CANALE 8 .s
+2025-02-21 16:00:08,828 - Excluded channel: CARINA TV .c
+2025-02-21 16:00:08,883 - Excluded channel: ELIVE TV BRESCIA .c
+2025-02-21 16:00:08,883 - Excluded channel: ENTELLA TV .c
+2025-02-21 16:00:08,883 - Excluded channel: EQU TV .c
+2025-02-21 16:00:08,883 - Excluded channel: ESPANSIONE TV .c
+2025-02-21 16:00:08,883 - Excluded channel: ESPERIA TV 18 .s
+2025-02-21 16:00:08,883 - Excluded channel: ESPERIA TV .c
+2025-02-21 16:00:08,883 - Excluded channel: ETV MARCHE .s
+2025-02-21 16:00:08,883 - Excluded channel: EURO INDIE MUSIC CHART TV .c
+2025-02-21 16:00:08,883 - Excluded channel: EURO TV .c
+2025-02-21 16:00:08,883 - Excluded channel: EURONEWS .c
+2025-02-21 16:00:09,999 - Excluded channel: FANO TV .s
+2025-02-21 16:00:10,000 - Excluded channel: FASHION TV .s
+2025-02-21 16:00:10,000 - Excluded channel: FASHIONTV .c
+2025-02-21 16:00:10,416 - Excluded channel: CLASSICA .c
+2025-02-21 16:00:10,680 - Excluded channel: COMPANY TV .c
+2025-02-21 16:00:10,680 - Excluded channel: COMPANY TV .s
+2025-02-21 16:00:10,680 - Excluded channel: CREMONA 1 .c
+2025-02-21 16:00:10,680 - Excluded channel: CRIME + INV .s
+2025-02-21 16:00:10,889 - Excluded channel: FRANCE 24 (EN) .s
+2025-02-21 16:00:11,748 - Excluded channel: GLOBUS TELEVISION .c
+2025-02-21 16:00:11,749 - Excluded channel: GOLD TV .c
+2025-02-21 16:00:11,749 - Excluded channel: GRANDUCATO .c
+2025-02-21 16:00:12,493 - Excluded channel: ICARO TV .c
+2025-02-21 16:00:12,493 - Excluded channel: ICARO TV .s
+2025-02-21 16:00:12,931 - Excluded channel: IUNIOR TV .c
+2025-02-21 16:00:13,883 - Excluded channel: ELIVE TV BRESCIA .c
+2025-02-21 16:00:13,883 - Excluded channel: ENTELLA TV .c
+2025-02-21 16:00:13,883 - Excluded channel: EQU TV .c
+2025-02-21 16:00:13,883 - Excluded channel: ESPANSIONE TV .c
+2025-02-21 16:00:13,883 - Excluded channel: ESPERIA TV 18 .s
+2025-02-21 16:00:13,883 - Excluded channel: ESPERIA TV .c
+2025-02-21 16:00:13,883 - Excluded channel: ETV MARCHE .s
+2025-02-21 16:00:13,883 - Excluded channel: EURO INDIE MUSIC CHART TV .c
+2025-02-21 16:00:13,883 - Excluded channel: EURO TV .c
+2025-02-21 16:00:13,883 - Excluded channel: EURONEWS .c
+2025-02-21 16:00:14,296 - Excluded channel: LA C TV .c
+2025-02-21 16:00:14,296 - Excluded channel: LA NUOVA TV .c
+2025-02-21 16:00:14,296 - Excluded channel: LA TR3 .c
+2025-02-21 16:00:14,296 - Excluded channel: LAZIO TV .c
+2025-02-21 16:00:14,296 - Excluded channel: LIRA TV .c
+2025-02-21 16:00:14,296 - Excluded channel: LOVE FM TV .c
+2025-02-21 16:00:14,296 - Excluded channel: M2O .c
+2025-02-21 16:00:14,557 - Excluded channel: FANO TV .s
+2025-02-21 16:00:14,557 - Excluded channel: FASHION TV .s
+2025-02-21 16:00:14,557 - Excluded channel: FASHIONTV .c
+2025-02-21 16:00:16,081 - Excluded channel: FRANCE 24 (EN) .s
+2025-02-21 16:00:16,636 - Excluded channel: MILAN TV .c
+2025-02-21 16:00:16,999 - Excluded channel: MTV HITS .s
+2025-02-21 16:00:17,004 - Excluded channel: GLOBUS TELEVISION .c
+2025-02-21 16:00:17,005 - Excluded channel: GOLD TV .c
+2025-02-21 16:00:17,005 - Excluded channel: GRANDUCATO .c
+2025-02-21 16:00:17,723 - Excluded channel: ICARO TV .c
+2025-02-21 16:00:17,723 - Excluded channel: ICARO TV .s
+2025-02-21 16:00:18,100 - Excluded channel: OL3 RADIO .c
+2025-02-21 16:00:18,100 - Excluded channel: ONDA NOVARA TV .c
+2025-02-21 16:00:18,100 - Excluded channel: ONDA TV .c
+2025-02-21 16:00:18,100 - Excluded channel: ONDA TV .s
+2025-02-21 16:00:18,100 - Excluded channel: ORLER TV .c
+2025-02-21 16:00:18,100 - Excluded channel: PADRE PIO TV .c
+2025-02-21 16:00:18,100 - Excluded channel: PEER TV ALTO ADIGE .c
+2025-02-21 16:00:18,100 - Excluded channel: PESCA E CACCIA .s
+2025-02-21 16:00:18,100 - Excluded channel: PESCA .c
+2025-02-21 16:00:18,325 - Excluded channel: IUNIOR TV .c
+2025-02-21 16:00:18,333 - Excluded channel: PRIMA TV .c
+2025-02-21 16:00:18,334 - Excluded channel: PRIMA TV .s
+2025-02-21 16:00:18,334 - Excluded channel: PRIMO CANALE .s
+2025-02-21 16:00:18,334 - Excluded channel: PRIMOCANALE .c
+2025-02-21 16:00:18,334 - Excluded channel: QUADRIFOGLIO TV .c
+2025-02-21 16:00:18,334 - Excluded channel: QUARTA RETE .s
+2025-02-21 16:00:18,334 - Excluded channel: RADIO 51 .s
+2025-02-21 16:00:18,334 - Excluded channel: RADIO CAPITAL .s
+2025-02-21 16:00:18,334 - Excluded channel: RADIO FRECCIA .s
+2025-02-21 16:00:18,334 - Excluded channel: RADIONORBA TV .c
+2025-02-21 16:00:20,280 - Excluded channel: LA C TV .c
+2025-02-21 16:00:20,281 - Excluded channel: LA NUOVA TV .c
+2025-02-21 16:00:20,281 - Excluded channel: LA TR3 .c
+2025-02-21 16:00:20,281 - Excluded channel: LAZIO TV .c
+2025-02-21 16:00:20,281 - Excluded channel: LIRA TV .c
+2025-02-21 16:00:20,281 - Excluded channel: LOVE FM TV .c
+2025-02-21 16:00:20,281 - Excluded channel: M2O .c
+2025-02-21 16:00:22,086 - Excluded channel: MILAN TV .c
+2025-02-21 16:00:22,344 - Excluded channel: MTV HITS .s
+2025-02-21 16:00:23,463 - Excluded channel: OL3 RADIO .c
+2025-02-21 16:00:23,464 - Excluded channel: ONDA NOVARA TV .c
+2025-02-21 16:00:23,464 - Excluded channel: ONDA TV .c
+2025-02-21 16:00:23,464 - Excluded channel: ONDA TV .s
+2025-02-21 16:00:23,464 - Excluded channel: ORLER TV .c
+2025-02-21 16:00:23,464 - Excluded channel: PADRE PIO TV .c
+2025-02-21 16:00:23,464 - Excluded channel: PEER TV ALTO ADIGE .c
+2025-02-21 16:00:23,464 - Excluded channel: PESCA E CACCIA .s
+2025-02-21 16:00:23,464 - Excluded channel: PESCA .c
+2025-02-21 16:00:23,608 - Excluded channel: PRIMA TV .c
+2025-02-21 16:00:23,608 - Excluded channel: PRIMA TV .s
+2025-02-21 16:00:23,609 - Excluded channel: PRIMO CANALE .s
+2025-02-21 16:00:23,609 - Excluded channel: PRIMOCANALE .c
+2025-02-21 16:00:23,609 - Excluded channel: QUADRIFOGLIO TV .c
+2025-02-21 16:00:23,609 - Excluded channel: QUARTA RETE .s
+2025-02-21 16:00:23,609 - Excluded channel: RADIO 51 .s
+2025-02-21 16:00:23,609 - Excluded channel: RADIO CAPITAL .s
+2025-02-21 16:00:23,609 - Excluded channel: RADIO FRECCIA .s
+2025-02-21 16:00:23,609 - Excluded channel: RADIONORBA TV .c
+2025-02-21 16:00:25,322 - Excluded channel: RDS SOCIAL TV .c
+2025-02-21 16:00:25,322 - Excluded channel: RDS SOCIAL .s
+2025-02-21 16:00:25,657 - Excluded channel: REGGIO TV .c
+2025-02-21 16:00:25,658 - Excluded channel: REI TV .c
+2025-02-21 16:00:25,993 - Excluded channel: RETE ORO .c
+2025-02-21 16:00:25,994 - Excluded channel: RETE VENETA .c
+2025-02-21 16:00:25,994 - Excluded channel: RETEBIELLA TV .c
+2025-02-21 16:00:25,994 - Excluded channel: RMC 101 .c
+2025-02-21 16:00:26,928 - Excluded channel: RTC TELECALABRIA .c
+2025-02-21 16:00:26,928 - Excluded channel: RTL 102.5 .c
+2025-02-21 16:00:26,928 - Excluded channel: RTL 102.5 .s
+2025-02-21 16:00:26,928 - Excluded channel: RTP (RETE TELEVISIVA) .c
+2025-02-21 16:00:26,928 - Excluded channel: RTR 99 TV .c
+2025-02-21 16:00:26,928 - Excluded channel: RTTR TV .s
+2025-02-21 16:00:26,928 - Excluded channel: RTTR .c
+2025-02-21 16:00:26,928 - Excluded channel: RTV SAN MARINO SPORT .s
+2025-02-21 16:00:26,928 - Excluded channel: RTV SAN MARINO .s
+2025-02-21 16:00:26,928 - Excluded channel: RTV SPORT .c
+2025-02-21 16:00:26,928 - Excluded channel: SENATO TV .c
+2025-02-21 16:00:26,928 - Excluded channel: SENATO TV .s
+2025-02-21 16:00:30,561 - Excluded channel: RDS SOCIAL TV .c
+2025-02-21 16:00:30,561 - Excluded channel: RDS SOCIAL .s
+2025-02-21 16:00:31,211 - Excluded channel: REGGIO TV .c
+2025-02-21 16:00:31,212 - Excluded channel: REI TV .c
+2025-02-21 16:00:31,536 - Excluded channel: RETE ORO .c
+2025-02-21 16:00:31,537 - Excluded channel: RETE VENETA .c
+2025-02-21 16:00:31,537 - Excluded channel: RETEBIELLA TV .c
+2025-02-21 16:00:31,537 - Excluded channel: RMC 101 .c
+2025-02-21 16:00:32,175 - Excluded channel: RTC TELECALABRIA .c
+2025-02-21 16:00:32,175 - Excluded channel: RTL 102.5 .c
+2025-02-21 16:00:32,175 - Excluded channel: RTL 102.5 .s
+2025-02-21 16:00:32,175 - Excluded channel: RTP (RETE TELEVISIVA) .c
+2025-02-21 16:00:32,175 - Excluded channel: RTR 99 TV .c
+2025-02-21 16:00:32,175 - Excluded channel: RTTR TV .s
+2025-02-21 16:00:32,175 - Excluded channel: RTTR .c
+2025-02-21 16:00:32,175 - Excluded channel: RTV SAN MARINO SPORT .s
+2025-02-21 16:00:32,175 - Excluded channel: RTV SAN MARINO .s
+2025-02-21 16:00:32,175 - Excluded channel: RTV SPORT .c
+2025-02-21 16:00:32,175 - Excluded channel: SENATO TV .c
+2025-02-21 16:00:32,175 - Excluded channel: SENATO TV .s
+2025-02-21 16:00:43,342 - Excluded channel: STAR COMEDY .c
+2025-02-21 16:00:43,342 - Excluded channel: STAR LIFE .c
+2025-02-21 16:00:43,342 - Excluded channel: STEREO 5 TV .c
+2025-02-21 16:00:43,342 - Excluded channel: SUPER J .c
+2025-02-21 16:00:43,720 - Excluded channel: SUPER TV ARISTANIS .c
+2025-02-21 16:00:43,721 - Excluded channel: SUPER TV BRESCIA .c
+2025-02-21 16:00:43,858 - Excluded channel: TELE ABRUZZO .c
+2025-02-21 16:00:43,858 - Excluded channel: TELE CHIARA .c
+2025-02-21 16:00:43,858 - Excluded channel: TELE CHIARA .s
+2025-02-21 16:00:43,858 - Excluded channel: TELE FRIULI .s
+2025-02-21 16:00:43,858 - Excluded channel: TELE LIGURIA SUD .c
+2025-02-21 16:00:43,858 - Excluded channel: TELE MIA .c
+2025-02-21 16:00:43,858 - Excluded channel: TELE PAVIA .c
+2025-02-21 16:00:43,858 - Excluded channel: TELE RADIO SCIACCA .c
+2025-02-21 16:00:43,858 - Excluded channel: TELE ROMAGNA .s
+2025-02-21 16:00:43,858 - Excluded channel: TELE SIRIO .s
+2025-02-21 16:00:43,858 - Excluded channel: TELE TRICOLORE .s
+2025-02-21 16:00:43,859 - Excluded channel: TELE TUSCIASABINA 2000 .c
+2025-02-21 16:00:43,859 - Excluded channel: TELE VENEZIA .s
+2025-02-21 16:00:43,859 - Excluded channel: TELEA TV .c
+2025-02-21 16:00:43,859 - Excluded channel: TELEARENA .c
+2025-02-21 16:00:43,859 - Excluded channel: TELEARTE .c
+2025-02-21 16:00:43,859 - Excluded channel: TELEBARI .c
+2025-02-21 16:00:43,859 - Excluded channel: TELEBOARIO .c
+2025-02-21 16:00:43,859 - Excluded channel: TELECITTA .c
+2025-02-21 16:00:43,859 - Excluded channel: TELECOLOR .c
+2025-02-21 16:00:43,859 - Excluded channel: TELEMANTOVA .c
+2025-02-21 16:00:43,859 - Excluded channel: TELEMISTRETTA .c
+2025-02-21 16:00:43,859 - Excluded channel: TELEMOLISE .c
+2025-02-21 16:00:43,859 - Excluded channel: TELENORD .c
+2025-02-21 16:00:43,859 - Excluded channel: TELEQUATTRO .c
+2025-02-21 16:00:43,859 - Excluded channel: TELERAMA .c
+2025-02-21 16:00:43,859 - Excluded channel: TELEROMAGNA .c
+2025-02-21 16:00:43,859 - Excluded channel: TELETRICOLORE .c
+2025-02-21 16:00:43,859 - Excluded channel: TELETUBBIES .c
+2025-02-21 16:00:43,859 - Excluded channel: TELEVENEZIA .c
+2025-02-21 16:00:43,859 - Excluded channel: TELEVIDEO AGRIGENTO .c
+2025-02-21 16:00:44,185 - Excluded channel: TG NORBA 24 .c
+2025-02-21 16:00:44,186 - Excluded channel: TG NORBA 24 .s
+2025-02-21 16:00:44,439 - Excluded channel: TOP CALCIO 24 .c
+2025-02-21 16:00:44,829 - Excluded channel: TRENTINO TV .c
+2025-02-21 16:00:44,829 - Excluded channel: TRENTINO TV .s
+2025-02-21 16:00:44,830 - Excluded channel: TRM H24 .c
+2025-02-21 16:00:44,830 - Excluded channel: TRSPORT .c
+2025-02-21 16:00:44,830 - Excluded channel: TT TELETUTTO .s
+2025-02-21 16:00:44,830 - Excluded channel: TV 2000 .c
+2025-02-21 16:00:44,830 - Excluded channel: TV 33 .c
+2025-02-21 16:00:45,158 - Excluded channel: TV QUI (MODENA) .s
+2025-02-21 16:00:45,158 - Excluded channel: TV QUI .c
+2025-02-21 16:00:45,158 - Excluded channel: TV YES .c
+2025-02-21 16:00:45,158 - Excluded channel: TV2000 .s
+2025-02-21 16:00:45,158 - Excluded channel: TV7 NEWS .c
+2025-02-21 16:00:45,158 - Excluded channel: TVA VICENZA .c
+2025-02-21 16:00:45,158 - Excluded channel: TVA VICENZA .s
+2025-02-21 16:00:45,158 - Excluded channel: TVRS .c
+2025-02-21 16:00:45,158 - Excluded channel: UMBRIA TV .c
+2025-02-21 16:00:45,158 - Excluded channel: UMBRIA TV .s
+2025-02-21 16:00:45,158 - Excluded channel: VCO AZZURRA TV .c
+2025-02-21 16:00:45,158 - Excluded channel: VERA TV .c
+2025-02-21 16:00:45,158 - Excluded channel: VERA TV .s
+2025-02-21 16:00:45,158 - Excluded channel: VIDEO NOVARA .c
+2025-02-21 16:00:45,158 - Excluded channel: VIDEOLINA .c
+2025-02-21 16:00:45,158 - Excluded channel: VIDEOSTAR TV .c
+2025-02-21 16:00:45,159 - Excluded channel: VIDEOTOLENTINO .c
+2025-02-21 16:00:46,087 - Excluded channel: 111 TV .c
+2025-02-21 16:00:46,087 - Excluded channel: 12 TV PARMA .c
+2025-02-21 16:00:46,533 - Excluded channel: 51 RADIO TV .c
+2025-02-21 16:00:46,533 - Excluded channel: 70 80 HITS .c
+2025-02-21 16:00:46,533 - Excluded channel: A3 .c
+2025-02-21 16:00:46,533 - Excluded channel: ALTO ADIGE TV .c
+2025-02-21 16:00:46,659 - Excluded channel: ANTENNA 2 .c
+2025-02-21 16:00:46,659 - Excluded channel: ANTENNA SUD .c
+2025-02-21 16:00:46,659 - Excluded channel: ARANCIA TV .c
+2025-02-21 16:00:46,659 - Excluded channel: ARTE NETWORK .c
+2025-02-21 16:00:46,659 - Excluded channel: AURORA ARTE .c
+2025-02-21 16:00:46,659 - Excluded channel: BABY TV .c
+2025-02-21 16:00:46,659 - Excluded channel: BABY TV .s
+2025-02-21 16:00:46,659 - Excluded channel: BELLA RADIO TV .c
+2025-02-21 16:00:46,659 - Excluded channel: BELLLA & MONELLA TV .c
+2025-02-21 16:00:46,659 - Excluded channel: BERGAMO TV .c
+2025-02-21 16:00:46,660 - Excluded channel: BLOOMBERG TV 4K .c
+2025-02-21 16:00:46,660 - Excluded channel: BLOOMBERG TV .s
+2025-02-21 16:00:47,552 - Excluded channel: BYOBLU .c
+2025-02-21 16:00:47,553 - Excluded channel: CACCIA E PESCA .c
+2025-02-21 16:00:47,553 - Excluded channel: CACCIA .c
+2025-02-21 16:00:47,553 - Excluded channel: CAFE 24 .c
+2025-02-21 16:00:47,553 - Excluded channel: CAMERA DEI DEPUTATI .c
+2025-02-21 16:00:47,553 - Excluded channel: CANALE 2 .c
+2025-02-21 16:00:47,553 - Excluded channel: CANALE 21 EXTRA .s
+2025-02-21 16:00:48,226 - Excluded channel: CANALE 7 .c
+2025-02-21 16:00:48,226 - Excluded channel: CANALE 7 .s
+2025-02-21 16:00:48,226 - Excluded channel: CANALE 8 .c
+2025-02-21 16:00:48,226 - Excluded channel: CANALE 8 .s
+2025-02-21 16:00:48,226 - Excluded channel: CARINA TV .c
+2025-02-21 16:00:49,841 - Excluded channel: STAR COMEDY .c
+2025-02-21 16:00:49,842 - Excluded channel: STAR LIFE .c
+2025-02-21 16:00:49,842 - Excluded channel: STEREO 5 TV .c
+2025-02-21 16:00:49,842 - Excluded channel: SUPER J .c
+2025-02-21 16:00:50,243 - Excluded channel: CLASSICA .c
+2025-02-21 16:00:50,286 - Excluded channel: SUPER TV ARISTANIS .c
+2025-02-21 16:00:50,286 - Excluded channel: SUPER TV BRESCIA .c
+2025-02-21 16:00:50,441 - Excluded channel: TELE ABRUZZO .c
+2025-02-21 16:00:50,442 - Excluded channel: TELE CHIARA .c
+2025-02-21 16:00:50,442 - Excluded channel: TELE CHIARA .s
+2025-02-21 16:00:50,442 - Excluded channel: TELE FRIULI .s
+2025-02-21 16:00:50,442 - Excluded channel: TELE LIGURIA SUD .c
+2025-02-21 16:00:50,442 - Excluded channel: TELE MIA .c
+2025-02-21 16:00:50,442 - Excluded channel: TELE PAVIA .c
+2025-02-21 16:00:50,442 - Excluded channel: TELE RADIO SCIACCA .c
+2025-02-21 16:00:50,442 - Excluded channel: TELE ROMAGNA .s
+2025-02-21 16:00:50,442 - Excluded channel: TELE SIRIO .s
+2025-02-21 16:00:50,442 - Excluded channel: TELE TRICOLORE .s
+2025-02-21 16:00:50,442 - Excluded channel: TELE TUSCIASABINA 2000 .c
+2025-02-21 16:00:50,442 - Excluded channel: TELE VENEZIA .s
+2025-02-21 16:00:50,442 - Excluded channel: TELEA TV .c
+2025-02-21 16:00:50,442 - Excluded channel: TELEARENA .c
+2025-02-21 16:00:50,442 - Excluded channel: TELEARTE .c
+2025-02-21 16:00:50,442 - Excluded channel: TELEBARI .c
+2025-02-21 16:00:50,442 - Excluded channel: TELEBOARIO .c
+2025-02-21 16:00:50,442 - Excluded channel: TELECITTA .c
+2025-02-21 16:00:50,442 - Excluded channel: TELECOLOR .c
+2025-02-21 16:00:50,442 - Excluded channel: TELEMANTOVA .c
+2025-02-21 16:00:50,442 - Excluded channel: TELEMISTRETTA .c
+2025-02-21 16:00:50,442 - Excluded channel: TELEMOLISE .c
+2025-02-21 16:00:50,442 - Excluded channel: TELENORD .c
+2025-02-21 16:00:50,442 - Excluded channel: TELEQUATTRO .c
+2025-02-21 16:00:50,442 - Excluded channel: TELERAMA .c
+2025-02-21 16:00:50,442 - Excluded channel: TELEROMAGNA .c
+2025-02-21 16:00:50,442 - Excluded channel: TELETRICOLORE .c
+2025-02-21 16:00:50,443 - Excluded channel: TELETUBBIES .c
+2025-02-21 16:00:50,443 - Excluded channel: TELEVENEZIA .c
+2025-02-21 16:00:50,443 - Excluded channel: TELEVIDEO AGRIGENTO .c
+2025-02-21 16:00:50,565 - Excluded channel: COMPANY TV .c
+2025-02-21 16:00:50,566 - Excluded channel: COMPANY TV .s
+2025-02-21 16:00:50,566 - Excluded channel: CREMONA 1 .c
+2025-02-21 16:00:50,566 - Excluded channel: CRIME + INV .s
+2025-02-21 16:00:50,712 - Excluded channel: TG NORBA 24 .c
+2025-02-21 16:00:50,713 - Excluded channel: TG NORBA 24 .s
+2025-02-21 16:00:50,911 - Excluded channel: TOP CALCIO 24 .c
+2025-02-21 16:00:51,296 - Excluded channel: TRENTINO TV .c
+2025-02-21 16:00:51,296 - Excluded channel: TRENTINO TV .s
+2025-02-21 16:00:51,296 - Excluded channel: TRM H24 .c
+2025-02-21 16:00:51,296 - Excluded channel: TRSPORT .c
+2025-02-21 16:00:51,296 - Excluded channel: TT TELETUTTO .s
+2025-02-21 16:00:51,296 - Excluded channel: TV 2000 .c
+2025-02-21 16:00:51,296 - Excluded channel: TV 33 .c
+2025-02-21 16:00:51,728 - Excluded channel: TV QUI (MODENA) .s
+2025-02-21 16:00:51,728 - Excluded channel: TV QUI .c
+2025-02-21 16:00:51,729 - Excluded channel: TV YES .c
+2025-02-21 16:00:51,729 - Excluded channel: TV2000 .s
+2025-02-21 16:00:51,729 - Excluded channel: TV7 NEWS .c
+2025-02-21 16:00:51,729 - Excluded channel: TVA VICENZA .c
+2025-02-21 16:00:51,729 - Excluded channel: TVA VICENZA .s
+2025-02-21 16:00:51,729 - Excluded channel: TVRS .c
+2025-02-21 16:00:51,729 - Excluded channel: UMBRIA TV .c
+2025-02-21 16:00:51,729 - Excluded channel: UMBRIA TV .s
+2025-02-21 16:00:51,729 - Excluded channel: VCO AZZURRA TV .c
+2025-02-21 16:00:51,729 - Excluded channel: VERA TV .c
+2025-02-21 16:00:51,729 - Excluded channel: VERA TV .s
+2025-02-21 16:00:51,729 - Excluded channel: VIDEO NOVARA .c
+2025-02-21 16:00:51,729 - Excluded channel: VIDEOLINA .c
+2025-02-21 16:00:51,729 - Excluded channel: VIDEOSTAR TV .c
+2025-02-21 16:00:51,729 - Excluded channel: VIDEOTOLENTINO .c
