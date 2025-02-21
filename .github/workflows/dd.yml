@@ -2,7 +2,7 @@ name: Update Ita and Events
 
 on:
   schedule:
-    - cron: "0 */4 * * *" # ogni 4 ore
+    - cron: "0 */6 * * *" # ogni 4 ore
   workflow_dispatch:
 
 jobs:
