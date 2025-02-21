@@ -101,12 +101,13 @@ CHANNEL_FILTERS = [
 CHANNEL_REMOVE = ["maria+vision", "telepace", "uninettuno", "lombardia", "cusano", "FM italia", "Juwelo", "kiss kiss", "qvc", "rete tv", "italia 3", "fishing", "inter tv", "avengers"]
 
 CATEGORY_KEYWORDS = {
-    "SKY": ["sky cin", "tv 8", "fox", "comedy central", "animal planet", "nat geo", "tv8", "sky atl", "sky uno", "sky prima", "sky serie", "sky arte", "sky docum", "sky natu"],
+    "SKY": ["sky cin", "tv 8", "fox", "comedy central", "animal planet", "nat geo", "tv8", "sky atl", "sky uno", "sky prima", "sky serie", "sky arte", "sky docum", "sky natu", "cielo", "history", "sky tg"],
     "RAI": ["rai"],
-    "MEDIASET": ["mediaset", "canale 5", "rete 4", "italia", "focus"],
-    "DISCOVERY": ["discovery", "real time", "investigation", "top crime", "wwe", "hgtv", "nove"],
-    "SPORT": ["sport", "dazn", "tennis", "moto", "f1", "golf"],
-    "ALTRI": []
+    "MEDIASET": ["mediaset", "canale 5", "rete 4", "italia", "focus", "tg com 24", "tgcom 24", "premium crime", "iris", "mediaset iris", "cine 34", "27 twenty seven", "27 twentyseven"],
+    "DISCOVERY": ["discovery", "real time", "investigation", "top crime", "wwe", "hgtv", "nove", "dmax", "food network", "warner tv"],
+    "SPORT": ["sport", "dazn", "tennis", "moto", "f1", "golf", "sportitalia", "sport italia", "solo calcio", "solocalcio"],
+    "ALTRI": [],
+    "BAMBINI": ["boing", "cartoon", "k2", "discovery k2", "nick", "super", "frisbee"], 
 }
 
 CHANNEL_LOGOS = {
@@ -120,6 +121,7 @@ CHANNEL_LOGOS = {
     "la 7 .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png",
     "la 7 d .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7d-it.png",
     "rai sport .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png",
+    "rai sport [live during events only] .s": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png",
     "rai premium .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png",
     "sky sports golf .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png",
     "sky sport motogp .c": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png",
@@ -176,7 +178,7 @@ CHANNEL_LOGOS = {
     "sportitalia plus .c": "https://www.capitaladv.eu/wp-content/uploads/2020/07/LOGO-SPORTITALIA-PLUS-HD_2-1.png",
     "sport italia solo calcio [live during events only] .s": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png",
     "sportitalia solocalcio .c": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png",
-    "dazn .s": "https://icon-icons.com/icons2/2389/PNG/512/dazn_logo_icon_145353.png",
+    "dazn .s": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1024px-DAZN_logo.svg.png",
     "dazn 1 .c": "https://upload.wikimedia.org/wikipedia/commons/4/49/DAZN_1.svg",
     "dazn 2 .c": "https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_2.svg",
     "zona dazn .c": "https://www.digital-news.it/img/palinsesti/2023/12/1701423631-zona-dazn.webp",
@@ -419,5 +421,4 @@ def main():
     print("Done!")
 
 if __name__ == "__main__":
-    main()
     main()
