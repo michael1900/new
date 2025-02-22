@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="bdd640fb-0667-1ad1-1c80-317fa3b1799d" tvg-name="Bassmaster Fishing Elite Series Elite Series #1: St. John's River • Live 02/22/25 - 14:00 (CET) Fox Sports 1 USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Bassmaster Fishing Elite Series Elite Series #1: St. John's River • Live 02/22/25 - 14:00 (CET) Fox Sports 1 USA
+#EXTINF:-1 tvg-id="bdd640fb-0667-1ad1-1c80-317fa3b1799d" tvg-name="Bassmaster Fishing Elite Series Elite Series #1: St. John's River • Live 02/22/25 - 14:00 (CET) Fox Sports 1 USA" group-title="Eventi", Bassmaster Fishing Elite Series Elite Series #1: St. John's River • Live 02/22/25 - 14:00 (CET) Fox Sports 1 USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium39/mono.m3u8
 
-#EXTINF:-1 tvg-id="23b8c1e9-3924-56de-3eb1-3b9046685257" tvg-name="Hot 20 Countdown Episode 8 02/22/25 - 15:00 (CET) CMT USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Hot 20 Countdown Episode 8 02/22/25 - 15:00 (CET) CMT USA
+#EXTINF:-1 tvg-id="23b8c1e9-3924-56de-3eb1-3b9046685257" tvg-name="Hot 20 Countdown Episode 8 02/22/25 - 15:00 (CET) CMT USA" group-title="Eventi", Hot 20 Countdown Episode 8 02/22/25 - 15:00 (CET) CMT USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
@@ -1295,7 +1295,7 @@ https://ddh2new.iosplayer.ru/ddh2/premium18/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://ddh2new.iosplayer.ru/ddh2/premium19/mono.m3u8
 
-#EXTINF:-1 tvg-id="f1578470-0182-67c4-7a1b-58066160a6b4" tvg-name="Italy - Serie A : Parma vs Bologna 02/22/25 - 15:00 (CET) Zona DAZN 2 IT" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Italy - Serie A : Parma vs Bologna 02/22/25 - 15:00 (CET) Zona DAZN 2 IT
+#EXTINF:-1 tvg-id="f1578470-0182-67c4-7a1b-58066160a6b4" tvg-name="Italy - Serie A : Parma vs Bologna 02/22/25 - 15:00 (CET) Zona DAZN 2 IT" group-title="Eventi", Italy - Serie A : Parma vs Bologna 02/22/25 - 15:00 (CET) Zona DAZN 2 IT
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
