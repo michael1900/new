@@ -629,11 +629,23 @@ https://ddh2new.iosplayer.ru/ddh2/premium1/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://ddh2new.iosplayer.ru/ddh2/premium3/mono.m3u8
 
+#EXTINF:-1 tvg-id="c8fe3ccd-c8b8-d9c6-ed30-49cf43e458fc" tvg-name="Italy - Serie C : Rimini vs Arezzo 02/24/25 - 20:30 (CET) Sky Sport 254 IT" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Italy - Serie C : Rimini vs Arezzo 02/24/25 - 20:30 (CET) Sky Sport 254 IT
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddh2new.iosplayer.ru/ddh2/premium4/mono.m3u8
+
 #EXTINF:-1 tvg-id="b253d218-6c4a-37ea-4906-17f2747b6dba" tvg-name="Italy - Serie C : Rimini vs Arezzo 02/24/25 - 20:30 (CET) RAI Sport 1 IT" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Italy - Serie C : Rimini vs Arezzo 02/24/25 - 20:30 (CET) RAI Sport 1 IT
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium882/mono.m3u8
+
+#EXTINF:-1 tvg-id="c88a618e-fed4-057d-bb02-6576f512c4c3" tvg-name="Italy - Serie C : Messina vs Trapani 1905 02/24/25 - 20:30 (CET) SKY Go Italia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Italy - Serie C : Messina vs Trapani 1905 02/24/25 - 20:30 (CET) SKY Go Italia
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddh2new.iosplayer.ru/ddh2/premium5/mono.m3u8
 
 #EXTINF:-1 tvg-id="7c967f79-b7e9-9aca-a970-65e18e46d534" tvg-name="Italy - Serie A : Roma vs Monza 02/24/25 - 20:45 (CET) Sky Sport 251 IT" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Italy - Serie A : Roma vs Monza 02/24/25 - 20:45 (CET) Sky Sport 251 IT
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
@@ -1205,6 +1217,12 @@ https://windnew.iosplayer.ru/wind/premium46/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://windnew.iosplayer.ru/wind/premium47/mono.m3u8
 
+#EXTINF:-1 tvg-id="6db99102-a48b-3dbe-157d-94a106f028ff" tvg-name="Acapulco-ATP, Dubai-ATP, Austin-WTA, Merida-WTA &amp; Santiago-ATP Early Rounds 02/24/25 - 19:00 (CET) Sport Klub 2 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Acapulco-ATP, Dubai-ATP, Austin-WTA, Merida-WTA &amp; Santiago-ATP Early Rounds 02/24/25 - 19:00 (CET) Sport Klub 2 Serbia
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium102/mono.m3u8
+
 #EXTINF:-1 tvg-id="2e85cb21-7631-de9d-dde9-f86322bd3388" tvg-name="Acapulco-ATP, Dubai-ATP, Austin-WTA, Merida-WTA &amp; Santiago-ATP Early Rounds 02/24/25 - 19:00 (CET) 5 Plus Israel" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Acapulco-ATP, Dubai-ATP, Austin-WTA, Merida-WTA &amp; Santiago-ATP Early Rounds 02/24/25 - 19:00 (CET) 5 Plus Israel
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1565,6 +1583,12 @@ https://dokko1new.iosplayer.ru/dokko1/premium633/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://windnew.iosplayer.ru/wind/premium467/mono.m3u8
 
+#EXTINF:-1 tvg-id="bd1531c8-3764-fbda-3108-d4482f65fafa" tvg-name="Eurobasket : Serbia vs Georgia 02/24/25 - 20:00 (CET) Sport Klub 2 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Eurobasket : Serbia vs Georgia 02/24/25 - 20:00 (CET) Sport Klub 2 Serbia
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium102/mono.m3u8
+
 #EXTINF:-1 tvg-id="96ef2ad6-b97e-6703-46c8-adfe7bf47042" tvg-name="Israel WBL, Women : Hapoel Lev Jerusalem vs Elizur Ramla 02/24/25 - 20:05 (CET) 5 Plus Israel" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Israel WBL, Women : Hapoel Lev Jerusalem vs Elizur Ramla 02/24/25 - 20:05 (CET) 5 Plus Israel
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1768,6 +1792,18 @@ https://ddh2new.iosplayer.ru/ddh2/premium2/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://ddh2new.iosplayer.ru/ddh2/premium3/mono.m3u8
+
+#EXTINF:-1 tvg-id="32a447b2-ef04-e57d-cdcc-c33aa9434aa0" tvg-name="NBA : Denver Nuggets vs Indiana Pacers 02/24/25 - 01:00 (CET) Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Denver Nuggets vs Indiana Pacers 02/24/25 - 01:00 (CET) Home Feed
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddh2new.iosplayer.ru/ddh2/premium4/mono.m3u8
+
+#EXTINF:-1 tvg-id="398d1ca6-8b68-70b5-1d61-fac36cd5e859" tvg-name="NBA : Denver Nuggets vs Indiana Pacers 02/24/25 - 01:00 (CET) Away Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Denver Nuggets vs Indiana Pacers 02/24/25 - 01:00 (CET) Away Feed
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddh2new.iosplayer.ru/ddh2/premium5/mono.m3u8
 
 #EXTINF:-1 tvg-id="44007d5a-e88d-a719-2624-2b40a5cb63a2" tvg-name="NBA : Denver Nuggets vs Indiana Pacers 02/24/25 - 01:00 (CET) Altitude USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Denver Nuggets vs Indiana Pacers 02/24/25 - 01:00 (CET) Altitude USA
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
@@ -2338,6 +2374,12 @@ https://windnew.iosplayer.ru/wind/premium870/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium871/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sky Sport 2" tvg-name="Sky Calcio 2  " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-2-alt-de.png" group-title="Sport", Sky Calcio 2  
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://windnew.iosplayer.ru/wind/premium872/mono.m3u8
 
 #EXTINF:-1 tvg-id="sky sport 3" tvg-name="Sky Calcio 3  " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-3-alt-de.png" group-title="Sport", Sky Calcio 3  
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
