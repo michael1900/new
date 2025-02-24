@@ -366,7 +366,7 @@ def generate_m3u(channels_json, signature, filename="channels.m3u8"):
     print(f"Generating M3U8 file with {len(items)} channels...")
 
     with open(filename, "w", encoding="utf-8") as f:
-        f.write("#EXTM3U\n")
+        f.write("#EXTM3U url-tvg="http://epg-guide.com/it.gz"\n")
 
         for idx, item in enumerate(items, 1):
             name = item.get("name", "Unknown")
