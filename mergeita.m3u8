@@ -689,6 +689,12 @@ https://ddh2new.iosplayer.ru/ddh2/premium8/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://ddh2new.iosplayer.ru/ddh2/premium9/mono.m3u8
 
+#EXTINF:-1 tvg-id="ef8c485b-c07a-30f2-edd4-253b50f0fd0a" tvg-name="UEFA Women's Nations League : Norway vs Switzerland 02/25/25 - 18:00 (CET) SRF zwei Switzerland" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Women's Nations League : Norway vs Switzerland 02/25/25 - 18:00 (CET) SRF zwei Switzerland
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddh2new.iosplayer.ru/ddh2/premium10/mono.m3u8
+
 #EXTINF:-1 tvg-id="9f044aed-7552-3327-0262-7f7312922f83" tvg-name="World - Women's Friendly : Morocco vs Haiti 02/25/25 - 18:00 (CET) Arryadia 3 Morocco" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", World - Women's Friendly : Morocco vs Haiti 02/25/25 - 18:00 (CET) Arryadia 3 Morocco
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2518,6 +2524,12 @@ https://zekonew.iosplayer.ru/zeko/premium146/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://ddh2new.iosplayer.ru/ddh2/premium9/mono.m3u8
+
+#EXTINF:-1 tvg-id="f1faf665-7115-33f3-12e8-9d1028711733" tvg-name="NBA : Phoenix Suns vs Memphis Grizzlies 02/25/25 - 02:00 (CET) Away Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Phoenix Suns vs Memphis Grizzlies 02/25/25 - 02:00 (CET) Away Feed
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://ddh2new.iosplayer.ru/ddh2/premium10/mono.m3u8
 
 #EXTINF:-1 tvg-id="4c955f6a-966b-1964-fcd6-bdca5876fd09" tvg-name="NBA : San Antonio Spurs vs New Orleans Pelicans 02/25/25 - 02:00 (CET) Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : San Antonio Spurs vs New Orleans Pelicans 02/25/25 - 02:00 (CET) Home Feed
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
