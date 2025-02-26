@@ -1841,6 +1841,12 @@ https://windnew.iosplayer.ru/wind/premium49/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium719/mono.m3u8
 
+#EXTINF:-1 tvg-id="96ef2ad6-b97e-6703-46c8-adfe7bf47042" tvg-name="Portugal - Taça de Portugal : Benfica vs Sporting Braga 02/26/25 - 21:45 (CET) Fox Sports 2 Argentina" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Portugal - Taça de Portugal : Benfica vs Sporting Braga 02/26/25 - 21:45 (CET) Fox Sports 2 Argentina
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium788/mono.m3u8
+
 #EXTINF:-1 tvg-id="98c7472a-864e-9a13-c29c-fc0cfa02eaec" tvg-name="Portugal - Taça de Portugal : Benfica vs Sporting Braga 02/26/25 - 21:45 (CET) Sport Klub 1 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Portugal - Taça de Portugal : Benfica vs Sporting Braga 02/26/25 - 21:45 (CET) Sport Klub 1 Serbia
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1978,6 +1984,12 @@ https://zekonew.iosplayer.ru/zeko/premium372/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium85/mono.m3u8
+
+#EXTINF:-1 tvg-id="43bfd931-3605-bf54-a021-c0ca3531968d" tvg-name="Copa Libertadores : Barcelona vs El Nacional 02/26/25 - 01:30 (CET) Fox Sports 2 Argentina" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Copa Libertadores : Barcelona vs El Nacional 02/26/25 - 01:30 (CET) Fox Sports 2 Argentina
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium788/mono.m3u8
 
 #EXTINF:-1 tvg-id="3d67cde9-2834-e4c0-14c8-b3b4a911d192" tvg-name="Copa Libertadores : Barcelona vs El Nacional 02/26/25 - 01:30 (CET) beIN Sports MENA English 1" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Copa Libertadores : Barcelona vs El Nacional 02/26/25 - 01:30 (CET) beIN Sports MENA English 1
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
