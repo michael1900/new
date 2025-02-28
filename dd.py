@@ -491,7 +491,7 @@ def generate_m3u8_247(matches): # Rinominata per evitare conflitti
                 file.write(f"#EXTINF:-1 tvg-id=\"{tvg_id}\" tvg-name=\"{channel_name}\" tvg-logo=\"{tvicon_path}\" group-title=\"{category}\", {channel_name} (D)\n")
                 file.write(f'#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/\n')
                 file.write('#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36\n')
-                file.write('#EXTVLCOPT:http-origin=https://ilovetoplay.xyz/\n')
+                file.write('#EXTVLCOPT:http-origin=https://ilovetoplay.xyz\n')
                 file.write(f"{stream_url_dynamic}\n\n") # Use dynamic stream URL
                 processed_247_channels += 1 # Increment counter on successful stream retrieval
             else:
