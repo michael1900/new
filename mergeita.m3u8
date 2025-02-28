@@ -1,4 +1,10 @@
 #EXTM3U url-tvg="http://epg-guide.com/it.gz"
+#EXTINF:-1 tvg-id="OVW Live #1333 - Triller TV" tvg-name="OVW Live #1333 02/27/25 - 01:00 (CET)  Triller TV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", OVW Live #1333 02/27/25 - 01:00 (CET)  Triller TV (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium106/mono.m3u8
+
 #EXTINF:-1 tvg-id="Turkey - Turkish Cup - A Spor Turkey" tvg-name="Turkey - Turkish Cup : Gaziantep FK vs Fenerbahçe 02/27/25 - 14:00 (CET)  A Spor Turkey" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Turkey - Turkish Cup : Gaziantep FK vs Fenerbahçe 02/27/25 - 14:00 (CET)  A Spor Turkey (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -4090,6 +4096,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium773/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium580/mono.m3u8
+
+#EXTINF:-1 tvg-id="Indy NXT Series - Fox Sports 2 USA" tvg-name="Indy NXT Series : Grand Prix of St. Petersburg, Practice 02/28/25 - 20:00 (CET)  Fox Sports 2 USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Indy NXT Series : Grand Prix of St. Petersburg, Practice 02/28/25 - 20:00 (CET)  Fox Sports 2 USA (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium758/mono.m3u8
 
 #EXTINF:-1 tvg-id="IndyCar Racing Firestone Grand Prix of St. Petersburg, Practice - Fox Sport 1 USA" tvg-name="IndyCar Racing Firestone Grand Prix of St. Petersburg, Practice 02/28/25 - 21:00 (CET)  Fox Sport 1 USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", IndyCar Racing Firestone Grand Prix of St. Petersburg, Practice 02/28/25 - 21:00 (CET)  Fox Sport 1 USA (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
