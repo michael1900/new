@@ -1,3 +1,28 @@
+#EXTM3U url-tvg="http://epg-guide.com/it.gz"
+#EXTINF:-1 tvg-id="Arnold Sports Classic 1 - Event PPV 1" tvg-name="Arnold Sports Classic 1 02/28/25 - 14:00 (CET)  Event PPV 1" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Arnold Sports Classic 1 02/28/25 - 14:00 (CET)  Event PPV 1 (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium169/mono.m3u8
+
+#EXTINF:-1 tvg-id="Arnold Sports Classic 2 - Event PPV 2" tvg-name="Arnold Sports Classic 2 02/28/25 - 14:00 (CET)  Event PPV 2" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Arnold Sports Classic 2 02/28/25 - 14:00 (CET)  Event PPV 2 (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium170/mono.m3u8
+
+#EXTINF:-1 tvg-id="Arnold Sports Classic 3 - Event PPV 3" tvg-name="Arnold Sports Classic 3 02/28/25 - 14:00 (CET)  Event PPV 3" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Arnold Sports Classic 3 02/28/25 - 14:00 (CET)  Event PPV 3 (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium171/mono.m3u8
+
+#EXTINF:-1 tvg-id="2025 World Series of Pro Mod at Bradenton Motorsports Park - Floracing" tvg-name="2025 World Series of Pro Mod at Bradenton Motorsports Park 02/28/25 - 16:00 (CET)  Floracing" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", 2025 World Series of Pro Mod at Bradenton Motorsports Park 02/28/25 - 16:00 (CET)  Floracing (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium175/mono.m3u8
+
 #EXTINF:-1 tvg-id="Korea Republic - K League 1 - Astro Football" tvg-name="Korea Republic - K League 1 : Ulsan vs Jeonbuk Motors 02/28/25 - 06:00 (CET)  Astro Football" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Korea Republic - K League 1 : Ulsan vs Jeonbuk Motors 02/28/25 - 06:00 (CET)  Astro Football (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2007,6 +2032,12 @@ https://windnew.iosplayer.ru/wind/premium59/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium643/mono.m3u8
+
+#EXTINF:-1 tvg-id="ONE Friday Fights 98 - PPV Feed" tvg-name="ONE Friday Fights 98 02/28/25 - 13:30 (CET)  PPV Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", ONE Friday Fights 98 02/28/25 - 13:30 (CET)  PPV Feed (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium69/mono.m3u8
 
 #EXTINF:-1 tvg-id="ONE Friday Fights 98 - Match TV Russia" tvg-name="ONE Friday Fights 98 02/28/25 - 13:30 (CET)  Match TV Russia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", ONE Friday Fights 98 02/28/25 - 13:30 (CET)  Match TV Russia (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
