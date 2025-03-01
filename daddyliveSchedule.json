@@ -1,5 +1,205 @@
 {
     "Saturday 01st March 2025 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "18:30",
+                "event": "Arnold Sports Classic 1",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV 1",
+                        "channel_id": "200"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "18:30",
+                "event": "Arnold Sports Classic 2",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV 2",
+                        "channel_id": "201"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "18:30",
+                "event": "Arnold Sports Classic 3",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV 3",
+                        "channel_id": "202"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "18:30",
+                "event": "Arnold Sports Classic 4",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV 4",
+                        "channel_id": "203"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "18:30",
+                "event": "Arnold Sports Classic 5",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV 5",
+                        "channel_id": "204"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "18:30",
+                "event": "Arnold Sports Classic 6",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV 8",
+                        "channel_id": "205"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "15:00",
+                "event": "World Series of Pro Mod at Bradenton",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "785"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "16:30",
+                "event": "Porsche Sprint Challenge",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "199"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "17:00",
+                "event": "Palace Pandemonium : Ricardo Malajika vs Jackson Chauke",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "200"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "18:30",
+                "event": "AMA Supercross Championship Daytona Beach 2025",
+                "channels": [
+                    {
+                        "channel_name": "Peacock",
+                        "channel_id": "172"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "19:00",
+                "event": "True Grit Wrestling: Redemption 2025 PPV",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "173"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "19:30",
+                "event": "Full Contact Contender : FCC 41",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "174"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "22:00",
+                "event": "Spring Nationals Senoia",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "167"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "22:00",
+                "event": "wXw: AMBITION 15",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "168"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "00:00",
+                "event": "Toughman Contest",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "169"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "01:00",
+                "event": "USMTS National Championship",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "170"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "02:00",
+                "event": "2025 Spokane Submission Series #5",
+                "channels": [
+                    {
+                        "channel_name": "Flotv",
+                        "channel_id": "171"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "04:00",
+                "event": "GCW: The Coldest Winter 3",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "172"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
         "TV Show": [
             {
                 "time": "14:00",
@@ -6310,7 +6510,7 @@
         "Wrestling": [
             {
                 "time": "22:00",
-                "event": "Elimination Chamber 2025",
+                "event": "WWE Elimination Chamber 2025",
                 "channels": [
                     {
                         "channel_name": "WWE PPV",
