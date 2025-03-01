@@ -200,95 +200,173 @@ def createSingleEPGData(startTime, stopTime, UniqueID, channelName, description)
 
 def addChannelsByLeagueSport():
     global channelCount
-    processed_schedule_channels = 0 # Counter for schedule channels
-    # Define categories to exclude
-    excluded_categories = ["TV Shows", "Cricket", "Aussie rules", "Snooker", "Baseball", 
-                          "Biathlon", "Cross Country", "Horse Racing", "Ice Hockey", 
-                          "Waterpolo", "Golf", "Darts", "Cycling"]
+    processed_schedule_channels = 0  # Counter for schedule channels
     
-    for day, value in dadjson.items():
+    # Define categories to exclude - these must match exact category names in JSON
+    excluded_categories = [
+        "TV Shows", "Cricket", "Aussie rules", "Snooker", "Baseball",
+        "Biathlon", "Cross Country", "Horse Racing", "Ice Hockey",
+        "Waterpolo", "Golf", "Darts", "Cycling"
+    ]
+    
+    # Debug counters
+    total_events = 0
+    skipped_events = 0
+    category_stats = {}  # To track how many events per category
+    
+    # First pass to gather category statistics
+    for day, day_data in dadjson.items():
         try:
-            for sport_key, sport in dadjson[day].items():
-                # Skip excluded categories
-                if any(excluded_category in sport_key for excluded_category in excluded_categories):
+            for sport_key, sport_events in day_data.items():
+                if sport_key not in category_stats:
+                    category_stats[sport_key] = 0
+                category_stats[sport_key] += len(sport_events)
+        except (KeyError, TypeError):
+            pass  # Skip problematic days
+    
+    # Print category statistics
+    print("\n=== Available Categories ===")
+    for category, count in sorted(category_stats.items()):
+        excluded = "EXCLUDED" if category in excluded_categories else ""
+        print(f"{category}: {count} events {excluded}")
+    print("===========================\n")
+    
+    # Second pass to process events
+    for day, day_data in dadjson.items():
+        try:
+            for sport_key, sport_events in day_data.items():
+                total_events += len(sport_events)
+                
+                # Skip only exact category matches
+                if sport_key in excluded_categories:
+                    skipped_events += len(sport_events)
                     continue
-                    
-                for game in sport:
-                    for channel in game["channels"]:
-                        date_time = day.replace("th ", " ").replace("rd ", " ").replace("st ", " ").replace("nd ", " ").replace("Dec Dec", "Dec")
-                        date_time = date_time.replace("-", game["time"] + " -")
-                        date_format = "%A %d %b %Y %H:%M - Schedule Time UK GMT"
-
+                
+                for game in sport_events:
+                    for channel in game.get("channels", []):
                         try:
-                            start_date_utc = datetime.datetime.strptime(date_time, date_format)
-                        except ValueError:
-                            #print(f"Errore nel parsing della data: {date_time}") # Debug removed
+                            # Remove the "Schedule Time UK GMT" part and split the remaining string
+                            clean_day = day.replace(" - Schedule Time UK GMT", "")
+                            
+                            # Remove ordinal suffixes (st, nd, rd, th)
+                            clean_day = clean_day.replace("st ", " ").replace("nd ", " ").replace("rd ", " ").replace("th ", " ")
+                            
+                            # Split the cleaned string
+                            day_parts = clean_day.split()
+                            
+                            if len(day_parts) >= 4:  # Make sure we have enough parts
+                                day_num = day_parts[1]
+                                month_name = day_parts[2]
+                                year = day_parts[3]
+                                
+                                # Get time from game data
+                                time_str = game.get("time", "00:00")
+                                
+                                # Convert month name to number
+                                month_map = {
+                                    "January": "01", "February": "02", "March": "03", "April": "04",
+                                    "May": "05", "June": "06", "July": "07", "August": "08",
+                                    "September": "09", "October": "10", "November": "11", "December": "12"
+                                }
+                                month_num = month_map.get(month_name, "01")  # Default to January if not found
+                                
+                                # Ensure day has leading zero if needed
+                                if len(day_num) == 1:
+                                    day_num = f"0{day_num}"
+                                
+                                # Create a datetime object in UTC (no timezone conversion yet)
+                                year_short = year[2:4]  # Extract last two digits of year
+                                
+                                # Format as requested: "01/03/25 - 10:10"
+                                formatted_date_time = f"{day_num}/{month_num}/{year_short} - {time_str}"
+                                
+                                # Also create proper datetime objects for EPG
+                                # Make sure we're using clean numbers for the date components
+                                date_str = f"{year}-{month_num}-{day_num} {time_str}:00"
+                                start_date_utc = datetime.datetime.strptime(date_str, "%Y-%m-%d %H:%M:%S")
+                                
+                                # Convert to Amsterdam timezone
+                                amsterdam_timezone = pytz.timezone("Europe/Amsterdam")
+                                start_date_amsterdam = start_date_utc.replace(tzinfo=pytz.UTC).astimezone(amsterdam_timezone)
+                                
+                                # Format for EPG
+                                mStartTime = start_date_amsterdam.strftime("%Y%m%d%H%M%S")
+                                mStopTime = (start_date_amsterdam + datetime.timedelta(days=2)).strftime("%Y%m%d%H%M%S")
+                                
+                            else:
+                                print(f"Invalid date format after cleaning: {clean_day}")
+                                continue
+                            
+                        except Exception as e:
+                            print(f"Error processing date '{day}': {e}")
+                            print(f"Game time: {game.get('time', 'No time found')}")
                             continue
 
-                        amsterdam_timezone = pytz.timezone("Europe/Amsterdam")
-                        start_date_amsterdam = start_date_utc.replace(tzinfo=pytz.utc).astimezone(amsterdam_timezone)
-
-                        mStartTime = start_date_amsterdam.strftime("%Y%m%d%H%M%S")
-                        mStopTime = (start_date_amsterdam + datetime.timedelta(days=2)).strftime("%Y%m%d%H%M%S")
-
-                        formatted_date_time_cet = start_date_amsterdam.strftime("%m/%d/%y") + " - " + start_date_amsterdam.strftime("%H:%M") + " (CET)"
-
+                        # Get next unique ID
                         UniqueID = unique_ids.pop(0)
+                        
                         try:
-                            channelName = game["event"] + " " + formatted_date_time_cet + "  " + channel["channel_name"]
-                            
-                            # MODIFICATO: Creare un custom tvg-id per canali del gruppo "Eventi"
-                            # Estrazione della parte prima dei ":" e dopo "(CET)"
-                            event_part = ""
-                            channel_part = ""
-                            
+                            # Build channel name with new date format
+                            channelName = game["event"] + " " + formatted_date_time + "  " + channel["channel_name"]
+
+                            # Extract event part and channel part for TVG ID
                             if ":" in game["event"]:
                                 event_part = game["event"].split(":")[0].strip()
                             else:
                                 event_part = game["event"].strip()
-                                
+
                             channel_part = channel["channel_name"].strip()
                             custom_tvg_id = f"{event_part} - {channel_part}"
-                            
-                        except TypeError:
-                            #print("JSON mal formattato, canale saltato per questa partita.") # Debug removed
+
+                        except (TypeError, KeyError) as e:
+                            print(f"Error processing event: {e}")
                             continue
 
+                        # Process channel information
                         channelID = f"{channel['channel_id']}"
                         tvgName = channelName
                         tvLabel = tvgName
                         channelCount += 1
-                        print(f"Processing schedule channel: {channelName} - Channel Count: {channelCount}") # Progress print: Schedule channel processing
+                        print(f"Processing channel {channelCount}: {sport_key} - {channelName}")
 
-                        stream_url_dynamic = get_stream_link(channelID) # Removed site and MFP_CREDENTIALS arguments
+                        # Get stream URL
+                        stream_url_dynamic = get_stream_link(channelID)
 
                         if stream_url_dynamic:
+                            # Write to M3U8 file
                             with open(M3U8_OUTPUT_FILE, 'a', encoding='utf-8') as file:
                                 if channelCount == 1:
                                     file.write('#EXTM3U url-tvg="http://epg-guide.com/it.gz"\n')
+                            
                             with open(M3U8_OUTPUT_FILE, 'a', encoding='utf-8') as file:
-                                # MODIFICATO: Utilizzo custom_tvg_id invece di UniqueID per tvg-id
                                 file.write(f'#EXTINF:-1 tvg-id="{custom_tvg_id}" tvg-name="{tvgName}" tvg-logo="{LOGO}" group-title="Eventi", {tvLabel} (D)\n')
                                 file.write('#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/\n')
                                 file.write('#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36\n')
                                 file.write('#EXTVLCOPT:http-origin=https://ilovetoplay.xyz\n')
-                                file.write(f"{stream_url_dynamic}\n\n") # Use dynamic stream URL
-                            processed_schedule_channels += 1 # Increment counter on successful stream retrieval
+                                file.write(f"{stream_url_dynamic}\n\n")
+                            
+                            processed_schedule_channels += 1
                         else:
-                            print(f"Failed to get stream URL for channel ID: {channelID}. Skipping M3U8 entry for this channel.") # Debug removed
-                            pass # No debug print, just skip
+                            print(f"Failed to get stream URL for channel ID: {channelID}")
 
+                        # Add to EPG
                         xmlChannel = createSingleChannelEPGData(UniqueID, tvgName)
                         root.append(xmlChannel)
 
                         programme = createSingleEPGData(mStartTime, mStopTime, UniqueID, channelName, "No Description")
                         root.append(programme)
+                        
         except KeyError as e:
-            #print(f"KeyError: {e} - Una delle chiavi {day} non esiste.") # Debug removed
-            pass # No debug print, just skip
-    return processed_schedule_channels # Return the count of processed schedule channels
-
-# Funzioni seconda parte dello script (modificate per integrarsi)
+            print(f"KeyError: {e} - Key may not exist in JSON structure")
+    
+    # Print summary
+    print(f"\n=== Processing Summary ===")
+    print(f"Total events found: {total_events}")
+    print(f"Events skipped due to category filters: {skipped_events}")
+    print(f"Channels successfully processed: {processed_schedule_channels}")
+    print(f"===========================\n")
+    
+    return processed_schedule_channels
 
 STATIC_LOGOS = {
     "sky uno": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png",
