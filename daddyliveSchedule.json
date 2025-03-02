@@ -15199,6 +15199,81 @@
                 ]
             }
         ],
+        "Tennis ATP - ACAPULCO": [
+            {
+                "time": "03:00",
+                "event": "ATP - ACAPULCO : Machac T. vs Davidovich Fokina A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 4",
+                        "channel_id": "1504"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 22",
+                        "channel_id": "1522"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
+        "Tennis ATP - SANTIAGO": [
+            {
+                "time": "00:00",
+                "event": "ATP - SANTIAGO : Djere L. vs Baez S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 5",
+                        "channel_id": "1505"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
+        "Tennis WTA - MERIDA": [
+            {
+                "time": "01:30",
+                "event": "WTA - MERIDA : Arango E. vs Saville D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 21",
+                        "channel_id": "1521"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "23:00",
+                "event": "WTA - MERIDA : Final: Navarro E. vs TBD",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 1",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream 21",
+                        "channel_id": "1521"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
+        "Tennis WTA - AUSTIN": [
+            {
+                "time": "21:00",
+                "event": "WTA - AUSTIN : Pegula J. vs Kessler M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream 3",
+                        "channel_id": "1503"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
         "Tennis": [
             {
                 "time": "03:30",
