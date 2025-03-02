@@ -23,6 +23,18 @@ https://ddy6new.iosplayer.ru/ddy6/premium202/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium203/mono.m3u8
 
+#EXTINF:-1 tvg-id="Arnold Sports Classic 5 - Event PPV 5" tvg-name="Arnold Sports Classic 5 01/03/25 - 18:30  Event PPV 5" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Arnold Sports Classic 5 01/03/25 - 18:30  Event PPV 5 (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium204/mono.m3u8
+
+#EXTINF:-1 tvg-id="Arnold Sports Classic 6 - Event PPV 8" tvg-name="Arnold Sports Classic 6 01/03/25 - 18:30  Event PPV 8" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Arnold Sports Classic 6 01/03/25 - 18:30  Event PPV 8 (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium205/mono.m3u8
+
 #EXTINF:-1 tvg-id="World Series of Pro Mod at Bradenton - Floracing" tvg-name="World Series of Pro Mod at Bradenton 01/03/25 - 15:00  Floracing" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", World Series of Pro Mod at Bradenton 01/03/25 - 15:00  Floracing (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -4739,6 +4751,18 @@ https://nfsnew.iosplayer.ru/nfs/premium31/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium59/mono.m3u8
 
+#EXTINF:-1 tvg-id="Boxing - PPV Feed" tvg-name="Boxing : Gervonta Davis vs Lamont Roach 01/03/25 - 01:00  PPV Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Boxing : Gervonta Davis vs Lamont Roach 01/03/25 - 01:00  PPV Feed (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium175/mono.m3u8
+
+#EXTINF:-1 tvg-id="Boxing - PPV Feed" tvg-name="Boxing : Gervonta Davis vs Lamont Roach 01/03/25 - 01:00  PPV Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Boxing : Gervonta Davis vs Lamont Roach 01/03/25 - 01:00  PPV Feed (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium176/mono.m3u8
+
 #EXTINF:-1 tvg-id="Boxing - Amazon Prime Video" tvg-name="Boxing : Gervonta Davis vs Lamont Roach 01/03/25 - 01:00  Amazon Prime Video" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Boxing : Gervonta Davis vs Lamont Roach 01/03/25 - 01:00  Amazon Prime Video (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -4889,13 +4913,13 @@ https://windnew.iosplayer.ru/wind/premium472/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium146/mono.m3u8
 
-#EXTINF:-1 tvg-id="WWE Elimination Chamber 2025 - WWE PPV" tvg-name="WWE Elimination Chamber 2025 01/03/25 - 22:00  WWE PPV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", WWE Elimination Chamber 2025 01/03/25 - 22:00  WWE PPV (D)
+#EXTINF:-1 tvg-id="WWE Elimination Chamber 2025 - WWE PPV" tvg-name="WWE Elimination Chamber 2025 01/03/25 - 00:00  WWE PPV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", WWE Elimination Chamber 2025 01/03/25 - 00:00  WWE PPV (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium86/mono.m3u8
 
-#EXTINF:-1 tvg-id="WWE Elimination Chamber 2025 - WWE Network" tvg-name="WWE Elimination Chamber 2025 01/03/25 - 22:00  WWE Network" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", WWE Elimination Chamber 2025 01/03/25 - 22:00  WWE Network (D)
+#EXTINF:-1 tvg-id="WWE Elimination Chamber 2025 - WWE Network" tvg-name="WWE Elimination Chamber 2025 01/03/25 - 00:00  WWE Network" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", WWE Elimination Chamber 2025 01/03/25 - 00:00  WWE Network (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
@@ -6711,7 +6735,7 @@ https://zekonew.iosplayer.ru/zeko/premium111/mono.m3u8
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://zekonew.iosplayer.ru/zeko/premium113/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium114/mono.m3u8
 
 #EXTINF:-1 tvg-id="2025 Montana's Brier - TSN1" tvg-name="2025 Montana's Brier: Pool Play - Draw 3 01/03/25 - 02:30  TSN1" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", 2025 Montana's Brier: Pool Play - Draw 3 01/03/25 - 02:30  TSN1 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -8842,12 +8866,6 @@ https://windnew.iosplayer.ru/wind/premium49/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium597/mono.m3u8
-
-#EXTINF:-1 tvg-id="Germany - 3. Liga - Magenta Sport" tvg-name="Germany - 3. Liga : Unterhaching vs Hansa Rostock 02/03/25 - 15:30  Magenta Sport" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Germany - 3. Liga : Unterhaching vs Hansa Rostock 02/03/25 - 15:30  Magenta Sport (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://nfsnew.iosplayer.ru/nfs/premium6/mono.m3u8
 
 #EXTINF:-1 tvg-id="Hungary - NB1 - Duna World Hungary" tvg-name="Hungary - NB1 : Kecskeméti TE vs Paksi SE 02/03/25 - 15:30  Duna World Hungary" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Hungary - NB1 : Kecskeméti TE vs Paksi SE 02/03/25 - 15:30  Duna World Hungary (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
