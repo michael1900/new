@@ -126,6 +126,10 @@
                     {
                         "channel_name": "E! Entertainment Television",
                         "channel_id": "315"
+                    },
+                    {
+                        "channel_name": "Movistar+",
+                        "channel_id": "437"
                     }
                 ],
                 "channels2": []
@@ -200,6 +204,10 @@
                     {
                         "channel_name": "ABC USA",
                         "channel_id": "51"
+                    },
+                    {
+                        "channel_name": "Movistar+",
+                        "channel_id": "437"
                     }
                 ],
                 "channels2": []
@@ -233,6 +241,14 @@
                     "1": {
                         "channel_name": "ABC NY USA",
                         "channel_id": "766"
+                    },
+                    "2": {
+                        "channel_name": "TNT ES",
+                        "channel_id": "41"
+                    },
+                    "3": {
+                        "channel_name": "Movistar+",
+                        "channel_id": "437"
                     }
                 },
                 "channels2": []
