@@ -8126,6 +8126,39 @@
                 "channels2": []
             },
             {
+                "time": "17:10",
+                "event": "Svenska Cupen Women : Skuru IK vs. H65 Hoor HK",
+                "channels": [
+                    {
+                        "channel_name": "SVT 2 Sweden HD",
+                        "channel_id": "175"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "18:00",
+                "event": "Croatia Premijer liga : RK Metkovic vs. GRK Varazdin 1930",
+                "channels": [
+                    {
+                        "channel_name": "Max Sport 2 Croatia HD",
+                        "channel_id": "780"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "18:30",
+                "event": "Spain Asobal : Villa de Aranda vs. CB Cangas",
+                "channels": [
+                    {
+                        "channel_name": "Sport TV2 SLO",
+                        "channel_id": "109"
+                    }
+                ],
+                "channels2": []
+            },
+            {
                 "time": "17:30",
                 "event": "Germany - Bundesliga : Magdeburg vs Potsdam",
                 "channels": [],
