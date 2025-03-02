@@ -1037,6 +1037,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium494/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium398/mono.m3u8
 
+#EXTINF:-1 tvg-id="Spain - La Liga - Digi Sport 3 Romania" tvg-name="Spain - La Liga : Leganés vs Getafe 02/03/25 - 13:00  Digi Sport 3 Romania" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - La Liga : Leganés vs Getafe 02/03/25 - 13:00  Digi Sport 3 Romania (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://wikinew.iosplayer.ru/wiki/premium402/mono.m3u8
+
 #EXTINF:-1 tvg-id="Spain - La Liga - Match! Football 2 Russia" tvg-name="Spain - La Liga : Leganés vs Getafe 02/03/25 - 13:00  Match! Football 2 Russia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - La Liga : Leganés vs Getafe 02/03/25 - 13:00  Match! Football 2 Russia (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
