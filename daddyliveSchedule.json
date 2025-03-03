@@ -817,7 +817,12 @@
                         "channel_id": "59"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7217985",
+                        "channel_id": "7217985"
+                    }
+                ]
             },
             {
                 "time": "05:00",
@@ -5345,43 +5350,78 @@
                 "time": "20:35",
                 "event": "WTA - Merida (MEX) - Double : A.Danilina\/I.Khromacheva vs K.Piter\/M.Sherif",
                 "channels": [],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7569371",
+                        "channel_id": "7569371"
+                    }
+                ]
             },
             {
                 "time": "21:30",
                 "event": "WTA - Austin (USA) - Double : A.Blinkova\/Y.Yuan vs M.Kessler\/S.Zhang",
                 "channels": [],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7569780",
+                        "channel_id": "7569780"
+                    }
+                ]
             },
             {
                 "time": "22:00",
                 "event": "WTA - Indian Wells (USA) - Qualifiers : Sara Errani vs Cristina Bucsa",
                 "channels": [],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7569612",
+                        "channel_id": "7569612"
+                    }
+                ]
             },
             {
                 "time": "22:00",
                 "event": "WTA - Indian Wells (USA) - Qualifiers : Claire Liu vs Yulia Starodubtseva",
                 "channels": [],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7569609",
+                        "channel_id": "7569609"
+                    }
+                ]
             },
             {
                 "time": "22:00",
                 "event": "WTA - Indian Wells (USA) - Qualifiers : Whitney Osuigwe vs Nuria Parrizas Diaz",
                 "channels": [],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7569605",
+                        "channel_id": "7569605"
+                    }
+                ]
             },
             {
                 "time": "22:00",
                 "event": "Challenger - San Diego (USA) : Eliot Spizzirri vs Mackenzie McDonald",
                 "channels": [],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7569536",
+                        "channel_id": "7569536"
+                    }
+                ]
             },
             {
                 "time": "22:00",
                 "event": "WTA - Indian Wells (USA) - Qualifiers : Laura Siegemund vs Kaja Juvan",
                 "channels": [],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7569604",
+                        "channel_id": "7569604"
+                    }
+                ]
             },
             {
                 "time": "22:30",
@@ -6176,32 +6216,6 @@
             }
         ],
         "Baseball": [
-            {
-                "time": "00:00",
-                "event": "College Baseball : Astros Foundation College Classic: Texas A&amp;M vs. Rice",
-                "channels": [
-                    {
-                        "channel_name": "Space City Home Network",
-                        "channel_id": "921"
-                    }
-                ],
-                "channels2": []
-            },
-            {
-                "time": "01:00",
-                "event": "World Baseball Classic : Colombia vs Brazil",
-                "channels": [
-                    {
-                        "channel_name": "FOX Sports 2 USA",
-                        "channel_id": "758"
-                    },
-                    {
-                        "channel_name": "Fox Deportes",
-                        "channel_id": "643"
-                    }
-                ],
-                "channels2": []
-            },
             {
                 "time": "00:00",
                 "event": "College Baseball : Astros Foundation College Classic: Texas A&amp;M vs. Rice",
@@ -9682,7 +9696,12 @@
                         "channel_id": "55"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7494920",
+                        "channel_id": "7494920"
+                    }
+                ]
             },
             {
                 "time": "19:45",
@@ -9693,7 +9712,12 @@
                         "channel_id": "59"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7494921",
+                        "channel_id": "7494921"
+                    }
+                ]
             },
             {
                 "time": "19:45",
@@ -9704,7 +9728,12 @@
                         "channel_id": "68"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7494922",
+                        "channel_id": "7494922"
+                    }
+                ]
             },
             {
                 "time": "19:45",
@@ -9715,7 +9744,12 @@
                         "channel_id": "69"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7352301",
+                        "channel_id": "7352301"
+                    }
+                ]
             },
             {
                 "time": "19:45",
@@ -9726,7 +9760,12 @@
                         "channel_id": "76"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7494923",
+                        "channel_id": "7494923"
+                    }
+                ]
             },
             {
                 "time": "05:00",
@@ -9737,7 +9776,23 @@
                         "channel_id": "124"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7314554",
+                        "channel_id": "7314554"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "South Korea - K-League 2 : Seongnam vs Cheongju",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7352353",
+                        "channel_id": "7352353"
+                    }
+                ]
             },
             {
                 "time": "10:30",
@@ -9753,6 +9808,28 @@
                     }
                 ],
                 "channels2": []
+            },
+            {
+                "time": "11:00",
+                "event": "India - I-League : SC Bengaluru vs Aizawl",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7352302",
+                        "channel_id": "7352302"
+                    }
+                ]
+            },
+            {
+                "time": "12:30",
+                "event": "Singapore - Cupa - Gr.A : Brunei DPMM vs Albirex Niigata",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7408483",
+                        "channel_id": "7408483"
+                    }
+                ]
             },
             {
                 "time": "13:00",
@@ -9830,6 +9907,17 @@
                 "channels2": []
             },
             {
+                "time": "14:00",
+                "event": "India - Super League : Chennaiyin vs Northeast United",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7155324",
+                        "channel_id": "7155324"
+                    }
+                ]
+            },
+            {
                 "time": "14:50",
                 "event": "Israel Liga Al, Women : Maccabi Hadera vs Hapoel Jerusalem",
                 "channels": [
@@ -9861,7 +9949,12 @@
                         "channel_id": "432"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7120532",
+                        "channel_id": "7120532"
+                    }
+                ]
             },
             {
                 "time": "15:30",
@@ -9933,7 +10026,12 @@
                         "channel_id": "141"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7508231",
+                        "channel_id": "7508231"
+                    }
+                ]
             },
             {
                 "time": "16:30",
@@ -10077,7 +10175,12 @@
                         "channel_id": "583"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7120533",
+                        "channel_id": "7120533"
+                    }
+                ]
             },
             {
                 "time": "18:00",
@@ -10096,7 +10199,12 @@
                         "channel_id": "141"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7508237",
+                        "channel_id": "7508237"
+                    }
+                ]
             },
             {
                 "time": "18:00",
@@ -10652,7 +10760,12 @@
                         "channel_id": "142"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7124797",
+                        "channel_id": "7124797"
+                    }
+                ]
             },
             {
                 "time": "22:00",
