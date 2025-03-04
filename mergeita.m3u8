@@ -1,4 +1,10 @@
 #EXTM3U url-tvg="http://epg-guide.com/it.gz"
+#EXTINF:-1 tvg-id="World of Outlaws Sprint Cars - Event PPV" tvg-name="World of Outlaws Sprint Cars 03/03/25 - 23:15  Event PPV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", World of Outlaws Sprint Cars 03/03/25 - 23:15  Event PPV (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium55/mono.m3u8
+
 #EXTINF:-1 tvg-id="Wild Nordic Season 1, Episode 2 - Nat Geo Wild" tvg-name="Wild Nordic Season 1, Episode 2 03/03/25 - 13:00  Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Wild Nordic Season 1, Episode 2 03/03/25 - 13:00  Nat Geo Wild (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2315,6 +2321,42 @@ https://ddy6new.iosplayer.ru/ddy6/premium540/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium540/mono.m3u8
 
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - TV4 Sportkanalen" tvg-name="Asia - AFC Champions League Elite : Shanghai Port vs Yokohama F. Marinos 04/03/25 - 12:00  TV4 Sportkanalen" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Asia - AFC Champions League Elite : Shanghai Port vs Yokohama F. Marinos 04/03/25 - 12:00  TV4 Sportkanalen (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium707/mono.m3u8
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - sportdigital1+ DE" tvg-name="Asia - AFC Champions League Elite : Shanghai Port vs Yokohama F. Marinos 04/03/25 - 12:00  sportdigital1+ DE" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Asia - AFC Champions League Elite : Shanghai Port vs Yokohama F. Marinos 04/03/25 - 12:00  sportdigital1+ DE (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium640/mono.m3u8
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Astro Grandstand" tvg-name="Asia - AFC Champions League Elite : Shanghai Port vs Yokohama F. Marinos 04/03/25 - 12:00  Astro Grandstand" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Asia - AFC Champions League Elite : Shanghai Port vs Yokohama F. Marinos 04/03/25 - 12:00  Astro Grandstand (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium123/mono.m3u8
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Nova Sport Bulgaria" tvg-name="Asia - AFC Champions League Elite : Shanghai Port vs Yokohama F. Marinos 04/03/25 - 12:00  Nova Sport Bulgaria" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Asia - AFC Champions League Elite : Shanghai Port vs Yokohama F. Marinos 04/03/25 - 12:00  Nova Sport Bulgaria (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium468/mono.m3u8
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Sport Klub 1 Serbia" tvg-name="Asia - AFC Champions League Elite : Shanghai Port vs Yokohama F. Marinos 04/03/25 - 12:00  Sport Klub 1 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Asia - AFC Champions League Elite : Shanghai Port vs Yokohama F. Marinos 04/03/25 - 12:00  Sport Klub 1 Serbia (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium101/mono.m3u8
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Sport 3 Israel" tvg-name="Asia - AFC Champions League Elite : Shanghai Port vs Yokohama F. Marinos 04/03/25 - 12:00  Sport 3 Israel" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Asia - AFC Champions League Elite : Shanghai Port vs Yokohama F. Marinos 04/03/25 - 12:00  Sport 3 Israel (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium142/mono.m3u8
+
 #EXTINF:-1 tvg-id="Turkey - 1. Lig - TRT Spor Turkey" tvg-name="Turkey - 1. Lig : Manisa BBSK vs Iğdır FK 04/03/25 - 13:00  TRT Spor Turkey" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Turkey - 1. Lig : Manisa BBSK vs Iğdır FK 04/03/25 - 13:00  TRT Spor Turkey (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2368,42 +2410,6 @@ https://windnew.iosplayer.ru/wind/premium61/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium2/mono.m3u8
-
-#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - TV4 Sportkanalen" tvg-name="Asia - AFC Champions League Elite : Shanghai Port vs Yokohama F. Marinos 04/03/25 - 12:00  TV4 Sportkanalen" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Asia - AFC Champions League Elite : Shanghai Port vs Yokohama F. Marinos 04/03/25 - 12:00  TV4 Sportkanalen (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://zekonew.iosplayer.ru/zeko/premium707/mono.m3u8
-
-#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - sportdigital1+ DE" tvg-name="Asia - AFC Champions League Elite : Shanghai Port vs Yokohama F. Marinos 04/03/25 - 12:00  sportdigital1+ DE" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Asia - AFC Champions League Elite : Shanghai Port vs Yokohama F. Marinos 04/03/25 - 12:00  sportdigital1+ DE (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://dokko1new.iosplayer.ru/dokko1/premium640/mono.m3u8
-
-#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Astro Grandstand" tvg-name="Asia - AFC Champions League Elite : Shanghai Port vs Yokohama F. Marinos 04/03/25 - 12:00  Astro Grandstand" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Asia - AFC Champions League Elite : Shanghai Port vs Yokohama F. Marinos 04/03/25 - 12:00  Astro Grandstand (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://zekonew.iosplayer.ru/zeko/premium123/mono.m3u8
-
-#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Nova Sport Bulgaria" tvg-name="Asia - AFC Champions League Elite : Shanghai Port vs Yokohama F. Marinos 04/03/25 - 12:00  Nova Sport Bulgaria" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Asia - AFC Champions League Elite : Shanghai Port vs Yokohama F. Marinos 04/03/25 - 12:00  Nova Sport Bulgaria (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium468/mono.m3u8
-
-#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Sport Klub 1 Serbia" tvg-name="Asia - AFC Champions League Elite : Shanghai Port vs Yokohama F. Marinos 04/03/25 - 12:00  Sport Klub 1 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Asia - AFC Champions League Elite : Shanghai Port vs Yokohama F. Marinos 04/03/25 - 12:00  Sport Klub 1 Serbia (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium101/mono.m3u8
-
-#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Sport 3 Israel" tvg-name="Asia - AFC Champions League Elite : Shanghai Port vs Yokohama F. Marinos 04/03/25 - 12:00  Sport 3 Israel" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Asia - AFC Champions League Elite : Shanghai Port vs Yokohama F. Marinos 04/03/25 - 12:00  Sport 3 Israel (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://zekonew.iosplayer.ru/zeko/premium142/mono.m3u8
 
 #EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Astro Grandstand" tvg-name="Asia - AFC Champions League Elite : Buriram United vs Johor Darul Ta'zim 04/03/25 - 14:00  Astro Grandstand" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Asia - AFC Champions League Elite : Buriram United vs Johor Darul Ta'zim 04/03/25 - 14:00  Astro Grandstand (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
