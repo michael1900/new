@@ -1931,6 +1931,12 @@ https://nfsnew.iosplayer.ru/nfs/premium6/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium146/mono.m3u8
 
+#EXTINF:-1 tvg-id="Eurocup - Magenta Sport 309" tvg-name="Eurocup : BC Wolves vs. CS Universitatea Cluj-Napoca 04/03/25 - 17:00  Magenta Sport 309" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Eurocup : BC Wolves vs. CS Universitatea Cluj-Napoca 04/03/25 - 17:00  Magenta Sport 309 (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium13/mono.m3u8
+
 #EXTINF:-1 tvg-id="Eurocup - Nova Sports Prime Greece" tvg-name="Eurocup : BC Wolves vs. CS Universitatea Cluj-Napoca 04/03/25 - 17:00  Nova Sports Prime Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Eurocup : BC Wolves vs. CS Universitatea Cluj-Napoca 04/03/25 - 17:00  Nova Sports Prime Greece (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2044,6 +2050,12 @@ https://windnew.iosplayer.ru/wind/premium431/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium27/mono.m3u8
+
+#EXTINF:-1 tvg-id="Champions League - Tivibu Spor Turkey" tvg-name="Champions League : CB 1939 Canarias vs. Petkim Spor Aliaga 04/03/25 - 19:50  Tivibu Spor Turkey" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Champions League : CB 1939 Canarias vs. Petkim Spor Aliaga 04/03/25 - 19:50  Tivibu Spor Turkey (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium14/mono.m3u8
 
 #EXTINF:-1 tvg-id="NCAA - SEC Network USA" tvg-name="NCAA : South Carolina vs Georgia 04/03/25 - 23:00  SEC Network USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NCAA : South Carolina vs Georgia 04/03/25 - 23:00  SEC Network USA (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -2332,6 +2344,18 @@ https://windnew.iosplayer.ru/wind/premium61/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium144/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Home Feed" tvg-name="NBA : Cleveland Cavaliers vs Chicago Bulls 04/03/25 - 01:00  Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Cleveland Cavaliers vs Chicago Bulls 04/03/25 - 01:00  Home Feed (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium29/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Away Feed" tvg-name="NBA : Cleveland Cavaliers vs Chicago Bulls 04/03/25 - 01:00  Away Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Cleveland Cavaliers vs Chicago Bulls 04/03/25 - 01:00  Away Feed (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium30/mono.m3u8
 
 #EXTINF:-1 tvg-id="NBA - Home Feed" tvg-name="NBA : Philadelphia 76ers vs Minnesota Timberwolves 04/03/25 - 01:00  Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Philadelphia 76ers vs Minnesota Timberwolves 04/03/25 - 01:00  Home Feed (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -2627,6 +2651,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium127/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium429/mono.m3u8
 
+#EXTINF:-1 tvg-id="KHL - Arena Sport 6 Croatia" tvg-name="KHL : CSKA Moscow vs. SKA Saint Petersburg 04/03/25 - 16:30  Arena Sport 6 Croatia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", KHL : CSKA Moscow vs. SKA Saint Petersburg 04/03/25 - 16:30  Arena Sport 6 Croatia (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium29/mono.m3u8
+
 #EXTINF:-1 tvg-id="SHL - TV4 Sport Live 1" tvg-name="SHL : Skelleftea vs Timra 04/03/25 - 18:00  TV4 Sport Live 1" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", SHL : Skelleftea vs Timra 04/03/25 - 18:00  TV4 Sport Live 1 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2807,6 +2837,12 @@ https://nfsnew.iosplayer.ru/nfs/premium6/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium809/mono.m3u8
 
+#EXTINF:-1 tvg-id="NHL - V Sport Vinter" tvg-name="NHL : Carolina Hurricanes vs Detroit Red Wings 04/03/25 - 00:00  V Sport Vinter" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Carolina Hurricanes vs Detroit Red Wings 04/03/25 - 00:00  V Sport Vinter (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium106/mono.m3u8
+
 #EXTINF:-1 tvg-id="NHL - Home Feed" tvg-name="NHL : Columbus Blue Jackets vs Tampa Bay Lightning 04/03/25 - 00:00  Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Columbus Blue Jackets vs Tampa Bay Lightning 04/03/25 - 00:00  Home Feed (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2843,6 +2879,12 @@ https://zekonew.iosplayer.ru/zeko/premium777/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium407/mono.m3u8
 
+#EXTINF:-1 tvg-id="NHL - V Sport Premium Sweden" tvg-name="NHL : Calgary Flames vs Philadelphia Flyers 04/03/25 - 00:00  V Sport Premium Sweden" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Calgary Flames vs Philadelphia Flyers 04/03/25 - 00:00  V Sport Premium Sweden (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium107/mono.m3u8
+
 #EXTINF:-1 tvg-id="NHL - Home Feed" tvg-name="NHL : Winnipeg Jets vs New York Islanders 04/03/25 - 00:30  Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Winnipeg Jets vs New York Islanders 04/03/25 - 00:30  Home Feed (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2860,6 +2902,18 @@ https://nfsnew.iosplayer.ru/nfs/premium12/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium113/mono.m3u8
+
+#EXTINF:-1 tvg-id="NHL - Home Feed" tvg-name="NHL : New Jersey Devils vs Dallas Stars 04/03/25 - 01:00  Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : New Jersey Devils vs Dallas Stars 04/03/25 - 01:00  Home Feed (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium13/mono.m3u8
+
+#EXTINF:-1 tvg-id="NHL - Away Feed" tvg-name="NHL : New Jersey Devils vs Dallas Stars 04/03/25 - 01:00  Away Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : New Jersey Devils vs Dallas Stars 04/03/25 - 01:00  Away Feed (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium14/mono.m3u8
 
 #EXTINF:-1 tvg-id="NHL - Viaplay Sports 1 UK" tvg-name="NHL : New Jersey Devils vs Dallas Stars 04/03/25 - 01:00  Viaplay Sports 1 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : New Jersey Devils vs Dallas Stars 04/03/25 - 01:00  Viaplay Sports 1 UK (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -3010,6 +3064,12 @@ https://zekonew.iosplayer.ru/zeko/premium143/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium47/mono.m3u8
+
+#EXTINF:-1 tvg-id="Challenge Cup Women - Arena Sport 9 Croatia HD" tvg-name="Challenge Cup Women : Chieri 76 Volleyball vs. Roma Volley Club 04/03/25 - 19:00  Arena Sport 9 Croatia HD" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Challenge Cup Women : Chieri 76 Volleyball vs. Roma Volley Club 04/03/25 - 19:00  Arena Sport 9 Croatia HD (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium30/mono.m3u8
 
 #EXTINF:-1 tvg-id="Challenge Cup Women - Cosmote Sport 6 Greece" tvg-name="Challenge Cup Women : Chieri 76 Volleyball vs. Roma Volley Club 04/03/25 - 19:00  Cosmote Sport 6 Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Challenge Cup Women : Chieri 76 Volleyball vs. Roma Volley Club 04/03/25 - 19:00  Cosmote Sport 6 Greece (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -4241,6 +4301,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium771/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium365/mono.m3u8
 
+#EXTINF:-1 tvg-id="UEFA Champions League - Sky Sport 252 IT" tvg-name="UEFA Champions League : PSG vs Liverpool 05/03/25 - 20:00  Sky Sport 252 IT" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Champions League : PSG vs Liverpool 05/03/25 - 20:00  Sky Sport 252 IT (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium106/mono.m3u8
+
 #EXTINF:-1 tvg-id="UEFA Champions League - beIN SPORTS Australia 3" tvg-name="UEFA Champions League : PSG vs Liverpool 05/03/25 - 20:00  beIN SPORTS Australia 3" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Champions League : PSG vs Liverpool 05/03/25 - 20:00  beIN SPORTS Australia 3 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -4270,6 +4336,12 @@ https://dokko1new.iosplayer.ru/dokko1/premium560/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium567/mono.m3u8
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Blue Sport 3 Live" tvg-name="UEFA Champions League : PSG vs Liverpool 05/03/25 - 20:00  Blue Sport 3 Live" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Champions League : PSG vs Liverpool 05/03/25 - 20:00  Blue Sport 3 Live (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium107/mono.m3u8
 
 #EXTINF:-1 tvg-id="UEFA Champions League - Canal+ France" tvg-name="UEFA Champions League : PSG vs Liverpool 05/03/25 - 20:00  Canal+ France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Champions League : PSG vs Liverpool 05/03/25 - 20:00  Canal+ France (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -6082,6 +6154,12 @@ https://windnew.iosplayer.ru/wind/premium260/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium117/mono.m3u8
+
+#EXTINF:-1 tvg-id="NHL - Sport TV4 Portugal" tvg-name="NHL : Washington Capitals vs New York Rangers 05/03/25 - 00:30  Sport TV4 Portugal" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Washington Capitals vs New York Rangers 05/03/25 - 00:30  Sport TV4 Portugal (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium289/mono.m3u8
 
 #EXTINF:-1 tvg-id="NHL - TV3 Sport Denmark" tvg-name="NHL : Washington Capitals vs New York Rangers 05/03/25 - 00:30  TV3 Sport Denmark" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Washington Capitals vs New York Rangers 05/03/25 - 00:30  TV3 Sport Denmark (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
