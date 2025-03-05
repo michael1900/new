@@ -1701,7 +1701,7 @@ https://dokko1new.iosplayer.ru/dokko1/premium588/mono.m3u8
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://dokko1new.iosplayer.ru/dokko1/premium368/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium368/mono.m3u8
 
 #EXTINF:-1 tvg-id="ICC Champions Trophy Semi Final - SuperSport Grandstand" tvg-name="ICC Champions Trophy Semi Final : South Africa vs. New Zealand 05/03/25 - 09:00  SuperSport Grandstand" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", ICC Champions Trophy Semi Final : South Africa vs. New Zealand 05/03/25 - 09:00  SuperSport Grandstand (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -2075,11 +2075,11 @@ https://windnew.iosplayer.ru/wind/premium49/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium24/mono.m3u8
 
-#EXTINF:-1 tvg-id="Slovakia Extraliga - JOJ Sport Slovakia HD" tvg-name="Slovakia Extraliga : MBK Handlova vs. BC Prievidza 05/03/25 - 17:00  JOJ Sport Slovakia HD" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Slovakia Extraliga : MBK Handlova vs. BC Prievidza 05/03/25 - 17:00  JOJ Sport Slovakia HD (D)
+#EXTINF:-1 tvg-id="Czech Republic NBL - CT Sport Czech HD" tvg-name="Czech Republic NBL : Sokol Pisek vs. BK Decin 05/03/25 - 17:00  CT Sport Czech HD" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Czech Republic NBL : Sokol Pisek vs. BK Decin 05/03/25 - 17:00  CT Sport Czech HD (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://nfsnew.iosplayer.ru/nfs/premium23/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium25/mono.m3u8
 
 #EXTINF:-1 tvg-id="Bulgaria NBL - MAX Sport 2 Bulgaria" tvg-name="Bulgaria NBL : BC Beroe SZ vs. Academic Bultex 99 05/03/25 - 17:15  MAX Sport 2 Bulgaria" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Bulgaria NBL : BC Beroe SZ vs. Academic Bultex 99 05/03/25 - 17:15  MAX Sport 2 Bulgaria (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -2615,12 +2615,6 @@ https://windnew.iosplayer.ru/wind/premium134/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium432/mono.m3u8
 
-#EXTINF:-1 tvg-id="NBA - Home Feed" tvg-name="NBA : Oklahoma City Thunder vs Memphis Grizzlies 05/03/25 - 02:30  Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Oklahoma City Thunder vs Memphis Grizzlies 05/03/25 - 02:30  Home Feed (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://nfsnew.iosplayer.ru/nfs/premium23/mono.m3u8
-
 #EXTINF:-1 tvg-id="NBA - Away Feed" tvg-name="NBA : Oklahoma City Thunder vs Memphis Grizzlies 05/03/25 - 02:30  Away Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Oklahoma City Thunder vs Memphis Grizzlies 05/03/25 - 02:30  Away Feed (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2662,6 +2656,12 @@ https://zekonew.iosplayer.ru/zeko/premium412/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium707/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Home Feed" tvg-name="NBA : Detroit Pistons vs Los Angeles Clippers 05/03/25 - 03:30  Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Detroit Pistons vs Los Angeles Clippers 05/03/25 - 03:30  Home Feed (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium25/mono.m3u8
 
 #EXTINF:-1 tvg-id="NBA - Away Feed" tvg-name="NBA : Detroit Pistons vs Los Angeles Clippers 05/03/25 - 03:30  Away Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Detroit Pistons vs Los Angeles Clippers 05/03/25 - 03:30  Away Feed (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -2824,6 +2824,12 @@ https://nfsnew.iosplayer.ru/nfs/premium20/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium21/mono.m3u8
+
+#EXTINF:-1 tvg-id="Champions League - TV3 Max Denmark" tvg-name="Champions League : SC Magdeburg vs. SC Szeged 05/03/25 - 17:45  TV3 Max Denmark" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Champions League : SC Magdeburg vs. SC Szeged 05/03/25 - 17:45  TV3 Max Denmark (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium223/mono.m3u8
 
 #EXTINF:-1 tvg-id="Champions League - Digi Sport 2 Romania" tvg-name="Champions League : SC Magdeburg vs. SC Szeged 05/03/25 - 17:45  Digi Sport 2 Romania" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Champions League : SC Magdeburg vs. SC Szeged 05/03/25 - 17:45  Digi Sport 2 Romania (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -3329,12 +3335,6 @@ https://windnew.iosplayer.ru/wind/premium431/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium462/mono.m3u8
 
-#EXTINF:-1 tvg-id="Champions League Women - JOJ Sport Slovakia HD" tvg-name="Champions League Women : KS Rzeszow vs. Volley Conegliano 05/03/25 - 19:30  JOJ Sport Slovakia HD" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Champions League Women : KS Rzeszow vs. Volley Conegliano 05/03/25 - 19:30  JOJ Sport Slovakia HD (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://nfsnew.iosplayer.ru/nfs/premium23/mono.m3u8
-
 #EXTINF:-1 tvg-id="Champions League Women - Max Sport 4 Bulgaria" tvg-name="Champions League Women : KS Rzeszow vs. Volley Conegliano 05/03/25 - 19:30  Max Sport 4 Bulgaria" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Champions League Women : KS Rzeszow vs. Volley Conegliano 05/03/25 - 19:30  Max Sport 4 Bulgaria (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -3485,12 +3485,6 @@ https://windnew.iosplayer.ru/wind/premium861/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium862/mono.m3u8
 
-#EXTINF:-1 tvg-id="sky cinema uno" tvg-name="Sky Cinema Uno +24 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Sky", Sky Cinema Uno +24  (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium863/mono.m3u8
-
 #EXTINF:-1 tvg-id="sky cinemar omance" tvg-name="Sky Cinema Romance " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Sky", Sky Cinema Romance  (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -3532,6 +3526,12 @@ https://windnew.iosplayer.ru/wind/premium869/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium870/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sky Sport" tvg-name="Sky Calcio 1  " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-1-alt-de.png" group-title="Sport", Sky Calcio 1   (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium871/mono.m3u8
 
 #EXTINF:-1 tvg-id="Sky Sport 2" tvg-name="Sky Calcio 2  " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-2-alt-de.png" group-title="Sport", Sky Calcio 2   (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
