@@ -383,6 +383,12 @@ https://windnew.iosplayer.ru/wind/premium396/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium166/mono.m3u8
 
+#EXTINF:-1 tvg-id="UEFA Europa League - Cosmote Sport 2 Greece" tvg-name="UEFA Europa League : Simulcast 06/03/25 - 17:45  Cosmote Sport 2 Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : Simulcast 06/03/25 - 17:45  Cosmote Sport 2 Greece (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium623/mono.m3u8
+
 #EXTINF:-1 tvg-id="UEFA Europa League - TNT Sports 3 UK" tvg-name="UEFA Europa League : AZ vs Tottenham Hotspur 06/03/25 - 17:45  TNT Sports 3 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : AZ vs Tottenham Hotspur 06/03/25 - 17:45  TNT Sports 3 UK (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -478,6 +484,12 @@ https://windnew.iosplayer.ru/wind/premium916/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium429/mono.m3u8
+
+#EXTINF:-1 tvg-id="UEFA Europa League - Cosmote Sport 7 Greece" tvg-name="UEFA Europa League : AZ vs Tottenham Hotspur 06/03/25 - 17:45  Cosmote Sport 7 Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : AZ vs Tottenham Hotspur 06/03/25 - 17:45  Cosmote Sport 7 Greece (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium628/mono.m3u8
 
 #EXTINF:-1 tvg-id="UEFA Europa League - MAX Sport 4 Bulgaria" tvg-name="UEFA Europa League : AZ vs Tottenham Hotspur 06/03/25 - 17:45  MAX Sport 4 Bulgaria" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : AZ vs Tottenham Hotspur 06/03/25 - 17:45  MAX Sport 4 Bulgaria (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -598,6 +610,12 @@ https://wikinew.iosplayer.ru/wiki/premium585/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium135/mono.m3u8
+
+#EXTINF:-1 tvg-id="UEFA Europa League - Cosmote Sport 8 Greece" tvg-name="UEFA Europa League : Fenerbahçe vs Rangers 06/03/25 - 17:45  Cosmote Sport 8 Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : Fenerbahçe vs Rangers 06/03/25 - 17:45  Cosmote Sport 8 Greece (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium629/mono.m3u8
 
 #EXTINF:-1 tvg-id="UEFA Europa League - Arena Sport 4 Croatia" tvg-name="UEFA Europa League : Fenerbahçe vs Rangers 06/03/25 - 17:45  Arena Sport 4 Croatia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : Fenerbahçe vs Rangers 06/03/25 - 17:45  Arena Sport 4 Croatia (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -797,6 +815,12 @@ https://windnew.iosplayer.ru/wind/premium66/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium134/mono.m3u8
 
+#EXTINF:-1 tvg-id="UEFA Europa League - Cosmote Sport 5 Greece" tvg-name="UEFA Europa League : Real Sociedad vs Manchester United 06/03/25 - 17:45  Cosmote Sport 5 Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : Real Sociedad vs Manchester United 06/03/25 - 17:45  Cosmote Sport 5 Greece (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium626/mono.m3u8
+
 #EXTINF:-1 tvg-id="UEFA Europa League - Arena Sport 3 Croatia" tvg-name="UEFA Europa League : Real Sociedad vs Manchester United 06/03/25 - 17:45  Arena Sport 3 Croatia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : Real Sociedad vs Manchester United 06/03/25 - 17:45  Arena Sport 3 Croatia (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -863,6 +887,12 @@ https://nfsnew.iosplayer.ru/nfs/premium21/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium290/mono.m3u8
 
+#EXTINF:-1 tvg-id="UEFA Conference League - Cosmote Sport 9 Greece" tvg-name="UEFA Conference League : Real Betis vs Vitória Guimarães 06/03/25 - 17:45  Cosmote Sport 9 Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Conference League : Real Betis vs Vitória Guimarães 06/03/25 - 17:45  Cosmote Sport 9 Greece (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium630/mono.m3u8
+
 #EXTINF:-1 tvg-id="UEFA Conference League - SuperSport Variety 2" tvg-name="UEFA Conference League : Real Betis vs Vitória Guimarães 06/03/25 - 17:45  SuperSport Variety 2" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Conference League : Real Betis vs Vitória Guimarães 06/03/25 - 17:45  SuperSport Variety 2 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -880,6 +910,12 @@ https://dokko1new.iosplayer.ru/dokko1/premium96/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium22/mono.m3u8
+
+#EXTINF:-1 tvg-id="UEFA Conference League - Cosmote Sport 4 Greece" tvg-name="UEFA Conference League : Panathinaikos vs Fiorentina 06/03/25 - 17:45  Cosmote Sport 4 Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Conference League : Panathinaikos vs Fiorentina 06/03/25 - 17:45  Cosmote Sport 4 Greece (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium625/mono.m3u8
 
 #EXTINF:-1 tvg-id="UEFA Conference League - Sky Sport 252 IT" tvg-name="UEFA Conference League : Panathinaikos vs Fiorentina 06/03/25 - 17:45  Sky Sport 252 IT" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Conference League : Panathinaikos vs Fiorentina 06/03/25 - 17:45  Sky Sport 252 IT (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -1031,6 +1067,12 @@ https://windnew.iosplayer.ru/wind/premium917/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium431/mono.m3u8
 
+#EXTINF:-1 tvg-id="UEFA Conference League - Cosmote Sport 6 Greece" tvg-name="UEFA Conference League : København vs Chelsea 06/03/25 - 17:45  Cosmote Sport 6 Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Conference League : København vs Chelsea 06/03/25 - 17:45  Cosmote Sport 6 Greece (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium627/mono.m3u8
+
 #EXTINF:-1 tvg-id="UEFA Conference League - bTV Action Bulgaria" tvg-name="UEFA Conference League : København vs Chelsea 06/03/25 - 17:45  bTV Action Bulgaria" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Conference League : København vs Chelsea 06/03/25 - 17:45  bTV Action Bulgaria (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1138,6 +1180,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium166/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium396/mono.m3u8
+
+#EXTINF:-1 tvg-id="UEFA Europa League - Cosmote Sport 2 Greece" tvg-name="UEFA Europa League : Simulcast 06/03/25 - 20:00  Cosmote Sport 2 Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : Simulcast 06/03/25 - 20:00  Cosmote Sport 2 Greece (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium623/mono.m3u8
 
 #EXTINF:-1 tvg-id="UEFA Europa League - TNT Sports 1 UK" tvg-name="UEFA Europa League : Roma vs Athletic Club 06/03/25 - 20:00  TNT Sports 1 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : Roma vs Athletic Club 06/03/25 - 20:00  TNT Sports 1 UK (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -1282,6 +1330,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium139/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium432/mono.m3u8
+
+#EXTINF:-1 tvg-id="UEFA Europa League - Cosmote Sport 4 Greece" tvg-name="UEFA Europa League : Roma vs Athletic Club 06/03/25 - 20:00  Cosmote Sport 4 Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : Roma vs Athletic Club 06/03/25 - 20:00  Cosmote Sport 4 Greece (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium625/mono.m3u8
 
 #EXTINF:-1 tvg-id="UEFA Europa League - bTV Action Bulgaria" tvg-name="UEFA Europa League : Roma vs Athletic Club 06/03/25 - 20:00  bTV Action Bulgaria" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : Roma vs Athletic Club 06/03/25 - 20:00  bTV Action Bulgaria (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -1445,6 +1499,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium135/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium434/mono.m3u8
 
+#EXTINF:-1 tvg-id="UEFA Europa League - Cosmote Sport 5 Greece" tvg-name="UEFA Europa League : Ajax vs Eintracht Frankfurt 06/03/25 - 20:00  Cosmote Sport 5 Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : Ajax vs Eintracht Frankfurt 06/03/25 - 20:00  Cosmote Sport 5 Greece (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium626/mono.m3u8
+
 #EXTINF:-1 tvg-id="UEFA Europa League - ESPN2 Argentina" tvg-name="UEFA Europa League : Ajax vs Eintracht Frankfurt 06/03/25 - 20:00  ESPN2 Argentina" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : Ajax vs Eintracht Frankfurt 06/03/25 - 20:00  ESPN2 Argentina (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1577,6 +1637,12 @@ https://zekonew.iosplayer.ru/zeko/premium430/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium433/mono.m3u8
 
+#EXTINF:-1 tvg-id="UEFA Europa League - Cosmote Sport 7 Greece" tvg-name="UEFA Europa League : Viktoria Plzeň vs Lazio 06/03/25 - 20:00  Cosmote Sport 7 Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : Viktoria Plzeň vs Lazio 06/03/25 - 20:00  Cosmote Sport 7 Greece (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium628/mono.m3u8
+
 #EXTINF:-1 tvg-id="UEFA Europa League - ESPN2 Mexico" tvg-name="UEFA Europa League : Viktoria Plzeň vs Lazio 06/03/25 - 20:00  ESPN2 Mexico" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : Viktoria Plzeň vs Lazio 06/03/25 - 20:00  ESPN2 Mexico (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1612,6 +1678,12 @@ https://nfsnew.iosplayer.ru/nfs/premium33/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium20/mono.m3u8
+
+#EXTINF:-1 tvg-id="UEFA Europa League - Cosmote Sport 3 Greece" tvg-name="UEFA Europa League : Bodø / Glimt vs Olympiakos Piraeus 06/03/25 - 20:00  Cosmote Sport 3 Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : Bodø / Glimt vs Olympiakos Piraeus 06/03/25 - 20:00  Cosmote Sport 3 Greece (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium624/mono.m3u8
 
 #EXTINF:-1 tvg-id="UEFA Europa League - Sky Sport Austria 5" tvg-name="UEFA Europa League : Bodø / Glimt vs Olympiakos Piraeus 06/03/25 - 20:00  Sky Sport Austria 5" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : Bodø / Glimt vs Olympiakos Piraeus 06/03/25 - 20:00  Sky Sport Austria 5 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -1793,6 +1865,12 @@ https://windnew.iosplayer.ru/wind/premium134/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium580/mono.m3u8
 
+#EXTINF:-1 tvg-id="UEFA Conference League - Cosmote Sport 9 Greece" tvg-name="UEFA Conference League : Borac Banja Luka vs Rapid Wien 06/03/25 - 20:00  Cosmote Sport 9 Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Conference League : Borac Banja Luka vs Rapid Wien 06/03/25 - 20:00  Cosmote Sport 9 Greece (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium630/mono.m3u8
+
 #EXTINF:-1 tvg-id="UEFA Conference League - beIN Sports MENA 6" tvg-name="UEFA Conference League : Borac Banja Luka vs Rapid Wien 06/03/25 - 20:00  beIN Sports MENA 6" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Conference League : Borac Banja Luka vs Rapid Wien 06/03/25 - 20:00  beIN Sports MENA 6 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1816,6 +1894,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium105/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium9/mono.m3u8
+
+#EXTINF:-1 tvg-id="UEFA Conference League - Cosmote Sport 8 Greece" tvg-name="UEFA Conference League : Paphos vs Djurgården 06/03/25 - 20:00  Cosmote Sport 8 Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Conference League : Paphos vs Djurgården 06/03/25 - 20:00  Cosmote Sport 8 Greece (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium629/mono.m3u8
 
 #EXTINF:-1 tvg-id="UEFA Conference League - beIN Sports MENA 8" tvg-name="UEFA Conference League : Paphos vs Djurgården 06/03/25 - 20:00  beIN Sports MENA 8" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Conference League : Paphos vs Djurgården 06/03/25 - 20:00  beIN Sports MENA 8 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -2543,6 +2627,12 @@ https://dokko1new.iosplayer.ru/dokko1/premium158/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium526/mono.m3u8
 
+#EXTINF:-1 tvg-id="Euroleague - Nova Sports Start Greece" tvg-name="Euroleague : Bayern vs Crvena zvezda 06/03/25 - 19:30  Nova Sports Start Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Euroleague : Bayern vs Crvena zvezda 06/03/25 - 19:30  Nova Sports Start Greece (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium637/mono.m3u8
+
 #EXTINF:-1 tvg-id="Euroleague - Sport Klub 1 Serbia" tvg-name="Euroleague : Bayern vs Crvena zvezda 06/03/25 - 19:30  Sport Klub 1 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Euroleague : Bayern vs Crvena zvezda 06/03/25 - 19:30  Sport Klub 1 Serbia (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2561,6 +2651,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium160/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium436/mono.m3u8
 
+#EXTINF:-1 tvg-id="Euroleague - Nova Sports 4 Greece" tvg-name="Euroleague : Baskonia vs Zalgiris Kaunas 06/03/25 - 19:30  Nova Sports 4 Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Euroleague : Baskonia vs Zalgiris Kaunas 06/03/25 - 19:30  Nova Sports 4 Greece (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium634/mono.m3u8
+
 #EXTINF:-1 tvg-id="Euroleague - Sport 5 Live Israel" tvg-name="Euroleague : Baskonia vs Zalgiris Kaunas 06/03/25 - 19:30  Sport 5 Live Israel" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Euroleague : Baskonia vs Zalgiris Kaunas 06/03/25 - 19:30  Sport 5 Live Israel (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2578,6 +2674,12 @@ https://windnew.iosplayer.ru/wind/premium161/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium527/mono.m3u8
+
+#EXTINF:-1 tvg-id="Euroleague - Nova Sports 5 Greece" tvg-name="Euroleague : Olimpia Milano vs Fenerbahce 06/03/25 - 19:30  Nova Sports 5 Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Euroleague : Olimpia Milano vs Fenerbahce 06/03/25 - 19:30  Nova Sports 5 Greece (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium635/mono.m3u8
 
 #EXTINF:-1 tvg-id="Euroleague - Sport Klub 4 Serbia" tvg-name="Euroleague : Olimpia Milano vs Fenerbahce 06/03/25 - 19:30  Sport Klub 4 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Euroleague : Olimpia Milano vs Fenerbahce 06/03/25 - 19:30  Sport Klub 4 Serbia (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -2602,6 +2704,12 @@ https://windnew.iosplayer.ru/wind/premium521/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium454/mono.m3u8
+
+#EXTINF:-1 tvg-id="Euroleague - Nova Sports Prime Greece" tvg-name="Euroleague : Panathinaikos vs Real Madrid 06/03/25 - 19:45  Nova Sports Prime Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Euroleague : Panathinaikos vs Real Madrid 06/03/25 - 19:45  Nova Sports Prime Greece (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium638/mono.m3u8
 
 #EXTINF:-1 tvg-id="Euroleague - MAX Sport 2 Bulgaria" tvg-name="Euroleague : Panathinaikos vs Real Madrid 06/03/25 - 19:45  MAX Sport 2 Bulgaria" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Euroleague : Panathinaikos vs Real Madrid 06/03/25 - 19:45  MAX Sport 2 Bulgaria (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -2831,6 +2939,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium289/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium494/mono.m3u8
 
+#EXTINF:-1 tvg-id="NBA - Cosmote Sport 7 Greece" tvg-name="NBA : Golden State Warriors vs Brooklyn Nets 06/03/25 - 00:30  Cosmote Sport 7 Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Golden State Warriors vs Brooklyn Nets 06/03/25 - 00:30  Cosmote Sport 7 Greece (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium628/mono.m3u8
+
 #EXTINF:-1 tvg-id="NBA - Sport 5 Live Israel" tvg-name="NBA : Golden State Warriors vs Brooklyn Nets 06/03/25 - 00:30  Sport 5 Live Israel" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Golden State Warriors vs Brooklyn Nets 06/03/25 - 00:30  Sport 5 Live Israel (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2896,6 +3010,12 @@ https://zekonew.iosplayer.ru/zeko/premium386/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium134/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Cosmote Sport 4 Greece" tvg-name="NBA : New York Knicks vs Los Angeles Lakers 06/03/25 - 03:00  Cosmote Sport 4 Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : New York Knicks vs Los Angeles Lakers 06/03/25 - 03:00  Cosmote Sport 4 Greece (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium625/mono.m3u8
 
 #EXTINF:-1 tvg-id="NBA - TV4 Sportkanalen" tvg-name="NBA : New York Knicks vs Los Angeles Lakers 06/03/25 - 03:00  TV4 Sportkanalen" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : New York Knicks vs Los Angeles Lakers 06/03/25 - 03:00  TV4 Sportkanalen (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
