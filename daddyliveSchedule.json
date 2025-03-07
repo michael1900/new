@@ -1,5 +1,73 @@
 {
     "Friday 07th March 2025 - Schedule Time UK GMT": {
+        "PPV Events<\/span>": [
+            {
+                "time": "19:00",
+                "event": "wXw: 16 Carat Gold 2025, Night 1",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "174"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "20:00",
+                "event": "2025 ERX Snocross National",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "175"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "22:00",
+                "event": "2025 American Flat Track at Daytona Short Track",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "105"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Fight to Win Fight 274",
+                "channels": [
+                    {
+                        "channel_name": "Flotv",
+                        "channel_id": "106"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "00:00",
+                "event": "Samourai MMA 13",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "107"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "00:00",
+                "event": "World of Outlaws Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "108"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
         "TV Shows<\/span>": [
             {
                 "time": "13:30",
@@ -3168,6 +3236,259 @@
                         "channel_id": "7592474"
                     }
                 ]
+            },
+            {
+                "time": "21:00",
+                "event": "ITF (F) - Chihuahua (MEX) : Dimitra Pavlou vs Valeriya Strakhova",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7597350",
+                        "channel_id": "7597350"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "ITF (F) - Chihuahua (MEX) : Robin Anderson vs Despina Papamichail",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7596067",
+                        "channel_id": "7596067"
+                    }
+                ]
+            },
+            {
+                "time": "21:05",
+                "event": "WTA - Indian Wells (USA) : Clara Tauson vs Camila Osorio Serrano",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7590885",
+                        "channel_id": "7590885"
+                    }
+                ]
+            },
+            {
+                "time": "21:05",
+                "event": "WTA - Indian Wells (USA) : Katerina Siniakova vs Yulia Putintseva",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7590099",
+                        "channel_id": "7590099"
+                    }
+                ]
+            },
+            {
+                "time": "21:20",
+                "event": "ATP - Indian Wells (USA) : Alex Michelsen vs Colton Smith",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7589725",
+                        "channel_id": "7589725"
+                    }
+                ]
+            },
+            {
+                "time": "21:55",
+                "event": "ATP - Indian Wells (USA) : Holger Rune vs Corentin Moutet",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7590781",
+                        "channel_id": "7590781"
+                    }
+                ]
+            },
+            {
+                "time": "22:05",
+                "event": "WTA - Indian Wells (USA) : Caroline Garcia vs Iga Swiatek",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7589381",
+                        "channel_id": "7589381"
+                    }
+                ]
+            },
+            {
+                "time": "23:05",
+                "event": "WTA - Indian Wells (USA) : Jelena Ostapenko vs Xinyu Wang",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7589927",
+                        "channel_id": "7589927"
+                    }
+                ]
+            },
+            {
+                "time": "23:05",
+                "event": "WTA - Indian Wells (USA) : Lulu Sun vs Linda Noskova",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7589485",
+                        "channel_id": "7589485"
+                    }
+                ]
+            },
+            {
+                "time": "23:20",
+                "event": "ATP - Indian Wells (USA) : Arthur Fils vs Gabriel Diallo",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7594734",
+                        "channel_id": "7594734"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "WTA - Indian Wells (USA) : Magda Linette vs Jessica Pegula",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7589811",
+                        "channel_id": "7589811"
+                    }
+                ]
+            },
+            {
+                "time": "00:50",
+                "event": "ATP - Indian Wells (USA) : Tomas Machac vs Yosuke Watanuki",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7590796",
+                        "channel_id": "7590796"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "WTA - Indian Wells (USA) - Double : A.Kalinskaya\/C.Mcnally vs N.Kichenok\/E.Mertens",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7584754",
+                        "channel_id": "7584754"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "WTA - Indian Wells (USA) - Double : C.Bucsa\/M.Kato vs H.Chan\/V.Kudermetova",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7584679",
+                        "channel_id": "7584679"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "WTA - Indian Wells (USA) : Caroline Dolehide vs Eva Lys",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7595373",
+                        "channel_id": "7595373"
+                    }
+                ]
+            },
+            {
+                "time": "01:05",
+                "event": "WTA - Indian Wells (USA) - Double : L.A.Fernandez\/L.Stefani vs G.Dabrowski\/E.Routliffe",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7584688",
+                        "channel_id": "7584688"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "WTA - Indian Wells (USA) - Double : A.Panova\/E.Shibahara vs S.Kenin\/L.Kichenok",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7584686",
+                        "channel_id": "7584686"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "WTA - Indian Wells (USA) : Ashlyn Krueger vs Elina Svitolina",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7590819",
+                        "channel_id": "7590819"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "ATP - Indian Wells (USA) : Bu Yunchaokete vs Daniil Medvedev",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7589572",
+                        "channel_id": "7589572"
+                    }
+                ]
+            },
+            {
+                "time": "02:05",
+                "event": "WTA - Indian Wells (USA) : Varvara Gracheva vs Mirra Andreeva",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7589497",
+                        "channel_id": "7589497"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "UTR (F) - Newport Beach (USA) : Agnes Guggenheim vs Tricia Mar",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7578656",
+                        "channel_id": "7578656"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "UTR (F) - Newport Beach (USA) : Eduarda Piai vs Emmi Kolyszko",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7563778",
+                        "channel_id": "7563778"
+                    }
+                ]
+            },
+            {
+                "time": "03:10",
+                "event": "ATP - Indian Wells (USA) : Damir Dzumhur vs Frances Tiafoe",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7590085",
+                        "channel_id": "7590085"
+                    }
+                ]
             }
         ],
         "Motorsport<\/span>": [
@@ -3215,6 +3536,10 @@
                 "time": "19:00",
                 "event": "IBF Title Fights : Harlem Eubank vs Tyrone McKenna",
                 "channels": [
+                    {
+                        "channel_name": "PPV Feed",
+                        "channel_id": "173"
+                    },
                     {
                         "channel_name": "Channel 5 UK",
                         "channel_id": "355"
