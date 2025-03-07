@@ -959,6 +959,12 @@ https://nfsnew.iosplayer.ru/nfs/premium19/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium20/mono.m3u8
 
+#EXTINF:-1 tvg-id="Egypt - Egypt Cup - Ontime Sports Egypt" tvg-name="Egypt - Egypt Cup : National Bank of Egypt vs Al Masry 07/03/25 - 19:30  Ontime Sports Egypt" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Egypt - Egypt Cup : National Bank of Egypt vs Al Masry 07/03/25 - 19:30  Ontime Sports Egypt (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium21/mono.m3u8
+
 #EXTINF:-1 tvg-id="Bundesliga - DAZN1 DE" tvg-name="Bundesliga : Borussia M'gladbach vs Mainz 05 07/03/25 - 19:30  DAZN1 DE" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Bundesliga : Borussia M'gladbach vs Mainz 05 07/03/25 - 19:30  DAZN1 DE (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2307,7 +2313,7 @@ https://windnew.iosplayer.ru/wind/premium397/mono.m3u8
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://wikinew.iosplayer.ru/wiki/premium403/mono.m3u8
+https://top2new.iosplayer.ru/top2/premium403/mono.m3u8
 
 #EXTINF:-1 tvg-id="Romania, Liga Nationala - Prima Sport 3 Romania" tvg-name="Romania, Liga Nationala : CSM CSU Oradea vs. CS Rapid Bucuresti 07/03/25 - 17:00  Prima Sport 3 Romania" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Romania, Liga Nationala : CSM CSU Oradea vs. CS Rapid Bucuresti 07/03/25 - 17:00  Prima Sport 3 Romania (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -2795,12 +2801,6 @@ https://dokko1new.iosplayer.ru/dokko1/premium625/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium81/mono.m3u8
 
-#EXTINF:-1 tvg-id="NBA - ESPN 2 Argentina" tvg-name="NBA : Memphis Grizzlies vs Dallas Mavericks 07/03/25 - 00:30  ESPN 2 Argentina" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Memphis Grizzlies vs Dallas Mavericks 07/03/25 - 00:30  ESPN 2 Argentina (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium150/mono.m3u8
-
 #EXTINF:-1 tvg-id="NBA - Home Feed" tvg-name="NBA : Minnesota Timberwolves vs Miami Heat 07/03/25 - 01:00  Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Minnesota Timberwolves vs Miami Heat 07/03/25 - 01:00  Home Feed (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2818,6 +2818,12 @@ https://nfsnew.iosplayer.ru/nfs/premium20/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium905/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Home Feed" tvg-name="NBA : Portland Trail Blazers vs Oklahoma City Thunder 07/03/25 - 01:00  Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Portland Trail Blazers vs Oklahoma City Thunder 07/03/25 - 01:00  Home Feed (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium21/mono.m3u8
 
 #EXTINF:-1 tvg-id="NBA - Away Feed" tvg-name="NBA : Portland Trail Blazers vs Oklahoma City Thunder 07/03/25 - 01:00  Away Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Portland Trail Blazers vs Oklahoma City Thunder 07/03/25 - 01:00  Away Feed (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -2878,12 +2884,6 @@ https://nfsnew.iosplayer.ru/nfs/premium923/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium926/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA - ESPN 2 Argentina" tvg-name="NBA : Phoenix Suns vs Denver Nuggets 07/03/25 - 03:00  ESPN 2 Argentina" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Phoenix Suns vs Denver Nuggets 07/03/25 - 03:00  ESPN 2 Argentina (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium150/mono.m3u8
 
 #EXTINF:-1 tvg-id="NBA - Home Feed" tvg-name="NBA : San Antonio Spurs vs Sacramento Kings 07/03/25 - 03:00  Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : San Antonio Spurs vs Sacramento Kings 07/03/25 - 03:00  Home Feed (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -3136,12 +3136,6 @@ https://nfsnew.iosplayer.ru/nfs/premium18/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium16/mono.m3u8
-
-#EXTINF:-1 tvg-id="KHL - Arena Sport 4 Serbia" tvg-name="KHL : HC Dynamo Moscow vs. Lokomotiv Yaroslavl 07/03/25 - 16:30  Arena Sport 4 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", KHL : HC Dynamo Moscow vs. Lokomotiv Yaroslavl 07/03/25 - 16:30  Arena Sport 4 Serbia (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium581/mono.m3u8
 
 #EXTINF:-1 tvg-id="KHL - Arena Sport 4 Croatia" tvg-name="KHL : HC Dynamo Moscow vs. Lokomotiv Yaroslavl 07/03/25 - 16:30  Arena Sport 4 Croatia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", KHL : HC Dynamo Moscow vs. Lokomotiv Yaroslavl 07/03/25 - 16:30  Arena Sport 4 Croatia (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -3653,12 +3647,6 @@ https://dokko1new.iosplayer.ru/dokko1/premium587/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium31/mono.m3u8
 
-#EXTINF:-1 tvg-id="SOUTH AMERICA - ESPN2 Argentina" tvg-name="SOUTH AMERICA: Super Rugby Americas : Tarucas vs Pampas XV 07/03/25 - 22:00  ESPN2 Argentina" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", SOUTH AMERICA: Super Rugby Americas : Tarucas vs Pampas XV 07/03/25 - 22:00  ESPN2 Argentina (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium150/mono.m3u8
-
 #EXTINF:-1 tvg-id="Major League Rugby - Sky Sport 3 NZ" tvg-name="Major League Rugby : Miami Sharks vs Chicago Hounds 07/03/25 - 00:00  Sky Sport 3 NZ" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Major League Rugby : Miami Sharks vs Chicago Hounds 07/03/25 - 00:00  Sky Sport 3 NZ (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -3808,12 +3796,6 @@ https://ddy6new.iosplayer.ru/ddy6/premium454/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium79/mono.m3u8
-
-#EXTINF:-1 tvg-id="World Championship | Trondheim 4x7.5km Relay | Women - EuroSport 1 UK" tvg-name="World Championship | Trondheim 4x7.5km Relay | Women 07/03/25 - 12:45  EuroSport 1 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", World Championship | Trondheim 4x7.5km Relay | Women 07/03/25 - 12:45  EuroSport 1 UK (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium41/mono.m3u8
 
 #EXTINF:-1 tvg-id="World Championship | Trondheim 4x7.5km Relay | Women - EuroSport 1 Poland" tvg-name="World Championship | Trondheim 4x7.5km Relay | Women 07/03/25 - 12:45  EuroSport 1 Poland" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", World Championship | Trondheim 4x7.5km Relay | Women 07/03/25 - 12:45  EuroSport 1 Poland (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
