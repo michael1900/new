@@ -1,4 +1,40 @@
 #EXTM3U url-tvg="http://epg-guide.com/it.gz"
+#EXTINF:-1 tvg-id="wXw - Triller TV" tvg-name="wXw: 16 Carat Gold 2025, Night 1 07/03/25 - 19:00  Triller TV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", wXw: 16 Carat Gold 2025, Night 1 07/03/25 - 19:00  Triller TV (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium174/mono.m3u8
+
+#EXTINF:-1 tvg-id="2025 ERX Snocross National - Floracing" tvg-name="2025 ERX Snocross National 07/03/25 - 20:00  Floracing" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", 2025 ERX Snocross National 07/03/25 - 20:00  Floracing (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium175/mono.m3u8
+
+#EXTINF:-1 tvg-id="2025 American Flat Track at Daytona Short Track - Floracing" tvg-name="2025 American Flat Track at Daytona Short Track 07/03/25 - 22:00  Floracing" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", 2025 American Flat Track at Daytona Short Track 07/03/25 - 22:00  Floracing (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium105/mono.m3u8
+
+#EXTINF:-1 tvg-id="2025 Fight to Win Fight 274 - Flotv" tvg-name="2025 Fight to Win Fight 274 07/03/25 - 22:00  Flotv" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", 2025 Fight to Win Fight 274 07/03/25 - 22:00  Flotv (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium106/mono.m3u8
+
+#EXTINF:-1 tvg-id="Samourai MMA 13 - UFC Fight Pass" tvg-name="Samourai MMA 13 07/03/25 - 00:00  UFC Fight Pass" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Samourai MMA 13 07/03/25 - 00:00  UFC Fight Pass (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium107/mono.m3u8
+
+#EXTINF:-1 tvg-id="World of Outlaws Sprint Cars - Event PPV" tvg-name="World of Outlaws Sprint Cars 07/03/25 - 00:00  Event PPV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", World of Outlaws Sprint Cars 07/03/25 - 00:00  Event PPV (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium108/mono.m3u8
+
 #EXTINF:-1 tvg-id="Divorce Court Season 26, Episode 120 - MY9TV USA" tvg-name="Divorce Court Season 26, Episode 120 07/03/25 - 13:30  MY9TV USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Divorce Court Season 26, Episode 120 07/03/25 - 13:30  MY9TV USA (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -713,6 +749,12 @@ https://dokko1new.iosplayer.ru/dokko1/premium96/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium55/mono.m3u8
 
+#EXTINF:-1 tvg-id="Swiss Challenge League - Blue Sport 2 Live" tvg-name="Swiss Challenge League : Stade Nyonnais vs Étoile Carouge 07/03/25 - 18:30  Blue Sport 2 Live" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Swiss Challenge League : Stade Nyonnais vs Étoile Carouge 07/03/25 - 18:30  Blue Sport 2 Live (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium59/mono.m3u8
+
 #EXTINF:-1 tvg-id="Hungary - NB1 - M4 Sports Hungary" tvg-name="Hungary - NB1 : Kecskeméti TE vs Fehérvár 07/03/25 - 19:00  M4 Sports Hungary" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Hungary - NB1 : Kecskeméti TE vs Fehérvár 07/03/25 - 19:00  M4 Sports Hungary (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -904,6 +946,12 @@ https://windnew.iosplayer.ru/wind/premium259/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium48/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie B - DAZN Italia" tvg-name="Italy - Serie B : Cosenza vs Reggiana 07/03/25 - 19:30  DAZN Italia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Italy - Serie B : Cosenza vs Reggiana 07/03/25 - 19:30  DAZN Italia (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium69/mono.m3u8
 
 #EXTINF:-1 tvg-id="Italy - Serie C - Sky Sport 253 IT" tvg-name="Italy - Serie C : SPAL vs Arezzo 07/03/25 - 19:30  Sky Sport 253 IT" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Italy - Serie C : SPAL vs Arezzo 07/03/25 - 19:30  Sky Sport 253 IT (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -1509,7 +1557,7 @@ https://windnew.iosplayer.ru/wind/premium66/mono.m3u8
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://dokko1new.iosplayer.ru/dokko1/premium368/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium368/mono.m3u8
 
 #EXTINF:-1 tvg-id="Women IPL - Willow Cricket" tvg-name="Women IPL : Delhi Capitals W vs Gujarat Giants W 07/03/25 - 14:00  Willow Cricket" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Women IPL : Delhi Capitals W vs Gujarat Giants W 07/03/25 - 14:00  Willow Cricket (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -1545,7 +1593,7 @@ https://dokko1new.iosplayer.ru/dokko1/premium588/mono.m3u8
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://dokko1new.iosplayer.ru/dokko1/premium368/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium368/mono.m3u8
 
 #EXTINF:-1 tvg-id="1-Day Cup '25 - SuperSport Grandstand" tvg-name="1-Day Cup '25: Dolphins vs Knights 07/03/25 - 18:00  SuperSport Grandstand" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", 1-Day Cup '25: Dolphins vs Knights 07/03/25 - 18:00  SuperSport Grandstand (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -1557,7 +1605,7 @@ https://zekonew.iosplayer.ru/zeko/premium412/mono.m3u8
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://dokko1new.iosplayer.ru/dokko1/premium368/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium368/mono.m3u8
 
 #EXTINF:-1 tvg-id="ATP/WTA 1st Round 2025 BNP Paribas Open Tennis - Tennis Channel" tvg-name="ATP/WTA 1st Round 2025 BNP Paribas Open Tennis 07/03/25 - 03:00  Tennis Channel" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", ATP/WTA 1st Round 2025 BNP Paribas Open Tennis 07/03/25 - 03:00  Tennis Channel (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -1666,6 +1714,12 @@ https://zekonew.iosplayer.ru/zeko/premium272/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium39/mono.m3u8
+
+#EXTINF:-1 tvg-id="IBF Title Fights - PPV Feed" tvg-name="IBF Title Fights : Harlem Eubank vs Tyrone McKenna 07/03/25 - 19:00  PPV Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", IBF Title Fights : Harlem Eubank vs Tyrone McKenna 07/03/25 - 19:00  PPV Feed (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium173/mono.m3u8
 
 #EXTINF:-1 tvg-id="IBF Title Fights - Channel 5 UK" tvg-name="IBF Title Fights : Harlem Eubank vs Tyrone McKenna 07/03/25 - 19:00  Channel 5 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", IBF Title Fights : Harlem Eubank vs Tyrone McKenna 07/03/25 - 19:00  Channel 5 UK (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -3058,12 +3112,6 @@ https://ddy6new.iosplayer.ru/ddy6/premium105/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium117/mono.m3u8
-
-#EXTINF:-1 tvg-id="Live racing from Meydan, Exeter, Leicester and Ayr - Racing Tv UK" tvg-name="Live racing from Meydan, Exeter, Leicester and Ayr 07/03/25 - 13:00  Racing Tv UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Live racing from Meydan, Exeter, Leicester and Ayr 07/03/25 - 13:00  Racing Tv UK (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://zekonew.iosplayer.ru/zeko/premium555/mono.m3u8
 
 #EXTINF:-1 tvg-id="Live racing from Newcastle - Sky Sports Racing UK" tvg-name="Live racing from Newcastle 07/03/25 - 17:00  Sky Sports Racing UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Live racing from Newcastle 07/03/25 - 17:00  Sky Sports Racing UK (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
