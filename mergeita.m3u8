@@ -875,12 +875,6 @@ https://zekonew.iosplayer.ru/zeko/premium141/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium20/mono.m3u8
 
-#EXTINF:-1 tvg-id="UEFA Conference League - Movistar Liga de Campeones 2" tvg-name="UEFA Conference League : Real Betis vs Vitória Guimarães 06/03/25 - 17:45  Movistar Liga de Campeones 2" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Conference League : Real Betis vs Vitória Guimarães 06/03/25 - 17:45  Movistar Liga de Campeones 2 (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://nfsnew.iosplayer.ru/nfs/premium21/mono.m3u8
-
 #EXTINF:-1 tvg-id="UEFA Conference League - Sport TV5 Portugal" tvg-name="UEFA Conference League : Real Betis vs Vitória Guimarães 06/03/25 - 17:45  Sport TV5 Portugal" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Conference League : Real Betis vs Vitória Guimarães 06/03/25 - 17:45  Sport TV5 Portugal (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1157,6 +1151,12 @@ https://windnew.iosplayer.ru/wind/premium49/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium643/mono.m3u8
 
+#EXTINF:-1 tvg-id="Saudi Arabia - Pro League - SSC" tvg-name="Saudi Arabia - Pro League : Al Kholood vs Al Fateh 06/03/25 - 19:00  SSC" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Saudi Arabia - Pro League : Al Kholood vs Al Fateh 06/03/25 - 19:00  SSC (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium109/mono.m3u8
+
 #EXTINF:-1 tvg-id="UEFA Europa League - Sky Sport Austria 1" tvg-name="UEFA Europa League : Simulcast 06/03/25 - 20:00  Sky Sport Austria 1" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : Simulcast 06/03/25 - 20:00  Sky Sport Austria 1 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1414,12 +1414,6 @@ https://nfsnew.iosplayer.ru/nfs/premium15/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium260/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Europa League - Movistar Liga de Campeones 2" tvg-name="UEFA Europa League : Ajax vs Eintracht Frankfurt 06/03/25 - 20:00  Movistar Liga de Campeones 2" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : Ajax vs Eintracht Frankfurt 06/03/25 - 20:00  Movistar Liga de Campeones 2 (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://nfsnew.iosplayer.ru/nfs/premium21/mono.m3u8
 
 #EXTINF:-1 tvg-id="UEFA Europa League - beIN SPORTS Australia 1" tvg-name="UEFA Europa League : Ajax vs Eintracht Frankfurt 06/03/25 - 20:00  beIN SPORTS Australia 1" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : Ajax vs Eintracht Frankfurt 06/03/25 - 20:00  beIN SPORTS Australia 1 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -2410,6 +2404,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium772/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium232/mono.m3u8
+
+#EXTINF:-1 tvg-id="LFA 203 - UFC Fight Pass" tvg-name="LFA 203: Satybaldiev vs. Soares 06/03/25 - 04:00  UFC Fight Pass" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", LFA 203: Satybaldiev vs. Soares 06/03/25 - 04:00  UFC Fight Pass (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium109/mono.m3u8
 
 #EXTINF:-1 tvg-id="Live European Athletics Indoor Championships - Omnisport Apeldoorn - Arena RTE 2" tvg-name="Live European Athletics Indoor Championships - Omnisport Apeldoorn 06/03/25 - 17:00  Arena RTE 2" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Live European Athletics Indoor Championships - Omnisport Apeldoorn 06/03/25 - 17:00  Arena RTE 2 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
