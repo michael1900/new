@@ -6083,17 +6083,17 @@ https://nfsnew.iosplayer.ru/nfs/premium33/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium111/mono.m3u8
 
-#EXTINF:-1 tvg-id="MLB - Bally Sports Sun" tvg-name="MLB : Minnesota Twins vs Tampa Bay Rays 07/03/25 - 18:05  Bally Sports Sun" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", MLB : Minnesota Twins vs Tampa Bay Rays 07/03/25 - 18:05  Bally Sports Sun (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://zekonew.iosplayer.ru/zeko/premium905/mono.m3u8
-
 #EXTINF:-1 tvg-id="MLB - Sportsnet One" tvg-name="MLB : Minnesota Twins vs Tampa Bay Rays 07/03/25 - 18:05  Sportsnet One" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", MLB : Minnesota Twins vs Tampa Bay Rays 07/03/25 - 18:05  Sportsnet One (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium411/mono.m3u8
+
+#EXTINF:-1 tvg-id="MLB - Bally Sports Sun" tvg-name="MLB : Minnesota Twins vs Tampa Bay Rays 07/03/25 - 18:05  Bally Sports Sun" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", MLB : Minnesota Twins vs Tampa Bay Rays 07/03/25 - 18:05  Bally Sports Sun (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium905/mono.m3u8
 
 #EXTINF:-1 tvg-id="MLB - MLB Network" tvg-name="MLB : Philadelphia Phillies vs Pittsburgh Pirates 07/03/25 - 18:05  MLB Network" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", MLB : Philadelphia Phillies vs Pittsburgh Pirates 07/03/25 - 18:05  MLB Network (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -7037,6 +7037,54 @@ https://windnew.iosplayer.ru/wind/premium554/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium758/mono.m3u8
 
+#EXTINF:-1 tvg-id="MHL - KHL TV" tvg-name="MHL : Stalnye Lisy vs Molot Perm 07/03/25 - 11:30  KHL TV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", MHL : Stalnye Lisy vs Molot Perm 07/03/25 - 11:30  KHL TV (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium16/mono.m3u8
+
+#EXTINF:-1 tvg-id="MHL - KHL TV" tvg-name="MHL : Snezhnye Barsy vs AKM-Novomoskovsk 07/03/25 - 14:00  KHL TV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", MHL : Snezhnye Barsy vs AKM-Novomoskovsk 07/03/25 - 14:00  KHL TV (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium16/mono.m3u8
+
+#EXTINF:-1 tvg-id="CZECH REPUBLIC - CT2 CZ" tvg-name="CZECH REPUBLIC: Extraliga : Karlovy Vary vs Vitkovice 07/03/25 - 16:00  CT2 CZ" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", CZECH REPUBLIC: Extraliga : Karlovy Vary vs Vitkovice 07/03/25 - 16:00  CT2 CZ (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium18/mono.m3u8
+
+#EXTINF:-1 tvg-id="KHL - KHL TV" tvg-name="KHL : HC Dynamo Moscow vs. Lokomotiv Yaroslavl 07/03/25 - 16:30  KHL TV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", KHL : HC Dynamo Moscow vs. Lokomotiv Yaroslavl 07/03/25 - 16:30  KHL TV (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium16/mono.m3u8
+
+#EXTINF:-1 tvg-id="KHL - Arena Sport 4 Serbia" tvg-name="KHL : HC Dynamo Moscow vs. Lokomotiv Yaroslavl 07/03/25 - 16:30  Arena Sport 4 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", KHL : HC Dynamo Moscow vs. Lokomotiv Yaroslavl 07/03/25 - 16:30  Arena Sport 4 Serbia (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium581/mono.m3u8
+
+#EXTINF:-1 tvg-id="KHL - Arena Sport 4 Croatia" tvg-name="KHL : HC Dynamo Moscow vs. Lokomotiv Yaroslavl 07/03/25 - 16:30  Arena Sport 4 Croatia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", KHL : HC Dynamo Moscow vs. Lokomotiv Yaroslavl 07/03/25 - 16:30  Arena Sport 4 Croatia (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium580/mono.m3u8
+
+#EXTINF:-1 tvg-id="SLOVAKIA - Sport 1 CZ" tvg-name="SLOVAKIA: Extraliga : Ban. Bystrica vs Nitra 07/03/25 - 17:00  Sport 1 CZ" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", SLOVAKIA: Extraliga : Ban. Bystrica vs Nitra 07/03/25 - 17:00  Sport 1 CZ (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium161/mono.m3u8
+
+#EXTINF:-1 tvg-id="SLOVAKIA - JOJ Sport Slovakia" tvg-name="SLOVAKIA: Extraliga : Slovan Bratislava vs Kosice 07/03/25 - 17:00  JOJ Sport Slovakia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", SLOVAKIA: Extraliga : Slovan Bratislava vs Kosice 07/03/25 - 17:00  JOJ Sport Slovakia (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium162/mono.m3u8
+
 #EXTINF:-1 tvg-id="HockeyAllsvenskan - TV4 Sport Live 4" tvg-name="HockeyAllsvenskan : Oskarshamn vs Sodertalje 07/03/25 - 18:00  TV4 Sport Live 4" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", HockeyAllsvenskan : Oskarshamn vs Sodertalje 07/03/25 - 18:00  TV4 Sport Live 4 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -7072,78 +7120,6 @@ https://zekonew.iosplayer.ru/zeko/premium703/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium707/mono.m3u8
-
-#EXTINF:-1 tvg-id="CZECH REPUBLIC - CT2 CZ" tvg-name="CZECH REPUBLIC: Extraliga : Karlovy Vary vs Vitkovice 07/03/25 - 16:00  CT2 CZ" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", CZECH REPUBLIC: Extraliga : Karlovy Vary vs Vitkovice 07/03/25 - 16:00  CT2 CZ (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://nfsnew.iosplayer.ru/nfs/premium18/mono.m3u8
-
-#EXTINF:-1 tvg-id="SLOVAKIA - Sport 1 CZ" tvg-name="SLOVAKIA: Extraliga : Ban. Bystrica vs Nitra 07/03/25 - 17:00  Sport 1 CZ" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", SLOVAKIA: Extraliga : Ban. Bystrica vs Nitra 07/03/25 - 17:00  Sport 1 CZ (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium161/mono.m3u8
-
-#EXTINF:-1 tvg-id="SLOVAKIA - JOJ Sport Slovakia" tvg-name="SLOVAKIA: Extraliga : Slovan Bratislava vs Kosice 07/03/25 - 17:00  JOJ Sport Slovakia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", SLOVAKIA: Extraliga : Slovan Bratislava vs Kosice 07/03/25 - 17:00  JOJ Sport Slovakia (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium162/mono.m3u8
-
-#EXTINF:-1 tvg-id="PWHL - TSN4" tvg-name="PWHL : Charge vs. Frost 07/03/25 - 00:00  TSN4" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", PWHL : Charge vs. Frost 07/03/25 - 00:00  TSN4 (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://zekonew.iosplayer.ru/zeko/premium114/mono.m3u8
-
-#EXTINF:-1 tvg-id="PWHL - Bally Sports South" tvg-name="PWHL : Charge vs. Frost 07/03/25 - 00:00  Bally Sports South" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", PWHL : Charge vs. Frost 07/03/25 - 00:00  Bally Sports South (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://nfsnew.iosplayer.ru/nfs/premium903/mono.m3u8
-
-#EXTINF:-1 tvg-id="College Hockey - NESN USA" tvg-name="College Hockey : Maine at Massachusetts 07/03/25 - 00:00  NESN USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", College Hockey : Maine at Massachusetts 07/03/25 - 00:00  NESN USA (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://nfsnew.iosplayer.ru/nfs/premium762/mono.m3u8
-
-#EXTINF:-1 tvg-id="College Hockey - CBS Sports Network" tvg-name="College Hockey : Omaha vs North Dakota 07/03/25 - 00:30  CBS Sports Network" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", College Hockey : Omaha vs North Dakota 07/03/25 - 00:30  CBS Sports Network (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://zekonew.iosplayer.ru/zeko/premium308/mono.m3u8
-
-#EXTINF:-1 tvg-id="MHL - KHL TV" tvg-name="MHL : Stalnye Lisy vs Molot Perm 07/03/25 - 11:30  KHL TV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", MHL : Stalnye Lisy vs Molot Perm 07/03/25 - 11:30  KHL TV (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://nfsnew.iosplayer.ru/nfs/premium16/mono.m3u8
-
-#EXTINF:-1 tvg-id="MHL - KHL TV" tvg-name="MHL : Snezhnye Barsy vs AKM-Novomoskovsk 07/03/25 - 14:00  KHL TV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", MHL : Snezhnye Barsy vs AKM-Novomoskovsk 07/03/25 - 14:00  KHL TV (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://nfsnew.iosplayer.ru/nfs/premium16/mono.m3u8
-
-#EXTINF:-1 tvg-id="KHL - KHL TV" tvg-name="KHL : HC Dynamo Moscow vs. Lokomotiv Yaroslavl 07/03/25 - 16:30  KHL TV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", KHL : HC Dynamo Moscow vs. Lokomotiv Yaroslavl 07/03/25 - 16:30  KHL TV (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://nfsnew.iosplayer.ru/nfs/premium16/mono.m3u8
-
-#EXTINF:-1 tvg-id="KHL - Arena Sport 4 Serbia" tvg-name="KHL : HC Dynamo Moscow vs. Lokomotiv Yaroslavl 07/03/25 - 16:30  Arena Sport 4 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", KHL : HC Dynamo Moscow vs. Lokomotiv Yaroslavl 07/03/25 - 16:30  Arena Sport 4 Serbia (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium581/mono.m3u8
-
-#EXTINF:-1 tvg-id="KHL - Arena Sport 4 Croatia" tvg-name="KHL : HC Dynamo Moscow vs. Lokomotiv Yaroslavl 07/03/25 - 16:30  Arena Sport 4 Croatia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", KHL : HC Dynamo Moscow vs. Lokomotiv Yaroslavl 07/03/25 - 16:30  Arena Sport 4 Croatia (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium580/mono.m3u8
 
 #EXTINF:-1 tvg-id="DEL - Magenta Sport 304" tvg-name="DEL : Adler Mannheim vs Eisbären Berlin 07/03/25 - 18:30  Magenta Sport 304" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", DEL : Adler Mannheim vs Eisbären Berlin 07/03/25 - 18:30  Magenta Sport 304 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -7186,6 +7162,30 @@ https://ddy6new.iosplayer.ru/ddy6/premium151/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium152/mono.m3u8
+
+#EXTINF:-1 tvg-id="PWHL - TSN4" tvg-name="PWHL : Charge vs. Frost 07/03/25 - 00:00  TSN4" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", PWHL : Charge vs. Frost 07/03/25 - 00:00  TSN4 (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium114/mono.m3u8
+
+#EXTINF:-1 tvg-id="PWHL - Bally Sports South" tvg-name="PWHL : Charge vs. Frost 07/03/25 - 00:00  Bally Sports South" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", PWHL : Charge vs. Frost 07/03/25 - 00:00  Bally Sports South (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium903/mono.m3u8
+
+#EXTINF:-1 tvg-id="College Hockey - NESN USA" tvg-name="College Hockey : Maine vs Massachusetts 07/03/25 - 00:00  NESN USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", College Hockey : Maine vs Massachusetts 07/03/25 - 00:00  NESN USA (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium762/mono.m3u8
+
+#EXTINF:-1 tvg-id="College Hockey - CBS Sports Network" tvg-name="College Hockey : Omaha vs North Dakota 07/03/25 - 00:30  CBS Sports Network" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", College Hockey : Omaha vs North Dakota 07/03/25 - 00:30  CBS Sports Network (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium308/mono.m3u8
 
 #EXTINF:-1 tvg-id="NHL - Home Feed" tvg-name="NHL : Winnipeg Jets vs New Jersey Devils 07/03/25 - 00:00  Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Winnipeg Jets vs New Jersey Devils 07/03/25 - 00:00  Home Feed (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
