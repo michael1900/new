@@ -5,6 +5,12 @@
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium205/mono.m3u8
 
+#EXTINF:-1 tvg-id="2025 ERX Snocross National - Floracing" tvg-name="2025 ERX Snocross National 08/03/25 - 17:00  Floracing" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", 2025 ERX Snocross National 08/03/25 - 17:00  Floracing (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium206/mono.m3u8
+
 #EXTINF:-1 tvg-id="AMA Supercross Championship Indianapolis - Peacock" tvg-name="AMA Supercross Championship Indianapolis 08/03/25 - 18:30  Peacock" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", AMA Supercross Championship Indianapolis 08/03/25 - 18:30  Peacock (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -17,17 +23,11 @@ https://windnew.iosplayer.ru/wind/premium177/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium178/mono.m3u8
 
-#EXTINF:-1 tvg-id="410 Sprints Lincoln Speedway - Event PPV" tvg-name="410 Sprints Lincoln Speedway 08/03/25 - 19:30  Event PPV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", 410 Sprints Lincoln Speedway 08/03/25 - 19:30  Event PPV (D)
+#EXTINF:-1 tvg-id="2025 SMART Modified Tour at Anderson Motor Speedway - Floracing" tvg-name="2025 SMART Modified Tour at Anderson Motor Speedway 08/03/25 - 20:00  Floracing" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", 2025 SMART Modified Tour at Anderson Motor Speedway 08/03/25 - 20:00  Floracing (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium179/mono.m3u8
-
-#EXTINF:-1 tvg-id="Season Opener Port Royal Speedway - Event PPV" tvg-name="Season Opener Port Royal Speedway 08/03/25 - 20:30  Event PPV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Season Opener Port Royal Speedway 08/03/25 - 20:30  Event PPV (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://nfsnew.iosplayer.ru/nfs/premium181/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium180/mono.m3u8
 
 #EXTINF:-1 tvg-id="Top Level Pro 19 - Triller TV" tvg-name="Top Level Pro 19: March Madness 08/03/25 - 22:00  Triller TV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Top Level Pro 19: March Madness 08/03/25 - 22:00  Triller TV (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -281,12 +281,6 @@ https://windnew.iosplayer.ru/wind/premium177/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium178/mono.m3u8
 
-#EXTINF:-1 tvg-id="England - Championship - Sky Sports+" tvg-name="England - Championship : Derby County vs Blackburn Rovers 08/03/25 - 15:00  Sky Sports+" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", England - Championship : Derby County vs Blackburn Rovers 08/03/25 - 15:00  Sky Sports+ (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium179/mono.m3u8
-
 #EXTINF:-1 tvg-id="England - Championship - CBS Sports Golazo USA" tvg-name="England - Championship : Derby County vs Blackburn Rovers 08/03/25 - 15:00  CBS Sports Golazo USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", England - Championship : Derby County vs Blackburn Rovers 08/03/25 - 15:00  CBS Sports Golazo USA (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -311,11 +305,11 @@ https://windnew.iosplayer.ru/wind/premium260/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium624/mono.m3u8
 
-#EXTINF:-1 tvg-id="England - Championship - Sky Sports+" tvg-name="England - Championship : Sheffield United vs Preston North End 08/03/25 - 15:00  Sky Sports+" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", England - Championship : Sheffield United vs Preston North End 08/03/25 - 15:00  Sky Sports+ (D)
+#EXTINF:-1 tvg-id="England - Championship - Sky Sports+" tvg-name="England - Championship : Plymouth Argyle vs Sheffield Wednesday 08/03/25 - 15:00  Sky Sports+" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", England - Championship : Plymouth Argyle vs Sheffield Wednesday 08/03/25 - 15:00  Sky Sports+ (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://nfsnew.iosplayer.ru/nfs/premium181/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium180/mono.m3u8
 
 #EXTINF:-1 tvg-id="England - Championship - Sky Sports+" tvg-name="England - Championship : Sunderland vs Cardiff City 08/03/25 - 15:00  Sky Sports+" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", England - Championship : Sunderland vs Cardiff City 08/03/25 - 15:00  Sky Sports+ (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -533,17 +527,17 @@ https://windnew.iosplayer.ru/wind/premium162/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium163/mono.m3u8
 
-#EXTINF:-1 tvg-id="USL Championship - ESPN+ USA" tvg-name="USL Championship : North Carolina vs Pittsburgh Riverhounds 08/03/25 - 00:00  ESPN+ USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", USL Championship : North Carolina vs Pittsburgh Riverhounds 08/03/25 - 00:00  ESPN+ USA (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium164/mono.m3u8
-
 #EXTINF:-1 tvg-id="USL Championship - SportsNet Pittsburgh" tvg-name="USL Championship : North Carolina vs Pittsburgh Riverhounds 08/03/25 - 00:00  SportsNet Pittsburgh" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", USL Championship : North Carolina vs Pittsburgh Riverhounds 08/03/25 - 00:00  SportsNet Pittsburgh (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium922/mono.m3u8
+
+#EXTINF:-1 tvg-id="USL Championship - ESPN+ USA" tvg-name="USL Championship : San Antonio vs Monterey Bay 08/03/25 - 01:30  ESPN+ USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", USL Championship : San Antonio vs Monterey Bay 08/03/25 - 01:30  ESPN+ USA (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium167/mono.m3u8
 
 #EXTINF:-1 tvg-id="USL Championship - ESPN+ USA" tvg-name="USL Championship : El Paso Locomotive vs Colorado Springs 08/03/25 - 02:00  ESPN+ USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", USL Championship : El Paso Locomotive vs Colorado Springs 08/03/25 - 02:00  ESPN+ USA (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -784,12 +778,6 @@ https://nfsnew.iosplayer.ru/nfs/premium5/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium6/mono.m3u8
-
-#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - ESPN+ USA" tvg-name="Germany - Bundesliga 2 : Hertha BSC vs Schalke 04 08/03/25 - 12:00  ESPN+ USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Germany - Bundesliga 2 : Hertha BSC vs Schalke 04 08/03/25 - 12:00  ESPN+ USA (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://dokko1new.iosplayer.ru/dokko1/premium86/mono.m3u8
 
 #EXTINF:-1 tvg-id="Germany - Bundesliga 2 - beIN SPORTS Australia 2" tvg-name="Germany - Bundesliga 2 : Hertha BSC vs Schalke 04 08/03/25 - 12:00  beIN SPORTS Australia 2" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Germany - Bundesliga 2 : Hertha BSC vs Schalke 04 08/03/25 - 12:00  beIN SPORTS Australia 2 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -1559,12 +1547,6 @@ https://windnew.iosplayer.ru/wind/premium580/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium420/mono.m3u8
 
-#EXTINF:-1 tvg-id="Italy - Serie B - DAZN Italia" tvg-name="Italy - Serie B : Carrarese vs Frosinone 08/03/25 - 14:00  DAZN Italia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Italy - Serie B : Carrarese vs Frosinone 08/03/25 - 14:00  DAZN Italia (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium59/mono.m3u8
-
 #EXTINF:-1 tvg-id="Italy - Serie B - DAZN Italia" tvg-name="Italy - Serie B : Cremonese vs Catanzaro 08/03/25 - 14:00  DAZN Italia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Italy - Serie B : Cremonese vs Catanzaro 08/03/25 - 14:00  DAZN Italia (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1672,12 +1654,6 @@ https://ddy6new.iosplayer.ru/ddy6/premium101/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium7/mono.m3u8
-
-#EXTINF:-1 tvg-id="Bundesliga - ESPN+ USA" tvg-name="Bundesliga : Bayer Leverkusen vs Werder Bremen 08/03/25 - 14:30  ESPN+ USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Bundesliga : Bayer Leverkusen vs Werder Bremen 08/03/25 - 14:30  ESPN+ USA (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium164/mono.m3u8
 
 #EXTINF:-1 tvg-id="Bundesliga - Eleven Sports 2 Poland" tvg-name="Bundesliga : Bayer Leverkusen vs Werder Bremen 08/03/25 - 14:30  Eleven Sports 2 Poland" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Bundesliga : Bayer Leverkusen vs Werder Bremen 08/03/25 - 14:30  Eleven Sports 2 Poland (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -1883,6 +1859,12 @@ https://zekonew.iosplayer.ru/zeko/premium141/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium26/mono.m3u8
 
+#EXTINF:-1 tvg-id="Bundesliga - ESPN+ USA" tvg-name="Bundesliga : Wolfsburg vs St. Pauli 08/03/25 - 14:30  ESPN+ USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Bundesliga : Wolfsburg vs St. Pauli 08/03/25 - 14:30  ESPN+ USA (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium167/mono.m3u8
+
 #EXTINF:-1 tvg-id="Bundesliga - Nova Sports 6 Greece" tvg-name="Bundesliga : Wolfsburg vs St. Pauli 08/03/25 - 14:30  Nova Sports 6 Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Bundesliga : Wolfsburg vs St. Pauli 08/03/25 - 14:30  Nova Sports 6 Greece (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2014,12 +1996,6 @@ https://windnew.iosplayer.ru/wind/premium457/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium464/mono.m3u8
-
-#EXTINF:-1 tvg-id="England - Premier League - Canal+ Live 2 France" tvg-name="England - Premier League : Brighton &amp; Hove Albion vs Fulham 08/03/25 - 15:00  Canal+ Live 2 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", England - Premier League : Brighton &amp; Hove Albion vs Fulham 08/03/25 - 15:00  Canal+ Live 2 France (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://dokko1new.iosplayer.ru/dokko1/premium86/mono.m3u8
 
 #EXTINF:-1 tvg-id="England - Premier League - Sky Sport Calcio IT" tvg-name="England - Premier League : Brighton &amp; Hove Albion vs Fulham 08/03/25 - 15:00  Sky Sport Calcio IT" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", England - Premier League : Brighton &amp; Hove Albion vs Fulham 08/03/25 - 15:00  Sky Sport Calcio IT (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -3029,12 +3005,6 @@ https://zekonew.iosplayer.ru/zeko/premium140/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium558/mono.m3u8
 
-#EXTINF:-1 tvg-id="Bundesliga - ESPN+ USA" tvg-name="Bundesliga : Freiburg vs RB Leipzig 08/03/25 - 17:30  ESPN+ USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Bundesliga : Freiburg vs RB Leipzig 08/03/25 - 17:30  ESPN+ USA (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium164/mono.m3u8
-
 #EXTINF:-1 tvg-id="Bundesliga - beIN SPORTS Australia 2" tvg-name="Bundesliga : Freiburg vs RB Leipzig 08/03/25 - 17:30  beIN SPORTS Australia 2" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Bundesliga : Freiburg vs RB Leipzig 08/03/25 - 17:30  beIN SPORTS Australia 2 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -3281,6 +3251,12 @@ https://windnew.iosplayer.ru/wind/premium451/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium707/mono.m3u8
 
+#EXTINF:-1 tvg-id="Spain - Segunda Division - Premier Sports 1 Ireland" tvg-name="Spain - Segunda Division : Sporting Gijón vs Racing Santander 08/03/25 - 17:30  Premier Sports 1 Ireland" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - Segunda Division : Sporting Gijón vs Racing Santander 08/03/25 - 17:30  Premier Sports 1 Ireland (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium771/mono.m3u8
+
 #EXTINF:-1 tvg-id="Spain - Segunda Division - beIN Sports MAX 10 France" tvg-name="Spain - Segunda Division : Sporting Gijón vs Racing Santander 08/03/25 - 17:30  beIN Sports MAX 10 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - Segunda Division : Sporting Gijón vs Racing Santander 08/03/25 - 17:30  beIN Sports MAX 10 France (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -3346,12 +3322,6 @@ https://zekonew.iosplayer.ru/zeko/premium413/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium581/mono.m3u8
-
-#EXTINF:-1 tvg-id="France - Ligue 1 - DAZN France" tvg-name="France - Ligue 1 : Lille vs Montpellier 08/03/25 - 18:00  DAZN France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", France - Ligue 1 : Lille vs Montpellier 08/03/25 - 18:00  DAZN France (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://dokko1new.iosplayer.ru/dokko1/premium86/mono.m3u8
 
 #EXTINF:-1 tvg-id="France - Ligue 1 - beIN SPORTS USA" tvg-name="France - Ligue 1 : Lille vs Montpellier 08/03/25 - 18:00  beIN SPORTS USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", France - Ligue 1 : Lille vs Montpellier 08/03/25 - 18:00  beIN SPORTS USA (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -3479,12 +3449,6 @@ https://ddy6new.iosplayer.ru/ddy6/premium166/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium17/mono.m3u8
 
-#EXTINF:-1 tvg-id="Italy - Serie B - DAZN Italia" tvg-name="Italy - Serie B : Brescia vs Cesena 08/03/25 - 18:30  DAZN Italia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Italy - Serie B : Brescia vs Cesena 08/03/25 - 18:30  DAZN Italia (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium59/mono.m3u8
-
 #EXTINF:-1 tvg-id="Italy - Serie B - Fox Soccer Plus" tvg-name="Italy - Serie B : Brescia vs Cesena 08/03/25 - 18:30  Fox Soccer Plus" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Italy - Serie B : Brescia vs Cesena 08/03/25 - 18:30  Fox Soccer Plus (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -3544,6 +3508,12 @@ https://wikinew.iosplayer.ru/wiki/premium583/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium540/mono.m3u8
+
+#EXTINF:-1 tvg-id="Belgium - Challenger Pro League - DAZN Pro League 2 Belgium" tvg-name="Belgium - Challenger Pro League : Zulte-Waregem vs Lommel United 08/03/25 - 19:00  DAZN Pro League 2 Belgium" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Belgium - Challenger Pro League : Zulte-Waregem vs Lommel United 08/03/25 - 19:00  DAZN Pro League 2 Belgium (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium9/mono.m3u8
 
 #EXTINF:-1 tvg-id="Belgium - Challenger Pro League - DAZN Pro League 3 Belgium" tvg-name="Belgium - Challenger Pro League : AS Eupen vs Francs Borains 08/03/25 - 19:00  DAZN Pro League 3 Belgium" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Belgium - Challenger Pro League : AS Eupen vs Francs Borains 08/03/25 - 19:00  DAZN Pro League 3 Belgium (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -3658,6 +3628,12 @@ https://windnew.iosplayer.ru/wind/premium580/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium4/mono.m3u8
+
+#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - ESPN+ USA" tvg-name="Germany - Bundesliga 2 : Hamburger SV vs Fortuna Düsseldorf 08/03/25 - 19:30  ESPN+ USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Germany - Bundesliga 2 : Hamburger SV vs Fortuna Düsseldorf 08/03/25 - 19:30  ESPN+ USA (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium167/mono.m3u8
 
 #EXTINF:-1 tvg-id="Germany - Bundesliga 2 - beIN SPORTS Australia 2" tvg-name="Germany - Bundesliga 2 : Hamburger SV vs Fortuna Düsseldorf 08/03/25 - 19:30  beIN SPORTS Australia 2" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Germany - Bundesliga 2 : Hamburger SV vs Fortuna Düsseldorf 08/03/25 - 19:30  beIN SPORTS Australia 2 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -4569,7 +4545,7 @@ https://dokko1new.iosplayer.ru/dokko1/premium587/mono.m3u8
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://zekonew.iosplayer.ru/zeko/premium368/mono.m3u8
+https://dokko1new.iosplayer.ru/dokko1/premium368/mono.m3u8
 
 #EXTINF:-1 tvg-id="3rd Women's ODI - TNT Sports 3 UK" tvg-name="3rd Women's ODI : New Zealand W vs Sri Lanka W 08/03/25 - 22:00  TNT Sports 3 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", 3rd Women's ODI : New Zealand W vs Sri Lanka W 08/03/25 - 22:00  TNT Sports 3 UK (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -4846,6 +4822,12 @@ https://zekonew.iosplayer.ru/zeko/premium119/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium395/mono.m3u8
+
+#EXTINF:-1 tvg-id="UFC 313 Main Card - Cytavision Sports 7 Cyprus" tvg-name="UFC 313 Main Card : Alex Pereira vs Magomed Ankalaev 08/03/25 - 03:00  Cytavision Sports 7 Cyprus" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UFC 313 Main Card : Alex Pereira vs Magomed Ankalaev 08/03/25 - 03:00  Cytavision Sports 7 Cyprus (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium917/mono.m3u8
 
 #EXTINF:-1 tvg-id="UFC 313 Main Card - Polsat Sport 1 Poland" tvg-name="UFC 313 Main Card : Alex Pereira vs Magomed Ankalaev 08/03/25 - 03:00  Polsat Sport 1 Poland" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UFC 313 Main Card : Alex Pereira vs Magomed Ankalaev 08/03/25 - 03:00  Polsat Sport 1 Poland (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -6215,12 +6197,6 @@ https://dokko1new.iosplayer.ru/dokko1/premium625/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium55/mono.m3u8
 
-#EXTINF:-1 tvg-id="NBA - Away Feed" tvg-name="NBA : Los Angeles Lakers vs Boston Celtics 08/03/25 - 01:30  Away Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Los Angeles Lakers vs Boston Celtics 08/03/25 - 01:30  Away Feed (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium59/mono.m3u8
-
 #EXTINF:-1 tvg-id="NBA - TNT Sports 2 UK" tvg-name="NBA : Los Angeles Lakers vs Boston Celtics 08/03/25 - 01:30  TNT Sports 2 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Los Angeles Lakers vs Boston Celtics 08/03/25 - 01:30  TNT Sports 2 UK (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -6316,12 +6292,6 @@ https://zekonew.iosplayer.ru/zeko/premium81/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium144/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA - Home Feed" tvg-name="NBA : Detroit Pistons vs Golden State Warriors 08/03/25 - 01:30  Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Detroit Pistons vs Golden State Warriors 08/03/25 - 01:30  Home Feed (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://dokko1new.iosplayer.ru/dokko1/premium86/mono.m3u8
 
 #EXTINF:-1 tvg-id="NBA - Away Feed" tvg-name="NBA : Detroit Pistons vs Golden State Warriors 08/03/25 - 01:30  Away Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Detroit Pistons vs Golden State Warriors 08/03/25 - 01:30  Away Feed (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -6437,6 +6407,12 @@ https://windnew.iosplayer.ru/wind/premium58/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium525/mono.m3u8
 
+#EXTINF:-1 tvg-id="Strade Bianche Women | Siena (136km) - EuroSport 2 France" tvg-name="Strade Bianche Women | Siena (136km) 08/03/25 - 10:30  EuroSport 2 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Strade Bianche Women | Siena (136km) 08/03/25 - 10:30  EuroSport 2 France (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium773/mono.m3u8
+
 #EXTINF:-1 tvg-id="Strade Bianche Men | Siena (213km) - TNT Sports 3 UK" tvg-name="Strade Bianche Men | Siena (213km) 08/03/25 - 13:00  TNT Sports 3 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Strade Bianche Men | Siena (213km) 08/03/25 - 13:00  TNT Sports 3 UK (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -6454,6 +6430,12 @@ https://windnew.iosplayer.ru/wind/premium58/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium525/mono.m3u8
+
+#EXTINF:-1 tvg-id="Strade Bianche Men | Siena (213km) - EuroSport 2 France" tvg-name="Strade Bianche Men | Siena (213km) 08/03/25 - 13:00  EuroSport 2 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Strade Bianche Men | Siena (213km) 08/03/25 - 13:00  EuroSport 2 France (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium773/mono.m3u8
 
 #EXTINF:-1 tvg-id="Strade Bianche Men | Siena (213km) - TNT Sports 1 UK" tvg-name="Strade Bianche Men | Siena (213km) 08/03/25 - 15:15  TNT Sports 1 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Strade Bianche Men | Siena (213km) 08/03/25 - 15:15  TNT Sports 1 UK (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -7475,6 +7457,12 @@ https://windnew.iosplayer.ru/wind/premium58/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium525/mono.m3u8
 
+#EXTINF:-1 tvg-id="Trondheim | Men's HS 138 World Championship | Day 3 - EuroSport 2 France" tvg-name="Trondheim | Men's HS 138 World Championship | Day 3 08/03/25 - 08:15  EuroSport 2 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Trondheim | Men's HS 138 World Championship | Day 3 08/03/25 - 08:15  EuroSport 2 France (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium773/mono.m3u8
+
 #EXTINF:-1 tvg-id="Individual competition | World Ski Jump Championships - TNT Sports 4 UK" tvg-name="Individual competition | World Ski Jump Championships 08/03/25 - 14:30  TNT Sports 4 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Individual competition | World Ski Jump Championships 08/03/25 - 14:30  TNT Sports 4 UK (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -7726,6 +7714,96 @@ https://ddy6new.iosplayer.ru/ddy6/premium576/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium577/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky sport football" tvg-name="Sky Sport Football " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport", Sky Sport Football  (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium460/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky sport uno" tvg-name="Sky Sport UNO " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport", Sky Sport UNO  (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium461/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky sport arena" tvg-name="Sky Sport Arena " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport", Sky Sport Arena  (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium462/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky uno" tvg-name="Sky UNO " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky", Sky UNO  (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium881/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky cinema collection" tvg-name="Sky Cinema Collection " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Sky", Sky Cinema Collection  (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium859/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky cinema uno" tvg-name="Sky Cinema Uno " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Sky", Sky Cinema Uno  (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium860/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky cinema action" tvg-name="Sky Cinema Action " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Sky", Sky Cinema Action  (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium861/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky cinema comedy" tvg-name="Sky Cinema Comedy " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Sky", Sky Cinema Comedy  (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium862/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky cinema uno" tvg-name="Sky Cinema Uno +24 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Sky", Sky Cinema Uno +24  (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium863/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky cinemar omance" tvg-name="Sky Cinema Romance " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Sky", Sky Cinema Romance  (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium864/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky cinema family" tvg-name="Sky Cinema Family " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Sky", Sky Cinema Family  (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium865/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky cinema Due +24" tvg-name="Sky Cinema Due +24 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Sky", Sky Cinema Due +24  (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium866/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky cinema drama" tvg-name="Sky Cinema Drama " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Sky", Sky Cinema Drama  (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium867/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky cinema suspense" tvg-name="Sky Cinema Suspense " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Sky", Sky Cinema Suspense  (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium868/mono.m3u8
+
+#EXTINF:-1 tvg-id="sky sport 24" tvg-name="Sky Sport 24 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport", Sky Sport 24  (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium869/mono.m3u8
 
 #EXTINF:-1 tvg-id="Sky Sport Calcio" tvg-name="Sky Sport Calcio " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport", Sky Sport Calcio  (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
