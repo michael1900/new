@@ -5,18 +5,6 @@
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium205/mono.m3u8
 
-#EXTINF:-1 tvg-id="2025 ERX Snocross National - Floracing" tvg-name="2025 ERX Snocross National 08/03/25 - 17:00  Floracing" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", 2025 ERX Snocross National 08/03/25 - 17:00  Floracing (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium206/mono.m3u8
-
-#EXTINF:-1 tvg-id="AMA Supercross Championship Indianapolis - Peacock" tvg-name="AMA Supercross Championship Indianapolis 08/03/25 - 18:30  Peacock" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", AMA Supercross Championship Indianapolis 08/03/25 - 18:30  Peacock (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium177/mono.m3u8
-
 #EXTINF:-1 tvg-id="2025 NARC 410 Sprints at Stockton Dirt Track - Floracing" tvg-name="2025 NARC 410 Sprints at Stockton Dirt Track 08/03/25 - 00:15  Floracing" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", 2025 NARC 410 Sprints at Stockton Dirt Track 08/03/25 - 00:15  Floracing (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -226,12 +214,6 @@ https://windnew.iosplayer.ru/wind/premium171/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium174/mono.m3u8
-
-#EXTINF:-1 tvg-id="England - Championship - Sky Sports+" tvg-name="England - Championship : Bristol City vs Hull City 08/03/25 - 15:00  Sky Sports+" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", England - Championship : Bristol City vs Hull City 08/03/25 - 15:00  Sky Sports+ (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium177/mono.m3u8
 
 #EXTINF:-1 tvg-id="England - Championship - CBS Sports Golazo USA" tvg-name="England - Championship : Derby County vs Blackburn Rovers 08/03/25 - 15:00  CBS Sports Golazo USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", England - Championship : Derby County vs Blackburn Rovers 08/03/25 - 15:00  CBS Sports Golazo USA (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -454,30 +436,6 @@ https://ddy6new.iosplayer.ru/ddy6/premium160/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium922/mono.m3u8
-
-#EXTINF:-1 tvg-id="USL Championship - ESPN+ USA" tvg-name="USL Championship : Birmingham Legion vs Loudoun United 08/03/25 - 01:00  ESPN+ USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", USL Championship : Birmingham Legion vs Loudoun United 08/03/25 - 01:00  ESPN+ USA (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium165/mono.m3u8
-
-#EXTINF:-1 tvg-id="USL Championship - ESPN+ USA" tvg-name="USL Championship : San Antonio vs Monterey Bay 08/03/25 - 01:30  ESPN+ USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", USL Championship : San Antonio vs Monterey Bay 08/03/25 - 01:30  ESPN+ USA (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium167/mono.m3u8
-
-#EXTINF:-1 tvg-id="USL Championship - ESPN+ USA" tvg-name="USL Championship : El Paso Locomotive vs Colorado Springs 08/03/25 - 02:00  ESPN+ USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", USL Championship : El Paso Locomotive vs Colorado Springs 08/03/25 - 02:00  ESPN+ USA (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium168/mono.m3u8
-
-#EXTINF:-1 tvg-id="USL Championship - ESPN+ USA" tvg-name="USL Championship : Phoenix Rising vs FC Tulsa 08/03/25 - 02:00  ESPN+ USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", USL Championship : Phoenix Rising vs FC Tulsa 08/03/25 - 02:00  ESPN+ USA (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium169/mono.m3u8
 
 #EXTINF:-1 tvg-id="USL Championship - ESPN+ USA" tvg-name="USL Championship : Orange County SC vs Oakland Roots 08/03/25 - 03:00  ESPN+ USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", USL Championship : Orange County SC vs Oakland Roots 08/03/25 - 03:00  ESPN+ USA (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -965,6 +923,12 @@ https://zekonew.iosplayer.ru/zeko/premium140/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium35/mono.m3u8
 
+#EXTINF:-1 tvg-id="England - Championship - Sky Sports Main Event UK" tvg-name="England - Championship : Coventry City vs Stoke City 08/03/25 - 12:30  Sky Sports Main Event UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", England - Championship : Coventry City vs Stoke City 08/03/25 - 12:30  Sky Sports Main Event UK (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium38/mono.m3u8
+
 #EXTINF:-1 tvg-id="England - Championship - CBS Sports Network USA" tvg-name="England - Championship : Coventry City vs Stoke City 08/03/25 - 12:30  CBS Sports Network USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", England - Championship : Coventry City vs Stoke City 08/03/25 - 12:30  CBS Sports Network USA (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1181,6 +1145,12 @@ https://windnew.iosplayer.ru/wind/premium475/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium703/mono.m3u8
 
+#EXTINF:-1 tvg-id="Spain - La Liga - SuperSport Laliga" tvg-name="Spain - La Liga : Celta de Vigo vs Leganés 08/03/25 - 13:00  SuperSport Laliga" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - La Liga : Celta de Vigo vs Leganés 08/03/25 - 13:00  SuperSport Laliga (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium415/mono.m3u8
+
 #EXTINF:-1 tvg-id="Spain - La Liga - beIN Sports MENA 3" tvg-name="Spain - La Liga : Celta de Vigo vs Leganés 08/03/25 - 13:00  beIN Sports MENA 3" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - La Liga : Celta de Vigo vs Leganés 08/03/25 - 13:00  beIN Sports MENA 3 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1282,6 +1252,12 @@ https://zekonew.iosplayer.ru/zeko/premium379/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium170/mono.m3u8
+
+#EXTINF:-1 tvg-id="Germany Amateur Regionalliga - MDR Sachsen" tvg-name="Germany Amateur Regionalliga : Chemnitzer FC vs. BFC Dynamo 08/03/25 - 13:00  MDR Sachsen" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Germany Amateur Regionalliga : Chemnitzer FC vs. BFC Dynamo 08/03/25 - 13:00  MDR Sachsen (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium733/mono.m3u8
 
 #EXTINF:-1 tvg-id="Hungary - NB1 - M4 Sports Hungary" tvg-name="Hungary - NB1 : Nyíregyháza Spartacus vs Győri ETO 08/03/25 - 13:30  M4 Sports Hungary" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Hungary - NB1 : Nyíregyháza Spartacus vs Győri ETO 08/03/25 - 13:30  M4 Sports Hungary (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -1589,12 +1565,6 @@ https://dokko1new.iosplayer.ru/dokko1/premium96/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium4/mono.m3u8
 
-#EXTINF:-1 tvg-id="Bundesliga - ESPN+ USA" tvg-name="Bundesliga : Bayern München vs Bochum 08/03/25 - 14:30  ESPN+ USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Bundesliga : Bayern München vs Bochum 08/03/25 - 14:30  ESPN+ USA (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium165/mono.m3u8
-
 #EXTINF:-1 tvg-id="Bundesliga - beIN SPORTS Australia 2" tvg-name="Bundesliga : Bayern München vs Bochum 08/03/25 - 14:30  beIN SPORTS Australia 2" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Bundesliga : Bayern München vs Bochum 08/03/25 - 14:30  beIN SPORTS Australia 2 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1751,12 +1721,6 @@ https://zekonew.iosplayer.ru/zeko/premium141/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium26/mono.m3u8
 
-#EXTINF:-1 tvg-id="Bundesliga - ESPN+ USA" tvg-name="Bundesliga : Wolfsburg vs St. Pauli 08/03/25 - 14:30  ESPN+ USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Bundesliga : Wolfsburg vs St. Pauli 08/03/25 - 14:30  ESPN+ USA (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium167/mono.m3u8
-
 #EXTINF:-1 tvg-id="Bundesliga - Nova Sports 6 Greece" tvg-name="Bundesliga : Wolfsburg vs St. Pauli 08/03/25 - 14:30  Nova Sports 6 Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Bundesliga : Wolfsburg vs St. Pauli 08/03/25 - 14:30  Nova Sports 6 Greece (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1769,18 +1733,6 @@ https://dokko1new.iosplayer.ru/dokko1/premium636/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium5/mono.m3u8
 
-#EXTINF:-1 tvg-id="Bundesliga - ESPN+ USA" tvg-name="Bundesliga : Holstein Kiel vs Stuttgart 08/03/25 - 14:30  ESPN+ USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Bundesliga : Holstein Kiel vs Stuttgart 08/03/25 - 14:30  ESPN+ USA (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium168/mono.m3u8
-
-#EXTINF:-1 tvg-id="Bundesliga - Sport Klub 6 Serbia" tvg-name="Bundesliga : Holstein Kiel vs Stuttgart 08/03/25 - 14:30  Sport Klub 6 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Bundesliga : Holstein Kiel vs Stuttgart 08/03/25 - 14:30  Sport Klub 6 Serbia (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium169/mono.m3u8
-
 #EXTINF:-1 tvg-id="Bundesliga - beIN Sports MAX 7 France" tvg-name="Bundesliga : Holstein Kiel vs Stuttgart 08/03/25 - 14:30  beIN Sports MAX 7 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Bundesliga : Holstein Kiel vs Stuttgart 08/03/25 - 14:30  beIN Sports MAX 7 France (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1792,6 +1744,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium497/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium128/mono.m3u8
+
+#EXTINF:-1 tvg-id="Germany Amateur Regionalliga - MDR Sachsen" tvg-name="Germany Amateur Regionalliga : VFC Plauen vs. BSG Chemie Leipzig 08/03/25 - 15:00  MDR Sachsen" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Germany Amateur Regionalliga : VFC Plauen vs. BSG Chemie Leipzig 08/03/25 - 15:00  MDR Sachsen (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium733/mono.m3u8
 
 #EXTINF:-1 tvg-id="U19 Championship - Sporting TV" tvg-name="U19 Championship : Sporting CP vs. CD Mafra 08/03/25 - 15:00  Sporting TV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", U19 Championship : Sporting CP vs. CD Mafra 08/03/25 - 15:00  Sporting TV (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -2285,6 +2243,12 @@ https://windnew.iosplayer.ru/wind/premium475/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium82/mono.m3u8
 
+#EXTINF:-1 tvg-id="Spain - La Liga - SuperSport Laliga" tvg-name="Spain - La Liga : Deportivo Alavés vs Villarreal 08/03/25 - 15:15  SuperSport Laliga" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - La Liga : Deportivo Alavés vs Villarreal 08/03/25 - 15:15  SuperSport Laliga (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium415/mono.m3u8
+
 #EXTINF:-1 tvg-id="Spain - La Liga - beIN Sports MENA 3" tvg-name="Spain - La Liga : Deportivo Alavés vs Villarreal 08/03/25 - 15:15  beIN Sports MENA 3" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - La Liga : Deportivo Alavés vs Villarreal 08/03/25 - 15:15  beIN Sports MENA 3 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2476,12 +2440,6 @@ https://nfsnew.iosplayer.ru/nfs/premium19/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium23/mono.m3u8
-
-#EXTINF:-1 tvg-id="Slovenia - Prva Liga - Sport Klub 6 Serbia" tvg-name="Slovenia - Prva Liga : Domžale vs Koper 08/03/25 - 16:30  Sport Klub 6 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Slovenia - Prva Liga : Domžale vs Koper 08/03/25 - 16:30  Sport Klub 6 Serbia (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium169/mono.m3u8
 
 #EXTINF:-1 tvg-id="Russia - Premier League - Match Premier Russia" tvg-name="Russia - Premier League : Dinamo Moskva vs Dynamo Makhachkala 08/03/25 - 16:30  Match Premier Russia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Russia - Premier League : Dinamo Moskva vs Dynamo Makhachkala 08/03/25 - 16:30  Match Premier Russia (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -3095,6 +3053,12 @@ https://zekonew.iosplayer.ru/zeko/premium433/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium475/mono.m3u8
 
+#EXTINF:-1 tvg-id="Spain - La Liga - SuperSport Laliga" tvg-name="Spain - La Liga : Valencia vs Real Valladolid 08/03/25 - 17:30  SuperSport Laliga" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - La Liga : Valencia vs Real Valladolid 08/03/25 - 17:30  SuperSport Laliga (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium415/mono.m3u8
+
 #EXTINF:-1 tvg-id="Spain - La Liga - beIN Sports MENA 3" tvg-name="Spain - La Liga : Valencia vs Real Valladolid 08/03/25 - 17:30  beIN Sports MENA 3" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - La Liga : Valencia vs Real Valladolid 08/03/25 - 17:30  beIN Sports MENA 3 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -3136,12 +3100,6 @@ https://ddy6new.iosplayer.ru/ddy6/premium500/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium143/mono.m3u8
-
-#EXTINF:-1 tvg-id="Netherlands - Eredivisie - ESPN+ USA" tvg-name="Netherlands - Eredivisie : Feyenoord vs Groningen 08/03/25 - 17:45  ESPN+ USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Netherlands - Eredivisie : Feyenoord vs Groningen 08/03/25 - 17:45  ESPN+ USA (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium165/mono.m3u8
 
 #EXTINF:-1 tvg-id="Netherlands - Eredivisie - ESPN 1 NL" tvg-name="Netherlands - Eredivisie : Feyenoord vs Groningen 08/03/25 - 17:45  ESPN 1 NL" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Netherlands - Eredivisie : Feyenoord vs Groningen 08/03/25 - 17:45  ESPN 1 NL (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -3508,12 +3466,6 @@ https://windnew.iosplayer.ru/wind/premium580/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium4/mono.m3u8
-
-#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - ESPN+ USA" tvg-name="Germany - Bundesliga 2 : Hamburger SV vs Fortuna Düsseldorf 08/03/25 - 19:30  ESPN+ USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Germany - Bundesliga 2 : Hamburger SV vs Fortuna Düsseldorf 08/03/25 - 19:30  ESPN+ USA (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium167/mono.m3u8
 
 #EXTINF:-1 tvg-id="Germany - Bundesliga 2 - beIN SPORTS Australia 2" tvg-name="Germany - Bundesliga 2 : Hamburger SV vs Fortuna Düsseldorf 08/03/25 - 19:30  beIN SPORTS Australia 2" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Germany - Bundesliga 2 : Hamburger SV vs Fortuna Düsseldorf 08/03/25 - 19:30  beIN SPORTS Australia 2 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -3970,6 +3922,12 @@ https://windnew.iosplayer.ru/wind/premium475/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium149/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - SuperSport Laliga" tvg-name="Spain - La Liga : Barcelona vs Osasuna 08/03/25 - 20:00  SuperSport Laliga" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - La Liga : Barcelona vs Osasuna 08/03/25 - 20:00  SuperSport Laliga (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium415/mono.m3u8
 
 #EXTINF:-1 tvg-id="Argentina - Primera División - TNT Sports Argentina" tvg-name="Argentina - Primera División : San Lorenzo vs Independiente 08/03/25 - 20:00  TNT Sports Argentina" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Argentina - Primera División : San Lorenzo vs Independiente 08/03/25 - 20:00  TNT Sports Argentina (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -5261,12 +5219,6 @@ https://zekonew.iosplayer.ru/zeko/premium433/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium473/mono.m3u8
 
-#EXTINF:-1 tvg-id="Slovenian League (M) - Sport Klub 6 Serbia" tvg-name="Slovenian League (M) : Zlatorog Lasko vs KK Triglav Kranj 08/03/25 - 12:00  Sport Klub 6 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Slovenian League (M) : Zlatorog Lasko vs KK Triglav Kranj 08/03/25 - 12:00  Sport Klub 6 Serbia (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium169/mono.m3u8
-
 #EXTINF:-1 tvg-id="Süper Ligi - beIN SPORTS 5 Turkey" tvg-name="Süper Ligi : Darussafaka vs. Turk Telekom 08/03/25 - 12:30  beIN SPORTS 5 Turkey" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Süper Ligi : Darussafaka vs. Turk Telekom 08/03/25 - 12:30  beIN SPORTS 5 Turkey (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -6263,6 +6215,12 @@ https://windnew.iosplayer.ru/wind/premium58/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium525/mono.m3u8
 
+#EXTINF:-1 tvg-id="Strade Bianche Women | Siena (136km) - EuroSport 2 France" tvg-name="Strade Bianche Women | Siena (136km) 08/03/25 - 10:30  EuroSport 2 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Strade Bianche Women | Siena (136km) 08/03/25 - 10:30  EuroSport 2 France (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium773/mono.m3u8
+
 #EXTINF:-1 tvg-id="Strade Bianche Men | Siena (213km) - TNT Sports 3 UK" tvg-name="Strade Bianche Men | Siena (213km) 08/03/25 - 13:00  TNT Sports 3 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Strade Bianche Men | Siena (213km) 08/03/25 - 13:00  TNT Sports 3 UK (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -6280,6 +6238,12 @@ https://windnew.iosplayer.ru/wind/premium58/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium525/mono.m3u8
+
+#EXTINF:-1 tvg-id="Strade Bianche Men | Siena (213km) - EuroSport 2 France" tvg-name="Strade Bianche Men | Siena (213km) 08/03/25 - 13:00  EuroSport 2 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Strade Bianche Men | Siena (213km) 08/03/25 - 13:00  EuroSport 2 France (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium773/mono.m3u8
 
 #EXTINF:-1 tvg-id="Strade Bianche Men | Siena (213km) - TNT Sports 1 UK" tvg-name="Strade Bianche Men | Siena (213km) 08/03/25 - 15:15  TNT Sports 1 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Strade Bianche Men | Siena (213km) 08/03/25 - 15:15  TNT Sports 1 UK (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -6478,12 +6442,6 @@ https://zekonew.iosplayer.ru/zeko/premium706/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium288/mono.m3u8
-
-#EXTINF:-1 tvg-id="Norway Eliteserien - TV2 Sport 2 Norway" tvg-name="Norway Eliteserien : Vaalerenga IF Oslo vs. IHK Sparta Sarpsborg 08/03/25 - 17:30  TV2 Sport 2 Norway" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Norway Eliteserien : Vaalerenga IF Oslo vs. IHK Sparta Sarpsborg 08/03/25 - 17:30  TV2 Sport 2 Norway (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium168/mono.m3u8
 
 #EXTINF:-1 tvg-id="France Ligue Magnus - Sport en France" tvg-name="France Ligue Magnus : Rouen Dragons vs Amiens Hockey Élite 08/03/25 - 17:30  Sport en France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", France Ligue Magnus : Rouen Dragons vs Amiens Hockey Élite 08/03/25 - 17:30  Sport en France (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -7288,6 +7246,12 @@ https://windnew.iosplayer.ru/wind/premium58/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium525/mono.m3u8
+
+#EXTINF:-1 tvg-id="Trondheim | Men's HS 138 World Championship | Day 3 - EuroSport 2 France" tvg-name="Trondheim | Men's HS 138 World Championship | Day 3 08/03/25 - 08:15  EuroSport 2 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Trondheim | Men's HS 138 World Championship | Day 3 08/03/25 - 08:15  EuroSport 2 France (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium773/mono.m3u8
 
 #EXTINF:-1 tvg-id="Individual competition | World Ski Jump Championships - TNT Sports 4 UK" tvg-name="Individual competition | World Ski Jump Championships 08/03/25 - 14:30  TNT Sports 4 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Individual competition | World Ski Jump Championships 08/03/25 - 14:30  TNT Sports 4 UK (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -8621,6 +8585,12 @@ https://windnew.iosplayer.ru/wind/premium475/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium81/mono.m3u8
 
+#EXTINF:-1 tvg-id="Spain - La Liga - SuperSport Laliga" tvg-name="Spain - La Liga : Getafe vs Atlético Madrid 09/03/25 - 13:00  SuperSport Laliga" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - La Liga : Getafe vs Atlético Madrid 09/03/25 - 13:00  SuperSport Laliga (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium415/mono.m3u8
+
 #EXTINF:-1 tvg-id="Spain - La Liga - beIN Sports MENA 6" tvg-name="Spain - La Liga : Getafe vs Atlético Madrid 09/03/25 - 13:00  beIN Sports MENA 6" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - La Liga : Getafe vs Atlético Madrid 09/03/25 - 13:00  beIN Sports MENA 6 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -8866,6 +8836,12 @@ https://dokko1new.iosplayer.ru/dokko1/premium460/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium67/mono.m3u8
+
+#EXTINF:-1 tvg-id="England - Premier League - Cytavision Sports 6 Cyprus" tvg-name="England - Premier League : Chelsea vs Leicester City 09/03/25 - 14:00  Cytavision Sports 6 Cyprus" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", England - Premier League : Chelsea vs Leicester City 09/03/25 - 14:00  Cytavision Sports 6 Cyprus (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium916/mono.m3u8
 
 #EXTINF:-1 tvg-id="England - Premier League - Telemundo" tvg-name="England - Premier League : Chelsea vs Leicester City 09/03/25 - 14:00  Telemundo" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", England - Premier League : Chelsea vs Leicester City 09/03/25 - 14:00  Telemundo (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -9623,6 +9599,12 @@ https://windnew.iosplayer.ru/wind/premium475/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium81/mono.m3u8
 
+#EXTINF:-1 tvg-id="Spain - La Liga - SuperSport Laliga" tvg-name="Spain - La Liga : Real Madrid vs Rayo Vallecano 09/03/25 - 15:15  SuperSport Laliga" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - La Liga : Real Madrid vs Rayo Vallecano 09/03/25 - 15:15  SuperSport Laliga (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium415/mono.m3u8
+
 #EXTINF:-1 tvg-id="Spain - La Liga - beIN Sports MENA 3" tvg-name="Spain - La Liga : Real Madrid vs Rayo Vallecano 09/03/25 - 15:15  beIN Sports MENA 3" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - La Liga : Real Madrid vs Rayo Vallecano 09/03/25 - 15:15  beIN Sports MENA 3 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -9982,6 +9964,12 @@ https://windnew.iosplayer.ru/wind/premium466/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium149/mono.m3u8
+
+#EXTINF:-1 tvg-id="England - Premier League - V Sport Premium" tvg-name="England - Premier League : Manchester United vs Arsenal 09/03/25 - 16:30  V Sport Premium" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", England - Premier League : Manchester United vs Arsenal 09/03/25 - 16:30  V Sport Premium (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium7/mono.m3u8
 
 #EXTINF:-1 tvg-id="England - Premier League - SuperSport Premier League" tvg-name="England - Premier League : Manchester United vs Arsenal 09/03/25 - 16:30  SuperSport Premier League" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", England - Premier League : Manchester United vs Arsenal 09/03/25 - 16:30  SuperSport Premier League (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -10511,6 +10499,12 @@ https://nfsnew.iosplayer.ru/nfs/premium747/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium81/mono.m3u8
 
+#EXTINF:-1 tvg-id="Spain - La Liga - SuperSport Laliga" tvg-name="Spain - La Liga : Athletic Club vs Mallorca 09/03/25 - 17:30  SuperSport Laliga" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - La Liga : Athletic Club vs Mallorca 09/03/25 - 17:30  SuperSport Laliga (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium415/mono.m3u8
+
 #EXTINF:-1 tvg-id="Spain - La Liga - beIN Sports MENA 2" tvg-name="Spain - La Liga : Athletic Club vs Mallorca 09/03/25 - 17:30  beIN Sports MENA 2" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - La Liga : Athletic Club vs Mallorca 09/03/25 - 17:30  beIN Sports MENA 2 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -10847,6 +10841,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium139/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium580/mono.m3u8
 
+#EXTINF:-1 tvg-id="France - Ligue 1 - V Sport Premium" tvg-name="France - Ligue 1 : Nice vs Olympique Lyonnais 09/03/25 - 19:45  V Sport Premium" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", France - Ligue 1 : Nice vs Olympique Lyonnais 09/03/25 - 19:45  V Sport Premium (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium7/mono.m3u8
+
 #EXTINF:-1 tvg-id="France - Ligue 1 - Diema Sport Bulgaria" tvg-name="France - Ligue 1 : Nice vs Olympique Lyonnais 09/03/25 - 19:45  Diema Sport Bulgaria" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", France - Ligue 1 : Nice vs Olympique Lyonnais 09/03/25 - 19:45  Diema Sport Bulgaria (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -11104,6 +11104,12 @@ https://windnew.iosplayer.ru/wind/premium475/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium85/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - SuperSport Laliga" tvg-name="Spain - La Liga : Real Sociedad vs Sevilla 09/03/25 - 20:00  SuperSport Laliga" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - La Liga : Real Sociedad vs Sevilla 09/03/25 - 20:00  SuperSport Laliga (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium415/mono.m3u8
 
 #EXTINF:-1 tvg-id="Spain - La Liga - beIN Sports MENA 3" tvg-name="Spain - La Liga : Real Sociedad vs Sevilla 09/03/25 - 20:00  beIN Sports MENA 3" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - La Liga : Real Sociedad vs Sevilla 09/03/25 - 20:00  beIN Sports MENA 3 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -11524,6 +11530,12 @@ https://dokko1new.iosplayer.ru/dokko1/premium643/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium395/mono.m3u8
+
+#EXTINF:-1 tvg-id="Judo - RMC Sport 1 France" tvg-name="Judo : Grand Prix de Linz 09/03/25 - 16:00  RMC Sport 1 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Judo : Grand Prix de Linz 09/03/25 - 16:00  RMC Sport 1 France (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium119/mono.m3u8
 
 #EXTINF:-1 tvg-id="Judo - Sportv3 Brazil" tvg-name="Judo : Grand Prix de Linz 09/03/25 - 16:00  Sportv3 Brazil" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Judo : Grand Prix de Linz 09/03/25 - 16:00  Sportv3 Brazil (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -12773,6 +12785,12 @@ https://windnew.iosplayer.ru/wind/premium58/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium525/mono.m3u8
 
+#EXTINF:-1 tvg-id="Trondheim | Women's 50km Mass Start Free World Championships - EuroSport 2 France" tvg-name="Trondheim | Women's 50km Mass Start Free World Championships 09/03/25 - 10:15  EuroSport 2 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Trondheim | Women's 50km Mass Start Free World Championships 09/03/25 - 10:15  EuroSport 2 France (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium773/mono.m3u8
+
 #EXTINF:-1 tvg-id="Paris-Nice | Stage 1 Men | Le Perray-en-Yvelines (156.1km) - TNT Sports 1 UK" tvg-name="Paris-Nice | Stage 1 Men | Le Perray-en-Yvelines (156.1km) 09/03/25 - 12:30  TNT Sports 1 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Paris-Nice | Stage 1 Men | Le Perray-en-Yvelines (156.1km) 09/03/25 - 12:30  TNT Sports 1 UK (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -12796,6 +12814,12 @@ https://windnew.iosplayer.ru/wind/premium58/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium525/mono.m3u8
+
+#EXTINF:-1 tvg-id="Paris-Nice | Stage 1 Men | Le Perray-en-Yvelines (156.1km) - EuroSport 2 France" tvg-name="Paris-Nice | Stage 1 Men | Le Perray-en-Yvelines (156.1km) 09/03/25 - 12:30  EuroSport 2 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Paris-Nice | Stage 1 Men | Le Perray-en-Yvelines (156.1km) 09/03/25 - 12:30  EuroSport 2 France (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium773/mono.m3u8
 
 #EXTINF:-1 tvg-id="GP Jean-Pierre Monser? Men | Roeselare (201.6km) - TNT Sports 1 UK" tvg-name="GP Jean-Pierre Monser? Men | Roeselare (201.6km) 09/03/25 - 14:15  TNT Sports 1 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", GP Jean-Pierre Monser? Men | Roeselare (201.6km) 09/03/25 - 14:15  TNT Sports 1 UK (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -13169,6 +13193,12 @@ https://dokko1new.iosplayer.ru/dokko1/premium833/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium809/mono.m3u8
 
+#EXTINF:-1 tvg-id="NHL - V Sport Premium Sweden" tvg-name="NHL : Columbus Blue Jackets vs New York Rangers 09/03/25 - 22:00  V Sport Premium Sweden" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Columbus Blue Jackets vs New York Rangers 09/03/25 - 22:00  V Sport Premium Sweden (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium7/mono.m3u8
+
 #EXTINF:-1 tvg-id="NHL - Sport 5 Live Israel" tvg-name="NHL : Columbus Blue Jackets vs New York Rangers 09/03/25 - 22:00  Sport 5 Live Israel" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Columbus Blue Jackets vs New York Rangers 09/03/25 - 22:00  Sport 5 Live Israel (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -13246,6 +13276,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium809/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium473/mono.m3u8
+
+#EXTINF:-1 tvg-id="NHL - V Sport Premium Sweden" tvg-name="NHL : Dallas Stars vs Vancouver Canucks 09/03/25 - 01:00  V Sport Premium Sweden" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Dallas Stars vs Vancouver Canucks 09/03/25 - 01:00  V Sport Premium Sweden (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium7/mono.m3u8
 
 #EXTINF:-1 tvg-id="NHL - Sport 5 Star Israel" tvg-name="NHL : Dallas Stars vs Vancouver Canucks 09/03/25 - 01:00  Sport 5 Star Israel" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Dallas Stars vs Vancouver Canucks 09/03/25 - 01:00  Sport 5 Star Israel (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -13450,6 +13486,12 @@ https://windnew.iosplayer.ru/wind/premium58/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium525/mono.m3u8
+
+#EXTINF:-1 tvg-id="World Championship | Trondheim Women | Freestyle Mass Start 50km - EuroSport 2 France" tvg-name="World Championship | Trondheim Women | Freestyle Mass Start 50km 09/03/25 - 10:15  EuroSport 2 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", World Championship | Trondheim Women | Freestyle Mass Start 50km 09/03/25 - 10:15  EuroSport 2 France (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium773/mono.m3u8
 
 #EXTINF:-1 tvg-id="Gudauri | Snowboard Cross World Cup | Day 2 - TNT Sports 1 UK" tvg-name="Gudauri | Snowboard Cross World Cup | Day 2 09/03/25 - 10:30  TNT Sports 1 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Gudauri | Snowboard Cross World Cup | Day 2 09/03/25 - 10:30  TNT Sports 1 UK (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
