@@ -3353,11 +3353,23 @@ https://zekonew.iosplayer.ru/zeko/premium140/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium380/mono.m3u8
 
+#EXTINF:-1 tvg-id="Mexico Liga de Expansión MX - TVC Deportes" tvg-name="Mexico Liga de Expansión MX : Tapatío vs Tlaxcala 09/03/25 - 18:00  TVC Deportes" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Mexico Liga de Expansión MX : Tapatío vs Tlaxcala 09/03/25 - 18:00  TVC Deportes (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium932/mono.m3u8
+
 #EXTINF:-1 tvg-id="Mexico Liga de Expansión MX - Fox Sports 2 Mexico" tvg-name="Mexico Liga de Expansión MX : Tapatío vs Tlaxcala 09/03/25 - 18:00  Fox Sports 2 Mexico" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Mexico Liga de Expansión MX : Tapatío vs Tlaxcala 09/03/25 - 18:00  Fox Sports 2 Mexico (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium930/mono.m3u8
+
+#EXTINF:-1 tvg-id="Mexico Liga MX Femenil - Fox Sports Mexico" tvg-name="Mexico Liga MX Femenil : Puebla vs Tijuana 09/03/25 - 18:00  Fox Sports Mexico" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Mexico Liga MX Femenil : Puebla vs Tijuana 09/03/25 - 18:00  Fox Sports Mexico (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium929/mono.m3u8
 
 #EXTINF:-1 tvg-id="Mexico Liga MX Femenil - Fox Sports Premium MX" tvg-name="Mexico Liga MX Femenil : Puebla vs Tijuana 09/03/25 - 18:00  Fox Sports Premium MX" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Mexico Liga MX Femenil : Puebla vs Tijuana 09/03/25 - 18:00  Fox Sports Premium MX (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -4035,7 +4047,7 @@ https://dokko1new.iosplayer.ru/dokko1/premium591/mono.m3u8
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://zekonew.iosplayer.ru/zeko/premium368/mono.m3u8
+https://dokko1new.iosplayer.ru/dokko1/premium368/mono.m3u8
 
 #EXTINF:-1 tvg-id="ICC Champions Trophy Final - SuperSport Grandstand" tvg-name="ICC Champions Trophy Final : India vs New Zealand 09/03/25 - 09:00  SuperSport Grandstand" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", ICC Champions Trophy Final : India vs New Zealand 09/03/25 - 09:00  SuperSport Grandstand (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -4913,12 +4925,6 @@ https://ddy6new.iosplayer.ru/ddy6/premium110/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium167/mono.m3u8
 
-#EXTINF:-1 tvg-id="Poland PLK - Polsat Sport 2 Poland" tvg-name="Poland PLK : Trefl Sopot vs. Wilki Morskie Szczecin 09/03/25 - 16:30  Polsat Sport 2 Poland" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Poland PLK : Trefl Sopot vs. Wilki Morskie Szczecin 09/03/25 - 16:30  Polsat Sport 2 Poland (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium50/mono.m3u8
-
 #EXTINF:-1 tvg-id="NCAA - FOX USA" tvg-name="NCAA : Nebraska vs Iowa 09/03/25 - 16:30  FOX USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NCAA : Nebraska vs Iowa 09/03/25 - 16:30  FOX USA (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -5381,12 +5387,6 @@ https://windnew.iosplayer.ru/wind/premium68/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium69/mono.m3u8
 
-#EXTINF:-1 tvg-id="NBA - Home Feed" tvg-name="NBA : Detroit Pistons vs Portland Trail Blazers 09/03/25 - 01:00  Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Detroit Pistons vs Portland Trail Blazers 09/03/25 - 01:00  Home Feed (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium76/mono.m3u8
-
 #EXTINF:-1 tvg-id="NBA - Away Feed" tvg-name="NBA : Detroit Pistons vs Portland Trail Blazers 09/03/25 - 01:00  Away Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Detroit Pistons vs Portland Trail Blazers 09/03/25 - 01:00  Away Feed (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -5447,6 +5447,12 @@ https://windnew.iosplayer.ru/wind/premium58/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium525/mono.m3u8
 
+#EXTINF:-1 tvg-id="Trondheim | Women's 50km Mass Start Free World Championships - EuroSport 2 France" tvg-name="Trondheim | Women's 50km Mass Start Free World Championships 09/03/25 - 10:15  EuroSport 2 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Trondheim | Women's 50km Mass Start Free World Championships 09/03/25 - 10:15  EuroSport 2 France (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium773/mono.m3u8
+
 #EXTINF:-1 tvg-id="Paris-Nice | Stage 1 Men | Le Perray-en-Yvelines (156.1km) - TNT Sports 1 UK" tvg-name="Paris-Nice | Stage 1 Men | Le Perray-en-Yvelines (156.1km) 09/03/25 - 12:30  TNT Sports 1 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Paris-Nice | Stage 1 Men | Le Perray-en-Yvelines (156.1km) 09/03/25 - 12:30  TNT Sports 1 UK (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -5470,6 +5476,12 @@ https://windnew.iosplayer.ru/wind/premium58/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium525/mono.m3u8
+
+#EXTINF:-1 tvg-id="Paris-Nice | Stage 1 Men | Le Perray-en-Yvelines (156.1km) - EuroSport 2 France" tvg-name="Paris-Nice | Stage 1 Men | Le Perray-en-Yvelines (156.1km) 09/03/25 - 12:30  EuroSport 2 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Paris-Nice | Stage 1 Men | Le Perray-en-Yvelines (156.1km) 09/03/25 - 12:30  EuroSport 2 France (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium773/mono.m3u8
 
 #EXTINF:-1 tvg-id="GP Jean-Pierre Monser? Men | Roeselare (201.6km) - TNT Sports 1 UK" tvg-name="GP Jean-Pierre Monser? Men | Roeselare (201.6km) 09/03/25 - 14:15  TNT Sports 1 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", GP Jean-Pierre Monser? Men | Roeselare (201.6km) 09/03/25 - 14:15  TNT Sports 1 UK (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -5513,12 +5525,6 @@ https://ddy6new.iosplayer.ru/ddy6/premium718/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium540/mono.m3u8
 
-#EXTINF:-1 tvg-id="Golden League Women - Polsat Sport 2 Poland" tvg-name="Golden League Women : Poland W vs Denmark W 09/03/25 - 12:30  Polsat Sport 2 Poland" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Golden League Women : Poland W vs Denmark W 09/03/25 - 12:30  Polsat Sport 2 Poland (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium50/mono.m3u8
-
 #EXTINF:-1 tvg-id="Golden League Women - TV2 Denmark" tvg-name="Golden League Women : Poland W vs Denmark W 09/03/25 - 12:30  TV2 Denmark" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Golden League Women : Poland W vs Denmark W 09/03/25 - 12:30  TV2 Denmark (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -5530,12 +5536,6 @@ https://ddy6new.iosplayer.ru/ddy6/premium817/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium153/mono.m3u8
-
-#EXTINF:-1 tvg-id="Superliga - Polsat Sport 2 Poland" tvg-name="Superliga : MKS Piotrkowianin vs. KS Azoty Pulawy 09/03/25 - 14:30  Polsat Sport 2 Poland" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Superliga : MKS Piotrkowianin vs. KS Azoty Pulawy 09/03/25 - 14:30  Polsat Sport 2 Poland (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium50/mono.m3u8
 
 #EXTINF:-1 tvg-id="Golden League Women - Ziggo Sport 1 NL" tvg-name="Golden League Women : Netherlands W vs Norway W 09/03/25 - 15:15  Ziggo Sport 1 NL" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Golden League Women : Netherlands W vs Norway W 09/03/25 - 15:15  Ziggo Sport 1 NL (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -5999,12 +5999,6 @@ https://ddy6new.iosplayer.ru/ddy6/premium851/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium950/mono.m3u8
 
-#EXTINF:-1 tvg-id="Six Nations - SuperSport Rugby" tvg-name="Six Nations : England vs Italy 09/03/25 - 15:00  SuperSport Rugby" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Six Nations : England vs Italy 09/03/25 - 15:00  SuperSport Rugby (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://zekonew.iosplayer.ru/zeko/premium421/mono.m3u8
-
 #EXTINF:-1 tvg-id="Six Nations - M+ Vamos Spain" tvg-name="Six Nations : England vs Italy 09/03/25 - 15:00  M+ Vamos Spain" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Six Nations : England vs Italy 09/03/25 - 15:00  M+ Vamos Spain (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -6148,6 +6142,12 @@ https://windnew.iosplayer.ru/wind/premium58/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium525/mono.m3u8
+
+#EXTINF:-1 tvg-id="World Championship | Trondheim Women | Freestyle Mass Start 50km - EuroSport 2 France" tvg-name="World Championship | Trondheim Women | Freestyle Mass Start 50km 09/03/25 - 10:15  EuroSport 2 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", World Championship | Trondheim Women | Freestyle Mass Start 50km 09/03/25 - 10:15  EuroSport 2 France (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium773/mono.m3u8
 
 #EXTINF:-1 tvg-id="Gudauri | Snowboard Cross World Cup | Day 2 - TNT Sports 1 UK" tvg-name="Gudauri | Snowboard Cross World Cup | Day 2 09/03/25 - 10:30  TNT Sports 1 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Gudauri | Snowboard Cross World Cup | Day 2 09/03/25 - 10:30  TNT Sports 1 UK (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
