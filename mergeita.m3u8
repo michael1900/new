@@ -1895,6 +1895,12 @@ https://windnew.iosplayer.ru/wind/premium431/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium1/mono.m3u8
 
+#EXTINF:-1 tvg-id="Iceland League Cup A - Stöð 2 Sport 1" tvg-name="Iceland League Cup A : Stjarnan Garðabær vs KR Reykjavík 09/03/25 - 14:00  Stöð 2 Sport 1" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Iceland League Cup A : Stjarnan Garðabær vs KR Reykjavík 09/03/25 - 14:00  Stöð 2 Sport 1 (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium86/mono.m3u8
+
 #EXTINF:-1 tvg-id="Hungary - NB1 - M4 Sports Hungary" tvg-name="Hungary - NB1 : Újpest vs Puskás 09/03/25 - 14:30  M4 Sports Hungary" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Hungary - NB1 : Újpest vs Puskás 09/03/25 - 14:30  M4 Sports Hungary (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2477,6 +2483,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium455/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium460/mono.m3u8
 
+#EXTINF:-1 tvg-id="England - Premier League - Canal+ France" tvg-name="England - Premier League : Manchester United vs Arsenal 09/03/25 - 16:30  Canal+ France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", England - Premier League : Manchester United vs Arsenal 09/03/25 - 16:30  Canal+ France (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium121/mono.m3u8
+
 #EXTINF:-1 tvg-id="England - Premier League - Canal+ Foot France" tvg-name="England - Premier League : Manchester United vs Arsenal 09/03/25 - 16:30  Canal+ Foot France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", England - Premier League : Manchester United vs Arsenal 09/03/25 - 16:30  Canal+ Foot France (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2884,6 +2896,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium85/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium56/mono.m3u8
+
+#EXTINF:-1 tvg-id="Costa Rica - Primera Division - FUTV" tvg-name="Costa Rica - Primera Division : Santa Ana vs Pérez Zeledón 09/03/25 - 17:00  FUTV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Costa Rica - Primera Division : Santa Ana vs Pérez Zeledón 09/03/25 - 17:00  FUTV (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium86/mono.m3u8
 
 #EXTINF:-1 tvg-id="Greece - Super League - Cosmote Sport 1 Greece" tvg-name="Greece - Super League : Simulcast 09/03/25 - 17:00  Cosmote Sport 1 Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Greece - Super League : Simulcast 09/03/25 - 17:00  Cosmote Sport 1 Greece (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -3778,6 +3796,12 @@ https://windnew.iosplayer.ru/wind/premium103/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium88/mono.m3u8
+
+#EXTINF:-1 tvg-id="Costa Rica - Primera Division - FUTV" tvg-name="Costa Rica - Primera Division : Deportivo Saprissa vs San Carlos 09/03/25 - 21:00  FUTV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Costa Rica - Primera Division : Deportivo Saprissa vs San Carlos 09/03/25 - 21:00  FUTV (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium86/mono.m3u8
 
 #EXTINF:-1 tvg-id="Chile - Primera Division - TNT SPORTS Premium HD Chile" tvg-name="Chile - Primera Division : O'Higgins vs La Serena 09/03/25 - 21:00  TNT SPORTS Premium HD Chile" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Chile - Primera Division : O'Higgins vs La Serena 09/03/25 - 21:00  TNT SPORTS Premium HD Chile (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -5428,6 +5452,24 @@ https://ddy6new.iosplayer.ru/ddy6/premium773/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium31/mono.m3u8
+
+#EXTINF:-1 tvg-id="Womens Series 5-6 - Mattioli Arena, Leicester - PDC TV" tvg-name="Womens Series 5-6 - Mattioli Arena, Leicester 09/03/25 - 10:00  PDC TV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Womens Series 5-6 - Mattioli Arena, Leicester 09/03/25 - 10:00  PDC TV (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium43/mono.m3u8
+
+#EXTINF:-1 tvg-id="Live Lecot Belgian Darts Open - Oktoberhallen, Wieze - PDC TV" tvg-name="Live Lecot Belgian Darts Open - Oktoberhallen, Wieze 09/03/25 - 12:00  PDC TV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Live Lecot Belgian Darts Open - Oktoberhallen, Wieze 09/03/25 - 12:00  PDC TV (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium43/mono.m3u8
+
+#EXTINF:-1 tvg-id="Quarter finals, Semi finals, Final - Oktoberhallen, Wieze - PDC TV" tvg-name="Quarter finals, Semi finals, Final - Oktoberhallen, Wieze 09/03/25 - 18:00  PDC TV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Quarter finals, Semi finals, Final - Oktoberhallen, Wieze 09/03/25 - 18:00  PDC TV (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium43/mono.m3u8
 
 #EXTINF:-1 tvg-id="Quarter finals, Semi finals, Final - Oktoberhallen, Wieze - TV3 Sport Denmark" tvg-name="Quarter finals, Semi finals, Final - Oktoberhallen, Wieze 09/03/25 - 18:00  TV3 Sport Denmark" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Quarter finals, Semi finals, Final - Oktoberhallen, Wieze 09/03/25 - 18:00  TV3 Sport Denmark (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
