@@ -9,7 +9,7 @@ https://ddy6new.iosplayer.ru/ddy6/premium170/mono.m3u8
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium107/mono.m3u8
+https://ddy6new.iosplayer.ru/ddy6/premium110/mono.m3u8
 
 #EXTINF:-1 tvg-id="Me caigo de risa Season 10, Episode 20 - Univision USA" tvg-name="Me caigo de risa Season 10, Episode 20 09/03/25 - 19:00  Univision USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Me caigo de risa Season 10, Episode 20 09/03/25 - 19:00  Univision USA (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -796,6 +796,12 @@ https://windnew.iosplayer.ru/wind/premium870/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium779/mono.m3u8
+
+#EXTINF:-1 tvg-id="Bosnia and Herzegovina - Premijer Liga - Arena Sport 5 Serbia" tvg-name="Bosnia and Herzegovina - Premijer Liga : Sloga Doboj vs Radnik Bijeljina 09/03/25 - 12:00  Arena Sport 5 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Bosnia and Herzegovina - Premijer Liga : Sloga Doboj vs Radnik Bijeljina 09/03/25 - 12:00  Arena Sport 5 Serbia (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium76/mono.m3u8
 
 #EXTINF:-1 tvg-id="Slovenian 2nd League - Sport Klub 5 Serbia" tvg-name="Slovenian 2nd League : Tabor vs Aluminij 09/03/25 - 12:00  Sport Klub 5 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Slovenian 2nd League : Tabor vs Aluminij 09/03/25 - 12:00  Sport Klub 5 Serbia (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
