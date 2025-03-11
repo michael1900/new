@@ -455,6 +455,12 @@ https://zekonew.iosplayer.ru/zeko/premium145/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium3/mono.m3u8
 
+#EXTINF:-1 tvg-id="Frauen-Bundesliga - DAZN1 DE" tvg-name="Frauen-Bundesliga : Werder Bremen vs Hoffenheim 10/03/25 - 17:00  DAZN1 DE" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Frauen-Bundesliga : Werder Bremen vs Hoffenheim 10/03/25 - 17:00  DAZN1 DE (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium426/mono.m3u8
+
 #EXTINF:-1 tvg-id="Frauen-Bundesliga - Vodafone Sport" tvg-name="Frauen-Bundesliga : Werder Bremen vs Hoffenheim 10/03/25 - 17:00  Vodafone Sport" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Frauen-Bundesliga : Werder Bremen vs Hoffenheim 10/03/25 - 17:00  Vodafone Sport (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1072,6 +1078,12 @@ https://windnew.iosplayer.ru/wind/premium276/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium771/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - DAZN 1 DE" tvg-name="Spain - La Liga : Espanyol vs Girona 10/03/25 - 20:00  DAZN 1 DE" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - La Liga : Espanyol vs Girona 10/03/25 - 20:00  DAZN 1 DE (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium426/mono.m3u8
 
 #EXTINF:-1 tvg-id="Spain - La Liga - Match! Football 2 Russia" tvg-name="Spain - La Liga : Espanyol vs Girona 10/03/25 - 20:00  Match! Football 2 Russia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - La Liga : Espanyol vs Girona 10/03/25 - 20:00  Match! Football 2 Russia (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -2051,6 +2063,18 @@ https://nfsnew.iosplayer.ru/nfs/premium28/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium29/mono.m3u8
 
+#EXTINF:-1 tvg-id="NBA - Home Feed" tvg-name="NBA : Portland Trail Blazers vs Golden State Warriors 10/03/25 - 02:00  Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Portland Trail Blazers vs Golden State Warriors 10/03/25 - 02:00  Home Feed (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium30/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Away Feed" tvg-name="NBA : Portland Trail Blazers vs Golden State Warriors 10/03/25 - 02:00  Away Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Portland Trail Blazers vs Golden State Warriors 10/03/25 - 02:00  Away Feed (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium55/mono.m3u8
+
 #EXTINF:-1 tvg-id="NBA - NBCS Bay Area" tvg-name="NBA : Portland Trail Blazers vs Golden State Warriors 10/03/25 - 02:00  NBCS Bay Area" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Portland Trail Blazers vs Golden State Warriors 10/03/25 - 02:00  NBCS Bay Area (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2080,6 +2104,18 @@ https://windnew.iosplayer.ru/wind/premium408/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium144/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Home Feed" tvg-name="NBA : New York Knicks vs Sacramento Kings 10/03/25 - 02:30  Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : New York Knicks vs Sacramento Kings 10/03/25 - 02:30  Home Feed (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium59/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Away Feed" tvg-name="NBA : New York Knicks vs Sacramento Kings 10/03/25 - 02:30  Away Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : New York Knicks vs Sacramento Kings 10/03/25 - 02:30  Away Feed (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium68/mono.m3u8
 
 #EXTINF:-1 tvg-id="NBA - MSG USA" tvg-name="NBA : New York Knicks vs Sacramento Kings 10/03/25 - 02:30  MSG USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : New York Knicks vs Sacramento Kings 10/03/25 - 02:30  MSG USA (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -2789,30 +2825,6 @@ https://ddy6new.iosplayer.ru/ddy6/premium716/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium540/mono.m3u8
 
-#EXTINF:-1 tvg-id="Portugal - Liga Revelação - Canal 11 Portugal" tvg-name="Portugal - Liga Revelação : Portimonense U23 vs Leixões U23 11/03/25 - 15:00  Canal 11 Portugal" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Portugal - Liga Revelação : Portimonense U23 vs Leixões U23 11/03/25 - 15:00  Canal 11 Portugal (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium540/mono.m3u8
-
-#EXTINF:-1 tvg-id="Slovakia - Slovenský Pohár - JOJ Sport Slovakia" tvg-name="Slovakia - Slovenský Pohár : Zlaté Moravce vs Ružomberok 11/03/25 - 15:00  JOJ Sport Slovakia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Slovakia - Slovenský Pohár : Zlaté Moravce vs Ružomberok 11/03/25 - 15:00  JOJ Sport Slovakia (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://nfsnew.iosplayer.ru/nfs/premium1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Portugal - Liga Revelação - Canal 11 Portugal" tvg-name="Portugal - Liga Revelação : Farense U23 vs Mafra U23 11/03/25 - 16:00  Canal 11 Portugal" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Portugal - Liga Revelação : Farense U23 vs Mafra U23 11/03/25 - 16:00  Canal 11 Portugal (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium540/mono.m3u8
-
-#EXTINF:-1 tvg-id="Bulgaria - Second League - Diema Sport Bulgaria" tvg-name="Bulgaria - Second League : Montana vs Dobrudzha 1919 11/03/25 - 15:30  Diema Sport Bulgaria" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Bulgaria - Second League : Montana vs Dobrudzha 1919 11/03/25 - 15:30  Diema Sport Bulgaria (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium465/mono.m3u8
-
 #EXTINF:-1 tvg-id="Bulgaria - Second League - Sport Klub HD Serbia" tvg-name="Bulgaria - Second League : Montana vs Dobrudzha 1919 11/03/25 - 15:30  Sport Klub HD Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Bulgaria - Second League : Montana vs Dobrudzha 1919 11/03/25 - 15:30  Sport Klub HD Serbia (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2921,6 +2933,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium289/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium559/mono.m3u8
 
+#EXTINF:-1 tvg-id="UEFA Champions League - DAZN 1 DE" tvg-name="UEFA Champions League : Barcelona vs Benfica 11/03/25 - 17:45  DAZN 1 DE" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Champions League : Barcelona vs Benfica 11/03/25 - 17:45  DAZN 1 DE (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium426/mono.m3u8
+
 #EXTINF:-1 tvg-id="UEFA Champions League - Vodafone Sport" tvg-name="UEFA Champions League : Barcelona vs Benfica 11/03/25 - 17:45  Vodafone Sport" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Champions League : Barcelona vs Benfica 11/03/25 - 17:45  Vodafone Sport (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2944,6 +2962,12 @@ https://windnew.iosplayer.ru/wind/premium122/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium4/mono.m3u8
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Ziggo Sport 1 NL" tvg-name="UEFA Champions League : Barcelona vs Benfica 11/03/25 - 17:45  Ziggo Sport 1 NL" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Champions League : Barcelona vs Benfica 11/03/25 - 17:45  Ziggo Sport 1 NL (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium393/mono.m3u8
 
 #EXTINF:-1 tvg-id="UEFA Champions League - Ziggo Sport 2 NL" tvg-name="UEFA Champions League : Barcelona vs Benfica 11/03/25 - 17:45  Ziggo Sport 2 NL" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Champions League : Barcelona vs Benfica 11/03/25 - 17:45  Ziggo Sport 2 NL (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -2986,6 +3010,12 @@ https://wikinew.iosplayer.ru/wiki/premium583/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium134/mono.m3u8
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Canal+ extra 2 Poland" tvg-name="UEFA Champions League : Barcelona vs Benfica 11/03/25 - 17:45  Canal+ extra 2 Poland" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Champions League : Barcelona vs Benfica 11/03/25 - 17:45  Canal+ extra 2 Poland (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium68/mono.m3u8
 
 #EXTINF:-1 tvg-id="UEFA Champions League - TV2 Sport 1 Norway HD" tvg-name="UEFA Champions League : Barcelona vs Benfica 11/03/25 - 17:45  TV2 Sport 1 Norway HD" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Champions League : Barcelona vs Benfica 11/03/25 - 17:45  TV2 Sport 1 Norway HD (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -3311,6 +3341,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium149/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium475/mono.m3u8
 
+#EXTINF:-1 tvg-id="UEFA Champions League - SuperSport Football" tvg-name="UEFA Champions League : Bayer Leverkusen vs Bayern München 11/03/25 - 20:00  SuperSport Football" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Champions League : Bayer Leverkusen vs Bayern München 11/03/25 - 20:00  SuperSport Football (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium56/mono.m3u8
+
 #EXTINF:-1 tvg-id="UEFA Champions League - beIN Sports MENA 4" tvg-name="UEFA Champions League : Bayer Leverkusen vs Bayern München 11/03/25 - 20:00  beIN Sports MENA 4" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Champions League : Bayer Leverkusen vs Bayern München 11/03/25 - 20:00  beIN Sports MENA 4 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -3328,6 +3364,12 @@ https://zekonew.iosplayer.ru/zeko/premium145/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium32/mono.m3u8
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Ziggo Sport 1 NL" tvg-name="UEFA Champions League : Internazionale vs Feyenoord 11/03/25 - 20:00  Ziggo Sport 1 NL" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Champions League : Internazionale vs Feyenoord 11/03/25 - 20:00  Ziggo Sport 1 NL (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium393/mono.m3u8
 
 #EXTINF:-1 tvg-id="UEFA Champions League - Canal+ Sport360 France" tvg-name="UEFA Champions League : Internazionale vs Feyenoord 11/03/25 - 20:00  Canal+ Sport360 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Champions League : Internazionale vs Feyenoord 11/03/25 - 20:00  Canal+ Sport360 France (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -3466,6 +3508,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium493/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium771/mono.m3u8
+
+#EXTINF:-1 tvg-id="UEFA Champions League - DAZN 1 DE" tvg-name="UEFA Champions League : Liverpool vs PSG 11/03/25 - 20:00  DAZN 1 DE" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Champions League : Liverpool vs PSG 11/03/25 - 20:00  DAZN 1 DE (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium426/mono.m3u8
 
 #EXTINF:-1 tvg-id="UEFA Champions League - DAZN Eleven 1 Portugal" tvg-name="UEFA Champions League : Liverpool vs PSG 11/03/25 - 20:00  DAZN Eleven 1 Portugal" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Champions League : Liverpool vs PSG 11/03/25 - 20:00  DAZN Eleven 1 Portugal (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -4685,6 +4733,18 @@ https://zekonew.iosplayer.ru/zeko/premium700/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium30/mono.m3u8
 
+#EXTINF:-1 tvg-id="Austria ICE Hockey League - Puls 24 HD Austria" tvg-name="Austria ICE Hockey League : Black Wings Linz vs. EC Graz 99Ers 11/03/25 - 18:15  Puls 24 HD Austria" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Austria ICE Hockey League : Black Wings Linz vs. EC Graz 99Ers 11/03/25 - 18:15  Puls 24 HD Austria (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium55/mono.m3u8
+
+#EXTINF:-1 tvg-id="DEL - Magenta Sport 308" tvg-name="DEL : Schwenninger vs Nurnberg Ice Tigers 11/03/25 - 18:30  Magenta Sport 308" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", DEL : Schwenninger vs Nurnberg Ice Tigers 11/03/25 - 18:30  Magenta Sport 308 (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium59/mono.m3u8
+
 #EXTINF:-1 tvg-id="PWHL - Bally Sports Oklahoma" tvg-name="PWHL : Minnesota at Ottawa 11/03/25 - 23:00  Bally Sports Oklahoma" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", PWHL : Minnesota at Ottawa 11/03/25 - 23:00  Bally Sports Oklahoma (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -4769,6 +4829,12 @@ https://nfsnew.iosplayer.ru/nfs/premium3/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium4/mono.m3u8
 
+#EXTINF:-1 tvg-id="NHL - V Sport Premium Sweden" tvg-name="NHL : Columbus Blue Jackets vs New Jersey Devils 11/03/25 - 23:00  V Sport Premium Sweden" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Columbus Blue Jackets vs New Jersey Devils 11/03/25 - 23:00  V Sport Premium Sweden (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium55/mono.m3u8
+
 #EXTINF:-1 tvg-id="NHL - Home Feed" tvg-name="NHL : Ottawa Senators vs Philadelphia Flyers 11/03/25 - 23:00  Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Ottawa Senators vs Philadelphia Flyers 11/03/25 - 23:00  Home Feed (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -4798,6 +4864,12 @@ https://zekonew.iosplayer.ru/zeko/premium115/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium839/mono.m3u8
+
+#EXTINF:-1 tvg-id="NHL - V Sport Vinter" tvg-name="NHL : Ottawa Senators vs Philadelphia Flyers 11/03/25 - 23:00  V Sport Vinter" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Ottawa Senators vs Philadelphia Flyers 11/03/25 - 23:00  V Sport Vinter (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium59/mono.m3u8
 
 #EXTINF:-1 tvg-id="NHL - Home Feed" tvg-name="NHL : Vegas Golden Knights vs Pittsburgh Penguins 11/03/25 - 23:00  Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Vegas Golden Knights vs Pittsburgh Penguins 11/03/25 - 23:00  Home Feed (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -4913,6 +4985,12 @@ https://zekonew.iosplayer.ru/zeko/premium112/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium839/mono.m3u8
 
+#EXTINF:-1 tvg-id="NHL - V Sport Vinter" tvg-name="NHL : Montreal Canadiens vs Vancouver Canucks 11/03/25 - 02:00  V Sport Vinter" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Montreal Canadiens vs Vancouver Canucks 11/03/25 - 02:00  V Sport Vinter (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium59/mono.m3u8
+
 #EXTINF:-1 tvg-id="NHL - beIN Sports 5 Max France" tvg-name="NHL : Montreal Canadiens vs Vancouver Canucks 11/03/25 - 02:00  beIN Sports 5 Max France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Montreal Canadiens vs Vancouver Canucks 11/03/25 - 02:00  beIN Sports 5 Max France (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -4954,6 +5032,12 @@ https://windnew.iosplayer.ru/wind/premium407/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium379/mono.m3u8
+
+#EXTINF:-1 tvg-id="NHL - V Sport Premium Sweden" tvg-name="NHL : Washington Capitals vs Anaheim Ducks 11/03/25 - 02:00  V Sport Premium Sweden" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Washington Capitals vs Anaheim Ducks 11/03/25 - 02:00  V Sport Premium Sweden (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium55/mono.m3u8
 
 #EXTINF:-1 tvg-id="NHL - Home Feed" tvg-name="NHL : New York Islanders vs Los Angeles Kings 11/03/25 - 02:30  Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : New York Islanders vs Los Angeles Kings 11/03/25 - 02:30  Home Feed (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
