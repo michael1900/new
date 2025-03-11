@@ -839,6 +839,12 @@ https://windnew.iosplayer.ru/wind/premium150/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium747/mono.m3u8
 
+#EXTINF:-1 tvg-id="Italy - Serie A - SuperSport Football" tvg-name="Italy - Serie A : Lazio vs Udinese 10/03/25 - 19:45  SuperSport Football" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Italy - Serie A : Lazio vs Udinese 10/03/25 - 19:45  SuperSport Football (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium56/mono.m3u8
+
 #EXTINF:-1 tvg-id="Italy - Serie A - Sport 2 Israel" tvg-name="Italy - Serie A : Lazio vs Udinese 10/03/25 - 19:45  Sport 2 Israel" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Italy - Serie A : Lazio vs Udinese 10/03/25 - 19:45  Sport 2 Israel (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1061,6 +1067,12 @@ https://zekonew.iosplayer.ru/zeko/premium140/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium84/mono.m3u8
 
+#EXTINF:-1 tvg-id="Spain - La Liga - GOL PLAY Spain" tvg-name="Spain - La Liga : Espanyol vs Girona 10/03/25 - 20:00  GOL PLAY Spain" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - La Liga : Espanyol vs Girona 10/03/25 - 20:00  GOL PLAY Spain (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium530/mono.m3u8
+
 #EXTINF:-1 tvg-id="Spain - La Liga - Viaplay Sports 1 UK" tvg-name="Spain - La Liga : Espanyol vs Girona 10/03/25 - 20:00  Viaplay Sports 1 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - La Liga : Espanyol vs Girona 10/03/25 - 20:00  Viaplay Sports 1 UK (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1114,6 +1126,12 @@ https://windnew.iosplayer.ru/wind/premium72/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium117/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Ziggo Sport 1 NL" tvg-name="Spain - La Liga : Espanyol vs Girona 10/03/25 - 20:00  Ziggo Sport 1 NL" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - La Liga : Espanyol vs Girona 10/03/25 - 20:00  Ziggo Sport 1 NL (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium393/mono.m3u8
 
 #EXTINF:-1 tvg-id="Spain - La Liga - Ziggo Sport 2 NL" tvg-name="Spain - La Liga : Espanyol vs Girona 10/03/25 - 20:00  Ziggo Sport 2 NL" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - La Liga : Espanyol vs Girona 10/03/25 - 20:00  Ziggo Sport 2 NL (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -2824,6 +2842,30 @@ https://ddy6new.iosplayer.ru/ddy6/premium716/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium540/mono.m3u8
+
+#EXTINF:-1 tvg-id="Portugal - Liga Revelação - Canal 11 Portugal" tvg-name="Portugal - Liga Revelação : Portimonense U23 vs Leixões U23 11/03/25 - 15:00  Canal 11 Portugal" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Portugal - Liga Revelação : Portimonense U23 vs Leixões U23 11/03/25 - 15:00  Canal 11 Portugal (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium540/mono.m3u8
+
+#EXTINF:-1 tvg-id="Slovakia - Slovenský Pohár - JOJ Sport Slovakia" tvg-name="Slovakia - Slovenský Pohár : Zlaté Moravce vs Ružomberok 11/03/25 - 15:00  JOJ Sport Slovakia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Slovakia - Slovenský Pohár : Zlaté Moravce vs Ružomberok 11/03/25 - 15:00  JOJ Sport Slovakia (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Portugal - Liga Revelação - Canal 11 Portugal" tvg-name="Portugal - Liga Revelação : Farense U23 vs Mafra U23 11/03/25 - 16:00  Canal 11 Portugal" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Portugal - Liga Revelação : Farense U23 vs Mafra U23 11/03/25 - 16:00  Canal 11 Portugal (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium540/mono.m3u8
+
+#EXTINF:-1 tvg-id="Bulgaria - Second League - Diema Sport Bulgaria" tvg-name="Bulgaria - Second League : Montana vs Dobrudzha 1919 11/03/25 - 15:30  Diema Sport Bulgaria" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Bulgaria - Second League : Montana vs Dobrudzha 1919 11/03/25 - 15:30  Diema Sport Bulgaria (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium465/mono.m3u8
 
 #EXTINF:-1 tvg-id="Bulgaria - Second League - Sport Klub HD Serbia" tvg-name="Bulgaria - Second League : Montana vs Dobrudzha 1919 11/03/25 - 15:30  Sport Klub HD Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Bulgaria - Second League : Montana vs Dobrudzha 1919 11/03/25 - 15:30  Sport Klub HD Serbia (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
