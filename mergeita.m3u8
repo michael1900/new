@@ -335,6 +335,12 @@ https://zekonew.iosplayer.ru/zeko/premium36/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium109/mono.m3u8
 
+#EXTINF:-1 tvg-id="England - Championship - Sky Sports+" tvg-name="England - Championship : Watford vs Swansea City 12/03/25 - 19:45  Sky Sports+" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", England - Championship : Watford vs Swansea City 12/03/25 - 19:45  Sky Sports+ (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium110/mono.m3u8
+
 #EXTINF:-1 tvg-id="England - Championship - Sky Sports+" tvg-name="England - Championship : Portsmouth vs Plymouth Argyle 12/03/25 - 19:45  Sky Sports+" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", England - Championship : Portsmouth vs Plymouth Argyle 12/03/25 - 19:45  Sky Sports+ (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
