@@ -2763,11 +2763,149 @@
                         "channel_id": "7606801"
                     }
                 ]
+            },
+            {
+                "time": "22:00",
+                "event": "WTA - Indian Wells (USA) - Double : T.Mihalikova\/O.Nicholls vs A.Kalinskaya\/C.Mcnally",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7611980",
+                        "channel_id": "7611980"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Challenger - Santiago (CHL) : Tomas Barrios Vera vs Diego Dedura-Palomero",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7606801",
+                        "channel_id": "7606801"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "Challenger - Cap Cana (DOM) : Aleksandar Kovacevic vs Mattia Bellucci",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7611904",
+                        "channel_id": "7611904"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "Challenger - Cap Cana (DOM) : Tristan Schoolkate vs Fabio Fognini",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7611901",
+                        "channel_id": "7611901"
+                    }
+                ]
+            },
+            {
+                "time": "23:40",
+                "event": "Challenger - Cap Cana (DOM) : Benjamim Bonzi vs Rodrigo Pacheco Mendez",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7611902",
+                        "channel_id": "7611902"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "UTR Yokohama M04 : Christopher Kosei Ono vs Hidetoshi Owada",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7617616",
+                        "channel_id": "7617616"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "WTA - Indian Wells (USA) : Elena Rybakina vs Mirra Andreeva",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7612261",
+                        "channel_id": "7612261"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "ATP - Indian Wells (USA) : Tommy Paul vs Daniil Medvedev",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7611428",
+                        "channel_id": "7611428"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Challenger - Phoenix (USA) : Arthur Rinderknech vs Reilly Opelka",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7612300",
+                        "channel_id": "7612300"
+                    }
+                ]
+            },
+            {
+                "time": "02:10",
+                "event": "UTR (F) - Yokohama (JAP) : Moka Ito vs Azusa Ishii",
+                "channels": [],
+                "channels2": []
+            },
+            {
+                "time": "02:10",
+                "event": "UTR (F) - Yokohama (JAP) : Naomi Hagi vs Alice Pesci",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7603358",
+                        "channel_id": "7603358"
+                    }
+                ]
+            },
+            {
+                "time": "03:10",
+                "event": "Challenger - Phoenix (USA) : Alexander Bublik vs Aleksandar Vukic",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7612303",
+                        "channel_id": "7612303"
+                    }
+                ]
+            },
+            {
+                "time": "03:20",
+                "event": "UTR (F) - Yokohama (JAP) : Seri Nayuki vs Akiho Maruyama",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7601429",
+                        "channel_id": "7601429"
+                    }
+                ]
             }
         ],
         "WWE<\/span>": [
             {
-                "time": "01:00",
+                "time": "00:00",
                 "event": "WWE NXT",
                 "channels": [
                     {
