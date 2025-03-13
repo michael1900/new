@@ -449,6 +449,18 @@ https://ddy6new.iosplayer.ru/ddy6/premium102/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium144/mono.m3u8
 
+#EXTINF:-1 tvg-id="Italy - Serie C - Sky Sport 258 IT" tvg-name="Italy - Serie C : Pro Patria vs Union ArzignanoChiampo 13/03/25 - 17:30  Sky Sport 258 IT" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Italy - Serie C : Pro Patria vs Union ArzignanoChiampo 13/03/25 - 17:30  Sky Sport 258 IT (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium182/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Sky Sport 257 IT" tvg-name="Italy - Serie C : Giana Erminio vs Caldiero Terme 13/03/25 - 17:30  Sky Sport 257 IT" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Italy - Serie C : Giana Erminio vs Caldiero Terme 13/03/25 - 17:30  Sky Sport 257 IT (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium183/mono.m3u8
+
 #EXTINF:-1 tvg-id="Italy - Serie C - Sky Sport 259 IT" tvg-name="Italy - Serie C : Pergolettese vs Lumezzane 13/03/25 - 17:30  Sky Sport 259 IT" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Italy - Serie C : Pergolettese vs Lumezzane 13/03/25 - 17:30  Sky Sport 259 IT (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -712,6 +724,12 @@ https://zekonew.iosplayer.ru/zeko/premium141/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium4/mono.m3u8
+
+#EXTINF:-1 tvg-id="UEFA Europa League - Sky Sport 252 IT" tvg-name="UEFA Europa League : Athletic Club vs Roma 13/03/25 - 17:45  Sky Sport 252 IT" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : Athletic Club vs Roma 13/03/25 - 17:45  Sky Sport 252 IT (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium175/mono.m3u8
 
 #EXTINF:-1 tvg-id="UEFA Europa League - Sky Sport Uno IT" tvg-name="UEFA Europa League : Athletic Club vs Roma 13/03/25 - 17:45  Sky Sport Uno IT" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Europa League : Athletic Club vs Roma 13/03/25 - 17:45  Sky Sport Uno IT (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -1151,6 +1169,12 @@ https://nfsnew.iosplayer.ru/nfs/premium25/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium26/mono.m3u8
 
+#EXTINF:-1 tvg-id="Italy - Serie C - Sky Sport 258 IT" tvg-name="Italy - Serie C : Pro Vercelli vs Atalanta II 13/03/25 - 19:45  Sky Sport 258 IT" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Italy - Serie C : Pro Vercelli vs Atalanta II 13/03/25 - 19:45  Sky Sport 258 IT (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium182/mono.m3u8
+
 #EXTINF:-1 tvg-id="Italy - Serie C - Sky Sport 259 IT" tvg-name="Italy - Serie C : Alcione vs Lecco 13/03/25 - 19:45  Sky Sport 259 IT" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Italy - Serie C : Alcione vs Lecco 13/03/25 - 19:45  Sky Sport 259 IT (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1162,6 +1186,12 @@ https://nfsnew.iosplayer.ru/nfs/premium184/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium870/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Sky Sport 257 IT" tvg-name="Italy - Serie C : AlbinoLeffe vs Triestina 13/03/25 - 19:45  Sky Sport 257 IT" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Italy - Serie C : AlbinoLeffe vs Triestina 13/03/25 - 19:45  Sky Sport 257 IT (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium183/mono.m3u8
 
 #EXTINF:-1 tvg-id="CONCACAF Beach Soccer Championship - Fox Soccer Plus" tvg-name="CONCACAF Beach Soccer Championship : Mexico vs El Salvador 13/03/25 - 19:50  Fox Soccer Plus" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", CONCACAF Beach Soccer Championship : Mexico vs El Salvador 13/03/25 - 19:50  Fox Soccer Plus (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
