@@ -1,4 +1,46 @@
 #EXTM3U url-tvg="http://epg-guide.com/it.gz"
+#EXTINF:-1 tvg-id="Attica Raceway Park Sprint Cars - Event PPV" tvg-name="Attica Raceway Park Sprint Cars 14/03/25 - 22:00  Event PPV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Attica Raceway Park Sprint Cars 14/03/25 - 22:00  Event PPV (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium106/mono.m3u8
+
+#EXTINF:-1 tvg-id="World of Outlaws Late Models - Event PPV" tvg-name="World of Outlaws Late Models 14/03/25 - 22:00  Event PPV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", World of Outlaws Late Models 14/03/25 - 22:00  Event PPV (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium107/mono.m3u8
+
+#EXTINF:-1 tvg-id="World of Outlaws Sprint Cars - Event PPV" tvg-name="World of Outlaws Sprint Cars 14/03/25 - 22:15  Event PPV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", World of Outlaws Sprint Cars 14/03/25 - 22:15  Event PPV (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium108/mono.m3u8
+
+#EXTINF:-1 tvg-id="WV Toughman Contest - Event PPV" tvg-name="WV Toughman Contest 14/03/25 - 23:00  Event PPV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", WV Toughman Contest 14/03/25 - 23:00  Event PPV (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium109/mono.m3u8
+
+#EXTINF:-1 tvg-id="Maple Leaf Pro Wrestling - Triller TV" tvg-name="Maple Leaf Pro Wrestling: Mayhem, Night 1 14/03/25 - 23:00  Triller TV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Maple Leaf Pro Wrestling: Mayhem, Night 1 14/03/25 - 23:00  Triller TV (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium110/mono.m3u8
+
+#EXTINF:-1 tvg-id="TNA - Triller TV" tvg-name="TNA: Sacrifice 2025 PPV Total Nonstop Action Wrestling 14/03/25 - 00:00  Triller TV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", TNA: Sacrifice 2025 PPV Total Nonstop Action Wrestling 14/03/25 - 00:00  Triller TV (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium151/mono.m3u8
+
+#EXTINF:-1 tvg-id="Tuff-N-Uff 142 - UFC Fight Pass" tvg-name="Tuff-N-Uff 142 14/03/25 - 02:00  UFC Fight Pass" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Tuff-N-Uff 142 14/03/25 - 02:00  UFC Fight Pass (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium152/mono.m3u8
+
 #EXTINF:-1 tvg-id="Robogobo Season 1, Episode 13 - Disney Jr. USA" tvg-name="Robogobo Season 1, Episode 13 14/03/25 - 12:00  Disney Jr. USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Robogobo Season 1, Episode 13 14/03/25 - 12:00  Disney Jr. USA (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2747,19 +2789,19 @@ https://windnew.iosplayer.ru/wind/premium473/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium77/mono.m3u8
 
-#EXTINF:-1 tvg-id="WWE Friday Night SmackDown - USA Network" tvg-name="WWE Friday Night SmackDown 14/03/25 - 01:00  USA Network" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", WWE Friday Night SmackDown 14/03/25 - 01:00  USA Network (D)
+#EXTINF:-1 tvg-id="WWE Friday Night SmackDown - USA Network" tvg-name="WWE Friday Night SmackDown 14/03/25 - 00:00  USA Network" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", WWE Friday Night SmackDown 14/03/25 - 00:00  USA Network (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium343/mono.m3u8
 
-#EXTINF:-1 tvg-id="WWE Friday Night SmackDown - SONY TEN 1" tvg-name="WWE Friday Night SmackDown 14/03/25 - 01:00  SONY TEN 1" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", WWE Friday Night SmackDown 14/03/25 - 01:00  SONY TEN 1 (D)
+#EXTINF:-1 tvg-id="WWE Friday Night SmackDown - SONY TEN 1" tvg-name="WWE Friday Night SmackDown 14/03/25 - 00:00  SONY TEN 1" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", WWE Friday Night SmackDown 14/03/25 - 00:00  SONY TEN 1 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium885/mono.m3u8
 
-#EXTINF:-1 tvg-id="WWE Friday Night SmackDown - SONY TEN 3" tvg-name="WWE Friday Night SmackDown 14/03/25 - 01:00  SONY TEN 3" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", WWE Friday Night SmackDown 14/03/25 - 01:00  SONY TEN 3 (D)
+#EXTINF:-1 tvg-id="WWE Friday Night SmackDown - SONY TEN 3" tvg-name="WWE Friday Night SmackDown 14/03/25 - 00:00  SONY TEN 3" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", WWE Friday Night SmackDown 14/03/25 - 00:00  SONY TEN 3 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
