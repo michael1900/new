@@ -1607,6 +1607,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium830/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium392/mono.m3u8
 
+#EXTINF:-1 tvg-id="Liga MX - Azteca 7 Mexico" tvg-name="Liga MX : Puebla vs Toluca 14/03/25 - 03:05  Azteca 7 Mexico" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Liga MX : Puebla vs Toluca 14/03/25 - 03:05  Azteca 7 Mexico (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium844/mono.m3u8
+
 #EXTINF:-1 tvg-id="Liga MX - TUDN USA" tvg-name="Liga MX : Puebla vs Toluca 14/03/25 - 03:05  TUDN USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Liga MX : Puebla vs Toluca 14/03/25 - 03:05  TUDN USA (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
