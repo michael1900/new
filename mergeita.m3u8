@@ -1,4 +1,70 @@
 #EXTM3U url-tvg="http://epg-guide.com/it.gz"
+#EXTINF:-1 tvg-id="2025 TX2K25 - Floracing" tvg-name="2025 TX2K25 15/03/25 - 15:00  Floracing" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", 2025 TX2K25 15/03/25 - 15:00  Floracing (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium203/mono.m3u8
+
+#EXTINF:-1 tvg-id="2025 Hayes Brakes Snocross National - Floracing" tvg-name="2025 Hayes Brakes Snocross National 15/03/25 - 19:00  Floracing" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", 2025 Hayes Brakes Snocross National 15/03/25 - 19:00  Floracing (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium172/mono.m3u8
+
+#EXTINF:-1 tvg-id="World of Outlaws Late Models - Event PPV" tvg-name="World of Outlaws Late Models 15/03/25 - 21:30  Event PPV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", World of Outlaws Late Models 15/03/25 - 21:30  Event PPV (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium173/mono.m3u8
+
+#EXTINF:-1 tvg-id="2025 410 Sprints at Lincoln Speedway - Floracing" tvg-name="2025 410 Sprints at Lincoln Speedway 15/03/25 - 21:30  Floracing" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", 2025 410 Sprints at Lincoln Speedway 15/03/25 - 21:30  Floracing (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium174/mono.m3u8
+
+#EXTINF:-1 tvg-id="World of Outlaws Sprint Cars - Event PPV" tvg-name="World of Outlaws Sprint Cars 15/03/25 - 22:30  Event PPV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", World of Outlaws Sprint Cars 15/03/25 - 22:30  Event PPV (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium175/mono.m3u8
+
+#EXTINF:-1 tvg-id="WV Toughman Contest - Event PPV" tvg-name="WV Toughman Contest 15/03/25 - 23:00  Event PPV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", WV Toughman Contest 15/03/25 - 23:00  Event PPV (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium176/mono.m3u8
+
+#EXTINF:-1 tvg-id="House of Glory - Triller TV" tvg-name="House of Glory: City of Dreamz 2025 15/03/25 - 00:00  Triller TV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", House of Glory: City of Dreamz 2025 15/03/25 - 00:00  Triller TV (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium177/mono.m3u8
+
+#EXTINF:-1 tvg-id="GCW - Triller TV" tvg-name="GCW: Ashes to Ashes 2025 15/03/25 - 00:00  Triller TV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", GCW: Ashes to Ashes 2025 15/03/25 - 00:00  Triller TV (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium178/mono.m3u8
+
+#EXTINF:-1 tvg-id="SlapFight Double Barrel PPV - Event PPV" tvg-name="SlapFight Double Barrel PPV 15/03/25 - 00:00  Event PPV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", SlapFight Double Barrel PPV 15/03/25 - 00:00  Event PPV (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium179/mono.m3u8
+
+#EXTINF:-1 tvg-id="2025 USAC CRA Sprints at Imperial Valley Raceway - Floracing" tvg-name="2025 USAC CRA Sprints at Imperial Valley Raceway 15/03/25 - 00:30  Floracing" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", 2025 USAC CRA Sprints at Imperial Valley Raceway 15/03/25 - 00:30  Floracing (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium180/mono.m3u8
+
+#EXTINF:-1 tvg-id="2025 Kubota High Limit Racing at Las Vegas Motor Speedway - Floracing" tvg-name="2025 Kubota High Limit Racing at Las Vegas Motor Speedway 15/03/25 - 00:45  Floracing" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", 2025 Kubota High Limit Racing at Las Vegas Motor Speedway 15/03/25 - 00:45  Floracing (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium181/mono.m3u8
+
 #EXTINF:-1 tvg-id="Big City Greens Season 4, Episode 13 - Disney Channel" tvg-name="Big City Greens Season 4, Episode 13 15/03/25 - 12:00  Disney Channel" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Big City Greens Season 4, Episode 13 15/03/25 - 12:00  Disney Channel (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -215,6 +281,12 @@ https://windnew.iosplayer.ru/wind/premium176/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium177/mono.m3u8
 
+#EXTINF:-1 tvg-id="England - Championship - Sky Sports+" tvg-name="England - Championship : Swansea City vs Burnley 15/03/25 - 15:00  Sky Sports+" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", England - Championship : Swansea City vs Burnley 15/03/25 - 15:00  Sky Sports+ (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium178/mono.m3u8
+
 #EXTINF:-1 tvg-id="England - Championship - Sky Sports+" tvg-name="England - Championship : West Bromwich Albion vs Hull City 15/03/25 - 15:00  Sky Sports+" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", England - Championship : West Bromwich Albion vs Hull City 15/03/25 - 15:00  Sky Sports+ (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -256,6 +328,12 @@ https://nfsnew.iosplayer.ru/nfs/premium183/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium184/mono.m3u8
+
+#EXTINF:-1 tvg-id="England - League One - Sky Sports+" tvg-name="England - League One : Northampton Town vs Birmingham City 15/03/25 - 15:00  Sky Sports+" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", England - League One : Northampton Town vs Birmingham City 15/03/25 - 15:00  Sky Sports+ (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium185/mono.m3u8
 
 #EXTINF:-1 tvg-id="England - League One - Sky Sports+" tvg-name="England - League One : Reading vs Stevenage 15/03/25 - 15:00  Sky Sports+" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", England - League One : Reading vs Stevenage 15/03/25 - 15:00  Sky Sports+ (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -3827,12 +3905,6 @@ https://windnew.iosplayer.ru/wind/premium391/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium597/mono.m3u8
 
-#EXTINF:-1 tvg-id="Liga MX - Azteca 7 Mexico" tvg-name="Liga MX : Tigres UANL vs Santos Laguna 15/03/25 - 23:00  Azteca 7 Mexico" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Liga MX : Tigres UANL vs Santos Laguna 15/03/25 - 23:00  Azteca 7 Mexico (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium844/mono.m3u8
-
 #EXTINF:-1 tvg-id="Liga MX - FOX Deportes" tvg-name="Liga MX : Tigres UANL vs Santos Laguna 15/03/25 - 23:00  FOX Deportes" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Liga MX : Tigres UANL vs Santos Laguna 15/03/25 - 23:00  FOX Deportes (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -3940,12 +4012,6 @@ https://windnew.iosplayer.ru/wind/premium66/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium132/mono.m3u8
-
-#EXTINF:-1 tvg-id="Liga MX - Azteca 7 Mexico" tvg-name="Liga MX : Juárez vs Guadalajara 15/03/25 - 01:00  Azteca 7 Mexico" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Liga MX : Juárez vs Guadalajara 15/03/25 - 01:00  Azteca 7 Mexico (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium844/mono.m3u8
 
 #EXTINF:-1 tvg-id="Liga MX - Fox Soccer Plus" tvg-name="Liga MX : Juárez vs Guadalajara 15/03/25 - 01:00  Fox Soccer Plus" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Liga MX : Juárez vs Guadalajara 15/03/25 - 01:00  Fox Soccer Plus (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -4637,12 +4703,6 @@ https://windnew.iosplayer.ru/wind/premium103/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium153/mono.m3u8
 
-#EXTINF:-1 tvg-id="Moto 3 - Digi Sport 4 Romania" tvg-name="Moto 3 : Greek Grand Prix of Argentina Practice 2 15/03/25 - 11:30  Digi Sport 4 Romania" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Moto 3 : Greek Grand Prix of Argentina Practice 2 15/03/25 - 11:30  Digi Sport 4 Romania (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://top2new.iosplayer.ru/top2/premium403/mono.m3u8
-
 #EXTINF:-1 tvg-id="Moto 3 - V Sport Motor Sweden" tvg-name="Moto 3 : Greek Grand Prix of Argentina Practice 2 15/03/25 - 11:30  V Sport Motor Sweden" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Moto 3 : Greek Grand Prix of Argentina Practice 2 15/03/25 - 11:30  V Sport Motor Sweden (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -4726,12 +4786,6 @@ https://windnew.iosplayer.ru/wind/premium445/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium153/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - Digi Sport 4 Romania" tvg-name="MotoGP : Greek Grand Prix of Argentina Qualifying 15/03/25 - 13:00  Digi Sport 4 Romania" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", MotoGP : Greek Grand Prix of Argentina Qualifying 15/03/25 - 13:00  Digi Sport 4 Romania (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://top2new.iosplayer.ru/top2/premium403/mono.m3u8
 
 #EXTINF:-1 tvg-id="MotoGP - Cytavision Sports 6" tvg-name="MotoGP : Greek Grand Prix of Argentina Qualifying 15/03/25 - 13:00  Cytavision Sports 6" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", MotoGP : Greek Grand Prix of Argentina Qualifying 15/03/25 - 13:00  Cytavision Sports 6 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -4829,12 +4883,6 @@ https://windnew.iosplayer.ru/wind/premium445/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium153/mono.m3u8
 
-#EXTINF:-1 tvg-id="Moto 3 - Digi Sport 4 Romania" tvg-name="Moto 3 : Greek Grand Prix of Argentina Qualifying 15/03/25 - 15:45  Digi Sport 4 Romania" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Moto 3 : Greek Grand Prix of Argentina Qualifying 15/03/25 - 15:45  Digi Sport 4 Romania (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://top2new.iosplayer.ru/top2/premium403/mono.m3u8
-
 #EXTINF:-1 tvg-id="Moto 3 - V Sport Motor Sweden" tvg-name="Moto 3 : Greek Grand Prix of Argentina Qualifying 15/03/25 - 15:45  V Sport Motor Sweden" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Moto 3 : Greek Grand Prix of Argentina Qualifying 15/03/25 - 15:45  V Sport Motor Sweden (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -4918,12 +4966,6 @@ https://windnew.iosplayer.ru/wind/premium445/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium153/mono.m3u8
-
-#EXTINF:-1 tvg-id="Moto 2 - Digi Sport 4 Romania" tvg-name="Moto 2 : Greek Grand Prix of Argentina Qualifying 15/03/25 - 16:40  Digi Sport 4 Romania" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Moto 2 : Greek Grand Prix of Argentina Qualifying 15/03/25 - 16:40  Digi Sport 4 Romania (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://top2new.iosplayer.ru/top2/premium403/mono.m3u8
 
 #EXTINF:-1 tvg-id="Moto 2 - V Sport Motor Sweden" tvg-name="Moto 2 : Greek Grand Prix of Argentina Qualifying 15/03/25 - 16:40  V Sport Motor Sweden" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Moto 2 : Greek Grand Prix of Argentina Qualifying 15/03/25 - 16:40  V Sport Motor Sweden (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -5014,12 +5056,6 @@ https://windnew.iosplayer.ru/wind/premium445/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium103/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - Digi Sport 4 Romania" tvg-name="MotoGP : Greek Grand Prix of Argentina Sprint Race 15/03/25 - 17:45  Digi Sport 4 Romania" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", MotoGP : Greek Grand Prix of Argentina Sprint Race 15/03/25 - 17:45  Digi Sport 4 Romania (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://top2new.iosplayer.ru/top2/premium403/mono.m3u8
 
 #EXTINF:-1 tvg-id="MotoGP - Ziggo Sport 3 NL" tvg-name="MotoGP : Greek Grand Prix of Argentina Sprint Race 15/03/25 - 17:45  Ziggo Sport 3 NL" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", MotoGP : Greek Grand Prix of Argentina Sprint Race 15/03/25 - 17:45  Ziggo Sport 3 NL (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -6785,12 +6821,6 @@ https://windnew.iosplayer.ru/wind/premium58/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium525/mono.m3u8
 
-#EXTINF:-1 tvg-id="Oslo | Women's 20km Classic World Cup - EuroSport 2 France" tvg-name="Oslo | Women's 20km Classic World Cup 15/03/25 - 10:15  EuroSport 2 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Oslo | Women's 20km Classic World Cup 15/03/25 - 10:15  EuroSport 2 France (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium773/mono.m3u8
-
 #EXTINF:-1 tvg-id="Oslo | Men's 20km Classic World Cup - TNT Sports 4 UK" tvg-name="Oslo | Men's 20km Classic World Cup 15/03/25 - 13:00  TNT Sports 4 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Oslo | Men's 20km Classic World Cup 15/03/25 - 13:00  TNT Sports 4 UK (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -6832,12 +6862,6 @@ https://windnew.iosplayer.ru/wind/premium58/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium525/mono.m3u8
-
-#EXTINF:-1 tvg-id="Paris-Nice | Stage 7 Men | Nice - Auron (147.8km) - EuroSport 2 France" tvg-name="Paris-Nice | Stage 7 Men | Nice - Auron (147.8km) 15/03/25 - 12:30  EuroSport 2 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Paris-Nice | Stage 7 Men | Nice - Auron (147.8km) 15/03/25 - 12:30  EuroSport 2 France (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium773/mono.m3u8
 
 #EXTINF:-1 tvg-id="Tirreno-Adriatico | Stage 6 Men | Cartoceto - Frontignamo (162km) - TNT Sports 1 UK" tvg-name="Tirreno-Adriatico | Stage 6 Men | Cartoceto - Frontignamo (162km) 15/03/25 - 13:15  TNT Sports 1 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Tirreno-Adriatico | Stage 6 Men | Cartoceto - Frontignamo (162km) 15/03/25 - 13:15  TNT Sports 1 UK (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -7595,12 +7619,6 @@ https://dokko1new.iosplayer.ru/dokko1/premium640/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium588/mono.m3u8
 
-#EXTINF:-1 tvg-id="Six Nations - Digi Sport 4 Romania" tvg-name="Six Nations : Italy vs Ireland 15/03/25 - 14:15  Digi Sport 4 Romania" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Six Nations : Italy vs Ireland 15/03/25 - 14:15  Digi Sport 4 Romania (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://top2new.iosplayer.ru/top2/premium403/mono.m3u8
-
 #EXTINF:-1 tvg-id="Six Nations - Ziggo Sport 1 NL" tvg-name="Six Nations : Italy vs Ireland 15/03/25 - 14:15  Ziggo Sport 1 NL" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Six Nations : Italy vs Ireland 15/03/25 - 14:15  Ziggo Sport 1 NL (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -7720,12 +7738,6 @@ https://windnew.iosplayer.ru/wind/premium521/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium454/mono.m3u8
-
-#EXTINF:-1 tvg-id="Six Nations - Digi Sport 4 Romania" tvg-name="Six Nations : France vs Scotland 15/03/25 - 20:00  Digi Sport 4 Romania" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Six Nations : France vs Scotland 15/03/25 - 20:00  Digi Sport 4 Romania (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://top2new.iosplayer.ru/top2/premium403/mono.m3u8
 
 #EXTINF:-1 tvg-id="Six Nations - Sky Sport 1 NZ" tvg-name="Six Nations : France vs Scotland 15/03/25 - 20:00  Sky Sport 1 NZ" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Six Nations : France vs Scotland 15/03/25 - 20:00  Sky Sport 1 NZ (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -7955,12 +7967,6 @@ https://windnew.iosplayer.ru/wind/premium58/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium525/mono.m3u8
 
-#EXTINF:-1 tvg-id="World Cup | Oslo HS134 Male | Day 1 - EuroSport 2 France" tvg-name="World Cup | Oslo HS134 Male | Day 1 15/03/25 - 08:35  EuroSport 2 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", World Cup | Oslo HS134 Male | Day 1 15/03/25 - 08:35  EuroSport 2 France (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium773/mono.m3u8
-
 #EXTINF:-1 tvg-id="World Cup | Oslo Classic Style Mass Start 200km | Women - TNT Sports 4 UK" tvg-name="World Cup | Oslo Classic Style Mass Start 200km | Women 15/03/25 - 10:15  TNT Sports 4 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", World Cup | Oslo Classic Style Mass Start 200km | Women 15/03/25 - 10:15  TNT Sports 4 UK (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -7978,12 +7984,6 @@ https://windnew.iosplayer.ru/wind/premium58/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium525/mono.m3u8
-
-#EXTINF:-1 tvg-id="World Cup | Oslo Classic Style Mass Start 200km | Women - EuroSport 2 France" tvg-name="World Cup | Oslo Classic Style Mass Start 200km | Women 15/03/25 - 10:15  EuroSport 2 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", World Cup | Oslo Classic Style Mass Start 200km | Women 15/03/25 - 10:15  EuroSport 2 France (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium773/mono.m3u8
 
 #EXTINF:-1 tvg-id="Oslo | 20km Men TC World Cup - EuroSport 1 Poland" tvg-name="Oslo | 20km Men TC World Cup 15/03/25 - 13:15  EuroSport 1 Poland" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Oslo | 20km Men TC World Cup 15/03/25 - 13:15  EuroSport 1 Poland (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -8020,12 +8020,6 @@ https://windnew.iosplayer.ru/wind/premium58/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium525/mono.m3u8
-
-#EXTINF:-1 tvg-id="Oslo | Women's 5km Gundersen World Cup - EuroSport 2 France" tvg-name="Oslo | Women's 5km Gundersen World Cup 15/03/25 - 15:00  EuroSport 2 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Oslo | Women's 5km Gundersen World Cup 15/03/25 - 15:00  EuroSport 2 France (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium773/mono.m3u8
 
 #EXTINF:-1 tvg-id="Oslo | Men's Gundersen 10km World Cup - TNT Sports 4 UK" tvg-name="Oslo | Men's Gundersen 10km World Cup 15/03/25 - 15:30  TNT Sports 4 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Oslo | Men's Gundersen 10km World Cup 15/03/25 - 15:30  TNT Sports 4 UK (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
