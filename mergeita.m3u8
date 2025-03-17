@@ -1,4 +1,46 @@
 #EXTM3U url-tvg="http://epg-guide.com/it.gz"
+#EXTINF:-1 tvg-id="All American Season 7, Episode 7 - CW USA" tvg-name="All American Season 7, Episode 7 17/03/25 - 00:00  CW USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", All American Season 7, Episode 7 17/03/25 - 00:00  CW USA (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium300/mono.m3u8
+
+#EXTINF:-1 tvg-id="All American Season 7, Episode 7 - CW PIX 11 USA" tvg-name="All American Season 7, Episode 7 17/03/25 - 00:00  CW PIX 11 USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", All American Season 7, Episode 7 17/03/25 - 00:00  CW PIX 11 USA (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium280/mono.m3u8
+
+#EXTINF:-1 tvg-id="2025 iHeartRadio Music Awards Live - FOXNY USA" tvg-name="2025 iHeartRadio Music Awards Live 17/03/25 - 00:00  FOXNY USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", 2025 iHeartRadio Music Awards Live 17/03/25 - 00:00  FOXNY USA (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium768/mono.m3u8
+
+#EXTINF:-1 tvg-id="2025 iHeartRadio Music Awards Live - FOX USA" tvg-name="2025 iHeartRadio Music Awards Live 17/03/25 - 00:00  FOX USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", 2025 iHeartRadio Music Awards Live 17/03/25 - 00:00  FOX USA (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium54/mono.m3u8
+
+#EXTINF:-1 tvg-id="The Voice Season 27, Episode 7 - NBC USA" tvg-name="The Voice Season 27, Episode 7 17/03/25 - 00:00  NBC USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", The Voice Season 27, Episode 7 17/03/25 - 00:00  NBC USA (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium53/mono.m3u8
+
+#EXTINF:-1 tvg-id="The Voice Season 27, Episode 7 - NBCNY USA" tvg-name="The Voice Season 27, Episode 7 17/03/25 - 00:00  NBCNY USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", The Voice Season 27, Episode 7 17/03/25 - 00:00  NBCNY USA (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium769/mono.m3u8
+
+#EXTINF:-1 tvg-id="Divorce Court Season 26, Episode 126 - MY9TV USA" tvg-name="Divorce Court Season 26, Episode 126 17/03/25 - 12:30  MY9TV USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Divorce Court Season 26, Episode 126 17/03/25 - 12:30  MY9TV USA (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium654/mono.m3u8
+
 #EXTINF:-1 tvg-id="Divorce Court Season 26, Episode 126 - MY9TV USA" tvg-name="Divorce Court Season 26, Episode 126 17/03/25 - 12:30  MY9TV USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Divorce Court Season 26, Episode 126 17/03/25 - 12:30  MY9TV USA (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
