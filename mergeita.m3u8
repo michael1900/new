@@ -1283,6 +1283,12 @@ https://windnew.iosplayer.ru/wind/premium134/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium764/mono.m3u8
 
+#EXTINF:-1 tvg-id="Players Championship 7 - Halle 39, Hildesheim - PDC TV" tvg-name="Players Championship 7 - Halle 39, Hildesheim 17/03/25 - 13:00  PDC TV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Players Championship 7 - Halle 39, Hildesheim 17/03/25 - 13:00  PDC TV (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium43/mono.m3u8
+
 #EXTINF:-1 tvg-id="PBA Bowling World Series of Bowling XVI, Viper Championship - Fox Sports 1 USA" tvg-name="PBA Bowling World Series of Bowling XVI, Viper Championship 17/03/25 - 23:00  Fox Sports 1 USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", PBA Bowling World Series of Bowling XVI, Viper Championship 17/03/25 - 23:00  Fox Sports 1 USA (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
