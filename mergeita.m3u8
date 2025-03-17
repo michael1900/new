@@ -1121,6 +1121,12 @@ https://windnew.iosplayer.ru/wind/premium82/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium703/mono.m3u8
 
+#EXTINF:-1 tvg-id="Spain - La Liga - SuperSport Laliga" tvg-name="Spain - La Liga : Leganés vs Real Betis 16/03/25 - 13:00  SuperSport Laliga" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - La Liga : Leganés vs Real Betis 16/03/25 - 13:00  SuperSport Laliga (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium415/mono.m3u8
+
 #EXTINF:-1 tvg-id="Spain - La Liga - beIN Sports MENA 3" tvg-name="Spain - La Liga : Leganés vs Real Betis 16/03/25 - 13:00  beIN Sports MENA 3" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - La Liga : Leganés vs Real Betis 16/03/25 - 13:00  beIN Sports MENA 3 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2045,6 +2051,12 @@ https://windnew.iosplayer.ru/wind/premium475/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium706/mono.m3u8
 
+#EXTINF:-1 tvg-id="Spain - La Liga - SuperSport Laliga" tvg-name="Spain - La Liga : Sevilla vs Athletic Club 16/03/25 - 15:15  SuperSport Laliga" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - La Liga : Sevilla vs Athletic Club 16/03/25 - 15:15  SuperSport Laliga (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium415/mono.m3u8
+
 #EXTINF:-1 tvg-id="Spain - La Liga - beIN Sports MENA 3" tvg-name="Spain - La Liga : Sevilla vs Athletic Club 16/03/25 - 15:15  beIN Sports MENA 3" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - La Liga : Sevilla vs Athletic Club 16/03/25 - 15:15  beIN Sports MENA 3 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2824,6 +2836,12 @@ https://zekonew.iosplayer.ru/zeko/premium375/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium475/mono.m3u8
+
+#EXTINF:-1 tvg-id="Spain - La Liga - SuperSport Laliga" tvg-name="Spain - La Liga : Rayo Vallecano vs Real Sociedad 16/03/25 - 17:30  SuperSport Laliga" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - La Liga : Rayo Vallecano vs Real Sociedad 16/03/25 - 17:30  SuperSport Laliga (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium415/mono.m3u8
 
 #EXTINF:-1 tvg-id="Spain - La Liga - beIN Sports MENA 3" tvg-name="Spain - La Liga : Rayo Vallecano vs Real Sociedad 16/03/25 - 17:30  beIN Sports MENA 3" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Spain - La Liga : Rayo Vallecano vs Real Sociedad 16/03/25 - 17:30  beIN Sports MENA 3 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
