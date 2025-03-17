@@ -5114,6 +5114,149 @@
                     }
                 ],
                 "channels2": []
+            },
+            {
+                "time": "01:00",
+                "event": "ITF (F) - Kofu (JAP) - Qualifiers : Akiko Omae vs Junri Namigata",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7645285",
+                        "channel_id": "7645285"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "ITF (F) - Kofu (JAP) - Qualifiers : Kayo Nishimura vs Mutsumi Uemura",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7645283",
+                        "channel_id": "7645283"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "ITF (F) - Kofu (JAP) - Qualifiers : Riko Kikawada vs Nanari Katsumi",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7645282",
+                        "channel_id": "7645282"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "ITF (F) - Kofu (JAP) - Qualifiers : Ying Zhang vs Moeka Miyata",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7645286",
+                        "channel_id": "7645286"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "ITF (F) - Kofu (JAP) - Qualifiers : Yukina Saigo vs Nana Kawagishi",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7645290",
+                        "channel_id": "7645290"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "ITF (F) - Kofu (JAP) - Qualifiers : Koharu Niimi vs Nagomi Higashitani",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7645289",
+                        "channel_id": "7645289"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "ITF (F) - Kofu (JAP) - Qualifiers : Natsumi Kawaguchi vs Kanako Osafune",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7645295",
+                        "channel_id": "7645295"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "ITF (F) - Kofu (JAP) - Qualifiers : Sera Nishimoto vs Kanako Morisaki",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7645294",
+                        "channel_id": "7645294"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "ITF (F) - Kofu (JAP) - Qualifiers : Seri Nayuki vs Lisa-Marie Rioux",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7645288",
+                        "channel_id": "7645288"
+                    }
+                ]
+            },
+            {
+                "time": "03:30",
+                "event": "ITF (F) - Kofu (JAP) - Qualifiers : Hayu Kinoshita vs Kurumi Tamura",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7645284",
+                        "channel_id": "7645284"
+                    }
+                ]
+            },
+            {
+                "time": "03:30",
+                "event": "ITF (F) - Kofu (JAP) - Qualifiers : Honoka Kobayashi vs Ayaka Ozeki",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7645287",
+                        "channel_id": "7645287"
+                    }
+                ]
+            },
+            {
+                "time": "03:30",
+                "event": "ITF (F) - Kofu (JAP) - Qualifiers : Miyu Nakashima vs Natsuho Arakawa",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7645291",
+                        "channel_id": "7645291"
+                    }
+                ]
+            },
+            {
+                "time": "03:30",
+                "event": "ITF (F) - Kofu (JAP) - Qualifiers : Remika Ohashi vs Mio Mushika",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7645292",
+                        "channel_id": "7645292"
+                    }
+                ]
             }
         ],
         "Motorsport<\/span>": [
@@ -7808,25 +7951,6 @@
                 "channels2": []
             },
             {
-                "time": "22:00",
-                "event": "NHL : Anaheim Ducks vs St. Louis Blues",
-                "channels": [
-                    {
-                        "channel_name": "Home Feed",
-                        "channel_id": "2"
-                    },
-                    {
-                        "channel_name": "Away Feed",
-                        "channel_id": "3"
-                    },
-                    {
-                        "channel_name": "TV3 Sport Denmark",
-                        "channel_id": "809"
-                    }
-                ],
-                "channels2": []
-            },
-            {
                 "time": "23:00",
                 "event": "NHL : Edmonton Oilers vs New York Rangers",
                 "channels": [
@@ -7896,6 +8020,25 @@
                     {
                         "channel_name": "V Sport Premium Sweden",
                         "channel_id": "1"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "00:00",
+                "event": "NHL : Anaheim Ducks vs St. Louis Blues",
+                "channels": [
+                    {
+                        "channel_name": "Home Feed",
+                        "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "Away Feed",
+                        "channel_id": "3"
+                    },
+                    {
+                        "channel_name": "TV3 Sport Denmark",
+                        "channel_id": "809"
                     }
                 ],
                 "channels2": []
@@ -9418,11 +9561,45 @@
             },
             {
                 "time": "17:05",
+                "event": "MLB : Boston Red Sox vs Atlanta Braves",
+                "channels": [
+                    {
+                        "channel_name": "Bally Sports Oklahoma",
+                        "channel_id": "900"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network South",
+                        "channel_id": "903"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network Southeast",
+                        "channel_id": "904"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "17:05",
                 "event": "MLB : Pittsburgh Pirates vs Detroit Tigers",
                 "channels": [
                     {
+                        "channel_name": "Bally Sports Detroit",
+                        "channel_id": "891"
+                    },
+                    {
                         "channel_name": "beIN Sports 4 Max France",
                         "channel_id": "494"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "17:05",
+                "event": "MLB : Minnesota Twins vs Pittsburgh Pirates",
+                "channels": [
+                    {
+                        "channel_name": "SportsNet Pittsburgh",
+                        "channel_id": "922"
                     }
                 ],
                 "channels2": []
@@ -9456,10 +9633,25 @@
             {
                 "time": "17:10",
                 "event": "MLB : Tampa Bay Rays vs New York Mets",
-                "channels": [
-                    {
+                "channels": {
+                    "0": {
                         "channel_name": "SportsNet New York USA",
                         "channel_id": "759"
+                    },
+                    "2": {
+                        "channel_name": "CW PIX 11 USA",
+                        "channel_id": "280"
+                    }
+                },
+                "channels2": []
+            },
+            {
+                "time": "20:05",
+                "event": "MLB : Arizona Diamondbacks vs Kansas City Royals",
+                "channels": [
+                    {
+                        "channel_name": "FanDuel Sports Network West",
+                        "channel_id": "906"
                     }
                 ],
                 "channels2": []
