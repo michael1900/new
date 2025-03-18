@@ -635,19 +635,13 @@ https://nfsnew.iosplayer.ru/nfs/premium32/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium32/mono.m3u8
 
-#EXTINF:-1 tvg-id="WWE Monday Night RAW - Netflix PPV" tvg-name="WWE Monday Night RAW 17/03/25 - 01:00  Netflix PPV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", WWE Monday Night RAW 17/03/25 - 01:00  Netflix PPV (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium55/mono.m3u8
-
-#EXTINF:-1 tvg-id="WWE Monday Night RAW - SONY TEN 1" tvg-name="WWE Monday Night RAW 17/03/25 - 01:00  SONY TEN 1" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", WWE Monday Night RAW 17/03/25 - 01:00  SONY TEN 1 (D)
+#EXTINF:-1 tvg-id="WWE Monday Night RAW Replay - SONY TEN 1" tvg-name="WWE Monday Night RAW Replay 17/03/25 - 00:00  SONY TEN 1" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", WWE Monday Night RAW Replay 17/03/25 - 00:00  SONY TEN 1 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium885/mono.m3u8
 
-#EXTINF:-1 tvg-id="WWE Monday Night RAW - SONY TEN 3" tvg-name="WWE Monday Night RAW 17/03/25 - 01:00  SONY TEN 3" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", WWE Monday Night RAW 17/03/25 - 01:00  SONY TEN 3 (D)
+#EXTINF:-1 tvg-id="WWE Monday Night RAW Replay - SONY TEN 3" tvg-name="WWE Monday Night RAW Replay 17/03/25 - 00:00  SONY TEN 3" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", WWE Monday Night RAW Replay 17/03/25 - 00:00  SONY TEN 3 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
@@ -3089,13 +3083,13 @@ https://nfsnew.iosplayer.ru/nfs/premium28/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium147/mono.m3u8
 
-#EXTINF:-1 tvg-id="NHL - Home Feed" tvg-name="NHL : St. Louis Blues (HOME) vs Nashville Predators (AWAY) 18/03/25 - 00:00  Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : St. Louis Blues (HOME) vs Nashville Predators (AWAY) 18/03/25 - 00:00  Home Feed (D)
+#EXTINF:-1 tvg-id="NHL - Home Feed" tvg-name="NHL : St. Louis Blues vs Nashville Predators 18/03/25 - 00:00  Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : St. Louis Blues vs Nashville Predators 18/03/25 - 00:00  Home Feed (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium9/mono.m3u8
 
-#EXTINF:-1 tvg-id="NHL - Away Feed" tvg-name="NHL : St. Louis Blues (HOME) vs Nashville Predators (AWAY) 18/03/25 - 00:00  Away Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : St. Louis Blues (HOME) vs Nashville Predators (AWAY) 18/03/25 - 00:00  Away Feed (D)
+#EXTINF:-1 tvg-id="NHL - Away Feed" tvg-name="NHL : St. Louis Blues vs Nashville Predators 18/03/25 - 00:00  Away Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : St. Louis Blues vs Nashville Predators 18/03/25 - 00:00  Away Feed (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
