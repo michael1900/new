@@ -1281,11 +1281,121 @@
                         "channel_id": "7646532"
                     }
                 ]
+            },
+            {
+                "time": "21:40",
+                "event": "Challenger - Merida (MEX) : Rodrigo Alujas vs Felipe Alves",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7645137",
+                        "channel_id": "7645137"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Challenger - Merida (MEX) : Miguel Tobon vs Cristian Garin",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7645136",
+                        "channel_id": "7645136"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "ITF (M) - Bakersfield (USA) : Strong Kirchheimer vs Collin Altamirano",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7656483",
+                        "channel_id": "7656483"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "ITF (M) - Swan Hill (AUS) : Flynn Caruana vs Tomislav Edward Papac",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7656899",
+                        "channel_id": "7656899"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "ITF (M) - Swan Hill (AUS) : Marc Polmans vs Jack Bruce-Smith",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7656901",
+                        "channel_id": "7656901"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "ITF (F) - Swan Hill (AUS) : Natalie Gaft vs Sakura Hosogi",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7656904",
+                        "channel_id": "7656904"
+                    }
+                ]
+            },
+            {
+                "time": "23:10",
+                "event": "Challenger - Merida (MEX) - Double : P.Nesterov\/V.Orlov vs M.Janvier\/B.Perez",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7648563",
+                        "channel_id": "7648563"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "UTR (F) - Newport Beach (USA) : Julia Ronney vs Camille Kiss",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7639276",
+                        "channel_id": "7639276"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "UTR (F) - Newport Beach (USA) : Leyden Games vs Sirena Waas",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7639277",
+                        "channel_id": "7639277"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Challenger - Merida (MEX) : Rodrigo Pacheco Mendez vs Govind Nanda",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-7645134",
+                        "channel_id": "7645134"
+                    }
+                ]
             }
         ],
         "WWE<\/span>": [
             {
-                "time": "01:00",
+                "time": "00:00",
                 "event": "WWE NXT",
                 "channels": [
                     {
