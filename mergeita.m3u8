@@ -425,6 +425,12 @@ https://zekonew.iosplayer.ru/zeko/premium386/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium571/mono.m3u8
 
+#EXTINF:-1 tvg-id="World Cup Qualifying - Sport Klub 4 Serbia" tvg-name="World Cup Qualifying : Liberia vs Tunisia 19/03/25 - 16:00  Sport Klub 4 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", World Cup Qualifying : Liberia vs Tunisia 19/03/25 - 16:00  Sport Klub 4 Serbia (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium104/mono.m3u8
+
 #EXTINF:-1 tvg-id="World Cup Qualifying - Sport 1 Israel" tvg-name="World Cup Qualifying : Liberia vs Tunisia 19/03/25 - 16:00  Sport 1 Israel" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", World Cup Qualifying : Liberia vs Tunisia 19/03/25 - 16:00  Sport 1 Israel (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -442,6 +448,12 @@ https://nfsnew.iosplayer.ru/nfs/premium16/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium103/mono.m3u8
+
+#EXTINF:-1 tvg-id="World - Friendly - Match Premier Russia" tvg-name="World - Friendly : Russia vs Grenada 19/03/25 - 17:00  Match Premier Russia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", World - Friendly : Russia vs Grenada 19/03/25 - 17:00  Match Premier Russia (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium573/mono.m3u8
 
 #EXTINF:-1 tvg-id="World - Friendly - MATCH! Tv Russia" tvg-name="World - Friendly : Russia vs Grenada 19/03/25 - 17:00  MATCH! Tv Russia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", World - Friendly : Russia vs Grenada 19/03/25 - 17:00  MATCH! Tv Russia (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -472,6 +484,12 @@ https://windnew.iosplayer.ru/wind/premium445/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium1/mono.m3u8
+
+#EXTINF:-1 tvg-id="UEFA Women's Champions League - Polsat Sport 2 Poland" tvg-name="UEFA Women's Champions League : Wolfsburg vs Barcelona 19/03/25 - 17:45  Polsat Sport 2 Poland" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Women's Champions League : Wolfsburg vs Barcelona 19/03/25 - 17:45  Polsat Sport 2 Poland (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium50/mono.m3u8
 
 #EXTINF:-1 tvg-id="UEFA Women's Champions League - Polsat Sport Premium 1 Poland" tvg-name="UEFA Women's Champions League : Wolfsburg vs Barcelona 19/03/25 - 17:45  Polsat Sport Premium 1 Poland" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Women's Champions League : Wolfsburg vs Barcelona 19/03/25 - 17:45  Polsat Sport Premium 1 Poland (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -532,6 +550,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium78/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium31/mono.m3u8
+
+#EXTINF:-1 tvg-id="UEFA Women's Champions League - DAZN2 Spain" tvg-name="UEFA Women's Champions League : Manchester City vs Chelsea FC 19/03/25 - 20:00  DAZN2 Spain" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Women's Champions League : Manchester City vs Chelsea FC 19/03/25 - 20:00  DAZN2 Spain (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium446/mono.m3u8
 
 #EXTINF:-1 tvg-id="UEFA Women's Champions League - Ellas Vamos Spain" tvg-name="UEFA Women's Champions League : Manchester City vs Chelsea FC 19/03/25 - 20:00  Ellas Vamos Spain" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Women's Champions League : Manchester City vs Chelsea FC 19/03/25 - 20:00  Ellas Vamos Spain (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -640,6 +664,12 @@ https://windnew.iosplayer.ru/wind/premium46/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium701/mono.m3u8
+
+#EXTINF:-1 tvg-id="ATP and WTA 1000 Miami - Sport TV3 Portugal" tvg-name="ATP and WTA 1000 Miami 19/03/25 - 15:00  Sport TV3 Portugal" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", ATP and WTA 1000 Miami 19/03/25 - 15:00  Sport TV3 Portugal (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium454/mono.m3u8
 
 #EXTINF:-1 tvg-id="ATP and WTA 1000 Miami - M+ Vamos ES" tvg-name="ATP and WTA 1000 Miami 19/03/25 - 15:00  M+ Vamos ES" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", ATP and WTA 1000 Miami 19/03/25 - 15:00  M+ Vamos ES (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
