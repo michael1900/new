@@ -4517,11 +4517,41 @@ https://windnew.iosplayer.ru/wind/premium129/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium554/mono.m3u8
 
+#EXTINF:-1 tvg-id="KHL - KHL TV" tvg-name="KHL : Sibir Novosibirsk vs Salavat Yulaev Ufa 20/03/25 - 12:30  KHL TV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", KHL : Sibir Novosibirsk vs Salavat Yulaev Ufa 20/03/25 - 12:30  KHL TV (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium7/mono.m3u8
+
+#EXTINF:-1 tvg-id="KHL - Match TV Russia" tvg-name="KHL : Yekaterinburg vs SKA St. Petersburg 20/03/25 - 14:00  Match TV Russia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", KHL : Yekaterinburg vs SKA St. Petersburg 20/03/25 - 14:00  Match TV Russia (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium127/mono.m3u8
+
+#EXTINF:-1 tvg-id="KHL - KHL TV" tvg-name="KHL : Vityaz Moscow Oblast vs Avangard Omsk 20/03/25 - 16:00  KHL TV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", KHL : Vityaz Moscow Oblast vs Avangard Omsk 20/03/25 - 16:00  KHL TV (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium7/mono.m3u8
+
 #EXTINF:-1 tvg-id="Slovakia Extraliga - Sport 2 Czech" tvg-name="Slovakia Extraliga : Spisska Nova Ves vs. HKM Zvolen 20/03/25 - 16:30  Sport 2 Czech" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Slovakia Extraliga : Spisska Nova Ves vs. HKM Zvolen 20/03/25 - 16:30  Sport 2 Czech (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium5/mono.m3u8
+
+#EXTINF:-1 tvg-id="KHL - KHL Prime" tvg-name="KHL : Spartak Moscow vs Sochi 20/03/25 - 16:30  KHL Prime" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", KHL : Spartak Moscow vs Sochi 20/03/25 - 16:30  KHL Prime (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium86/mono.m3u8
+
+#EXTINF:-1 tvg-id="KHL - Match TV Russia" tvg-name="KHL : Nizhny Novgorod vs Cherepovets 20/03/25 - 16:30  Match TV Russia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", KHL : Nizhny Novgorod vs Cherepovets 20/03/25 - 16:30  Match TV Russia (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium127/mono.m3u8
 
 #EXTINF:-1 tvg-id="Slovakia Extraliga - JOJ Sport Slovakia HD" tvg-name="Slovakia Extraliga : HC Kosice vs. HK Dukla Trencin 20/03/25 - 17:00  JOJ Sport Slovakia HD" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Slovakia Extraliga : HC Kosice vs. HK Dukla Trencin 20/03/25 - 17:00  JOJ Sport Slovakia HD (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -4534,18 +4564,6 @@ https://nfsnew.iosplayer.ru/nfs/premium6/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium28/mono.m3u8
-
-#EXTINF:-1 tvg-id="Switzerland National League - 3 Schweiz" tvg-name="Switzerland National League : HC Davos vs. EV Zug 20/03/25 - 19:00  3 Schweiz" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Switzerland National League : HC Davos vs. EV Zug 20/03/25 - 19:00  3 Schweiz (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://nfsnew.iosplayer.ru/nfs/premium29/mono.m3u8
-
-#EXTINF:-1 tvg-id="College Hockey Hockey East Tournament - NESN USA" tvg-name="College Hockey Hockey East Tournament : Connecticut vs Boston University 20/03/25 - 20:00  NESN USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", College Hockey Hockey East Tournament : Connecticut vs Boston University 20/03/25 - 20:00  NESN USA (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://nfsnew.iosplayer.ru/nfs/premium762/mono.m3u8
 
 #EXTINF:-1 tvg-id="SHL - TV4 Sport Live 2 Sweden" tvg-name="SHL : Brynas IF vs. Malmo IF 20/03/25 - 18:00  TV4 Sport Live 2 Sweden" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", SHL : Brynas IF vs. Malmo IF 20/03/25 - 18:00  TV4 Sport Live 2 Sweden (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -4589,35 +4607,17 @@ https://zekonew.iosplayer.ru/zeko/premium705/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium707/mono.m3u8
 
-#EXTINF:-1 tvg-id="KHL - KHL TV" tvg-name="KHL : Sibir Novosibirsk vs Salavat Yulaev Ufa 20/03/25 - 12:30  KHL TV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", KHL : Sibir Novosibirsk vs Salavat Yulaev Ufa 20/03/25 - 12:30  KHL TV (D)
+#EXTINF:-1 tvg-id="Switzerland National League - 3 Schweiz" tvg-name="Switzerland National League : HC Davos vs. EV Zug 20/03/25 - 19:00  3 Schweiz" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Switzerland National League : HC Davos vs. EV Zug 20/03/25 - 19:00  3 Schweiz (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://nfsnew.iosplayer.ru/nfs/premium7/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium29/mono.m3u8
 
-#EXTINF:-1 tvg-id="KHL - Match TV Russia" tvg-name="KHL : Yekaterinburg vs SKA St. Petersburg 20/03/25 - 14:00  Match TV Russia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", KHL : Yekaterinburg vs SKA St. Petersburg 20/03/25 - 14:00  Match TV Russia (D)
+#EXTINF:-1 tvg-id="College Hockey Hockey East Tournament - NESN USA" tvg-name="College Hockey Hockey East Tournament : Connecticut vs Boston University 20/03/25 - 20:00  NESN USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", College Hockey Hockey East Tournament : Connecticut vs Boston University 20/03/25 - 20:00  NESN USA (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium127/mono.m3u8
-
-#EXTINF:-1 tvg-id="KHL - KHL TV" tvg-name="KHL : Vityaz Moscow Oblast vs Avangard Omsk 20/03/25 - 16:00  KHL TV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", KHL : Vityaz Moscow Oblast vs Avangard Omsk 20/03/25 - 16:00  KHL TV (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://nfsnew.iosplayer.ru/nfs/premium7/mono.m3u8
-
-#EXTINF:-1 tvg-id="KHL - KHL Prime" tvg-name="KHL : Spartak Moscow vs Sochi 20/03/25 - 16:30  KHL Prime" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", KHL : Spartak Moscow vs Sochi 20/03/25 - 16:30  KHL Prime (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://dokko1new.iosplayer.ru/dokko1/premium86/mono.m3u8
-
-#EXTINF:-1 tvg-id="KHL - Match TV Russia" tvg-name="KHL : Nizhny Novgorod vs Cherepovets 20/03/25 - 16:30  Match TV Russia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", KHL : Nizhny Novgorod vs Cherepovets 20/03/25 - 16:30  Match TV Russia (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium127/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium762/mono.m3u8
 
 #EXTINF:-1 tvg-id="NHL - Home Feed" tvg-name="NHL : Colorado Avalanche vs Ottawa Senators 20/03/25 - 23:00  Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Colorado Avalanche vs Ottawa Senators 20/03/25 - 23:00  Home Feed (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
