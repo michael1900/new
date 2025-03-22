@@ -443,12 +443,6 @@ https://zekonew.iosplayer.ru/zeko/premium265/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium591/mono.m3u8
 
-#EXTINF:-1 tvg-id="UEFA Nations League - DAZN1 DE" tvg-name="UEFA Nations League : Turkey vs Hungary 20/03/25 - 17:00  DAZN1 DE" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Turkey vs Hungary 20/03/25 - 17:00  DAZN1 DE (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium426/mono.m3u8
-
 #EXTINF:-1 tvg-id="UEFA Nations League - Sport TV2 Portugal" tvg-name="UEFA Nations League : Turkey vs Hungary 20/03/25 - 17:00  Sport TV2 Portugal" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Turkey vs Hungary 20/03/25 - 17:00  Sport TV2 Portugal (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -725,12 +719,6 @@ https://dokko1new.iosplayer.ru/dokko1/premium645/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium631/mono.m3u8
 
-#EXTINF:-1 tvg-id="UEFA Nations League - DAZN1 DE" tvg-name="UEFA Nations League : Simulcast 20/03/25 - 19:45  DAZN1 DE" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Simulcast 20/03/25 - 19:45  DAZN1 DE (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium426/mono.m3u8
-
 #EXTINF:-1 tvg-id="UEFA Nations League - Nova Sports News Greece" tvg-name="UEFA Nations League : Slovakia vs Slovenia 20/03/25 - 19:45  Nova Sports News Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Slovakia vs Slovenia 20/03/25 - 19:45  Nova Sports News Greece (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -874,6 +862,12 @@ https://nfsnew.iosplayer.ru/nfs/premium7/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium638/mono.m3u8
+
+#EXTINF:-1 tvg-id="UEFA Nations League - Sky Sport 6 NZ" tvg-name="UEFA Nations League : Greece vs Scotland 20/03/25 - 19:45  Sky Sport 6 NZ" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Greece vs Scotland 20/03/25 - 19:45  Sky Sport 6 NZ (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium593/mono.m3u8
 
 #EXTINF:-1 tvg-id="UEFA Nations League - Sport TV5 Portugal" tvg-name="UEFA Nations League : Greece vs Scotland 20/03/25 - 19:45  Sport TV5 Portugal" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Greece vs Scotland 20/03/25 - 19:45  Sport TV5 Portugal (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
