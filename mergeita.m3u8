@@ -1379,6 +1379,12 @@ https://nfsnew.iosplayer.ru/nfs/premium1/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium521/mono.m3u8
 
+#EXTINF:-1 tvg-id="World Cup Qualifying - TYC Sports Argentina" tvg-name="World Cup Qualifying : Paraguay vs Chile 20/03/25 - 23:00  TYC Sports Argentina" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", World Cup Qualifying : Paraguay vs Chile 20/03/25 - 23:00  TYC Sports Argentina (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium746/mono.m3u8
+
 #EXTINF:-1 tvg-id="World Cup Qualifying - Arena Sport 1 Croatia" tvg-name="World Cup Qualifying : Paraguay vs Chile 20/03/25 - 23:00  Arena Sport 1 Croatia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", World Cup Qualifying : Paraguay vs Chile 20/03/25 - 23:00  Arena Sport 1 Croatia (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
