@@ -1739,12 +1739,6 @@ https://windnew.iosplayer.ru/wind/premium46/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium701/mono.m3u8
 
-#EXTINF:-1 tvg-id="WRC Safari Rally Kenya | Special Stage 1 | Day 1 - Rally Tv" tvg-name="WRC Safari Rally Kenya | Special Stage 1 | Day 1 20/03/25 - 10:00  Rally Tv" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", WRC Safari Rally Kenya | Special Stage 1 | Day 1 20/03/25 - 10:00  Rally Tv (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://dokko1new.iosplayer.ru/dokko1/premium607/mono.m3u8
-
 #EXTINF:-1 tvg-id="WRC Safari Rally Kenya | Special Stage 1 | Day 1 - TNT Sports 2 UK" tvg-name="WRC Safari Rally Kenya | Special Stage 1 | Day 1 20/03/25 - 10:00  TNT Sports 2 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", WRC Safari Rally Kenya | Special Stage 1 | Day 1 20/03/25 - 10:00  TNT Sports 2 UK (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1792,12 +1786,6 @@ https://dokko1new.iosplayer.ru/dokko1/premium556/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium557/mono.m3u8
-
-#EXTINF:-1 tvg-id="WRC Safari Rally Kenya | Special Stage 2 | Day 1 - Rally Tv" tvg-name="WRC Safari Rally Kenya | Special Stage 2 | Day 1 20/03/25 - 14:00  Rally Tv" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", WRC Safari Rally Kenya | Special Stage 2 | Day 1 20/03/25 - 14:00  Rally Tv (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://dokko1new.iosplayer.ru/dokko1/premium607/mono.m3u8
 
 #EXTINF:-1 tvg-id="WRC Safari Rally Kenya | Special Stage 2 | Day 1 - TNT Sports 2 UK" tvg-name="WRC Safari Rally Kenya | Special Stage 2 | Day 1 20/03/25 - 14:00  TNT Sports 2 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", WRC Safari Rally Kenya | Special Stage 2 | Day 1 20/03/25 - 14:00  TNT Sports 2 UK (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -2243,12 +2231,6 @@ https://nfsnew.iosplayer.ru/nfs/premium26/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium144/mono.m3u8
 
-#EXTINF:-1 tvg-id="Euroleague - Magenta Sport 305" tvg-name="Euroleague : Baskonia Vitoria-Gasteiz vs. Bayern Munich 20/03/25 - 19:30  Magenta Sport 305" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Euroleague : Baskonia Vitoria-Gasteiz vs. Bayern Munich 20/03/25 - 19:30  Magenta Sport 305 (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://nfsnew.iosplayer.ru/nfs/premium23/mono.m3u8
-
 #EXTINF:-1 tvg-id="Euroleague - Movistar Deportes Spain" tvg-name="Euroleague : Baskonia Vitoria-Gasteiz vs. Bayern Munich 20/03/25 - 19:30  Movistar Deportes Spain" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Euroleague : Baskonia Vitoria-Gasteiz vs. Bayern Munich 20/03/25 - 19:30  Movistar Deportes Spain (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2573,6 +2555,12 @@ https://dokko1new.iosplayer.ru/dokko1/premium628/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium146/mono.m3u8
 
+#EXTINF:-1 tvg-id="NBA - Home Feed" tvg-name="NBA : Chicago Bulls vs Sacramento Kings 20/03/25 - 02:00  Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Chicago Bulls vs Sacramento Kings 20/03/25 - 02:00  Home Feed (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium107/mono.m3u8
+
 #EXTINF:-1 tvg-id="NBA - Away Feed" tvg-name="NBA : Chicago Bulls vs Sacramento Kings 20/03/25 - 02:00  Away Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Chicago Bulls vs Sacramento Kings 20/03/25 - 02:00  Away Feed (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2830,12 +2818,6 @@ https://ddy6new.iosplayer.ru/ddy6/premium540/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium76/mono.m3u8
-
-#EXTINF:-1 tvg-id="Slovenian League (M) - Sport Klub 9 Serbia" tvg-name="Slovenian League (M) : Gorenje vs Krka 20/03/25 - 17:00  Sport Klub 9 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Slovenian League (M) : Gorenje vs Krka 20/03/25 - 17:00  Sport Klub 9 Serbia (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium77/mono.m3u8
 
 #EXTINF:-1 tvg-id="Denmark, Handboldligaen - TV2 Sport Denmark" tvg-name="Denmark, Handboldligaen : Skanderborg-Aarhus Haandbold vs. Soenderjyske HK 20/03/25 - 17:30  TV2 Sport Denmark" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Denmark, Handboldligaen : Skanderborg-Aarhus Haandbold vs. Soenderjyske HK 20/03/25 - 17:30  TV2 Sport Denmark (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -3190,12 +3172,6 @@ https://nfsnew.iosplayer.ru/nfs/premium21/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium22/mono.m3u8
-
-#EXTINF:-1 tvg-id="NHL - Away Feed" tvg-name="NHL : Tampa Bay Lightning vs Dallas Stars 20/03/25 - 00:00  Away Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Tampa Bay Lightning vs Dallas Stars 20/03/25 - 00:00  Away Feed (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://nfsnew.iosplayer.ru/nfs/premium23/mono.m3u8
 
 #EXTINF:-1 tvg-id="NHL - Bally Sports Sun" tvg-name="NHL : Tampa Bay Lightning vs Dallas Stars 20/03/25 - 00:00  Bally Sports Sun" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Tampa Bay Lightning vs Dallas Stars 20/03/25 - 00:00  Bally Sports Sun (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
