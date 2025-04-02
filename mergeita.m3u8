@@ -587,12 +587,6 @@ https://ddy6new.iosplayer.ru/ddy6/premium290/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium50/mono.m3u8
 
-#EXTINF:-1 tvg-id="UEFA Nations League - Ziggo Sport 2 NL" tvg-name="UEFA Nations League : Armenia vs Georgia 20/03/25 - 17:00  Ziggo Sport 2 NL" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Armenia vs Georgia 20/03/25 - 17:00  Ziggo Sport 2 NL (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://zekonew.iosplayer.ru/zeko/premium398/mono.m3u8
-
 #EXTINF:-1 tvg-id="UEFA Nations League - SONY TEN 2 HD" tvg-name="UEFA Nations League : Armenia vs Georgia 20/03/25 - 17:00  SONY TEN 2 HD" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Armenia vs Georgia 20/03/25 - 17:00  SONY TEN 2 HD (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -839,12 +833,6 @@ https://top2new.iosplayer.ru/top2/premium403/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://wikinew.iosplayer.ru/wiki/premium585/mono.m3u8
 
-#EXTINF:-1 tvg-id="UEFA Nations League - Ziggo Sport 2 NL" tvg-name="UEFA Nations League : Denmark vs Portugal 20/03/25 - 19:45  Ziggo Sport 2 NL" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Denmark vs Portugal 20/03/25 - 19:45  Ziggo Sport 2 NL (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://zekonew.iosplayer.ru/zeko/premium398/mono.m3u8
-
 #EXTINF:-1 tvg-id="UEFA Nations League - Arena Sport 1 Serbia" tvg-name="UEFA Nations League : Denmark vs Portugal 20/03/25 - 19:45  Arena Sport 1 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Denmark vs Portugal 20/03/25 - 19:45  Arena Sport 1 Serbia (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -856,12 +844,6 @@ https://windnew.iosplayer.ru/wind/premium429/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium468/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Nations League - SuperSport Laliga" tvg-name="UEFA Nations League : Denmark vs Portugal 20/03/25 - 19:45  SuperSport Laliga" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Denmark vs Portugal 20/03/25 - 19:45  SuperSport Laliga (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium415/mono.m3u8
 
 #EXTINF:-1 tvg-id="UEFA Nations League - Sport 1 Israel" tvg-name="UEFA Nations League : Denmark vs Portugal 20/03/25 - 19:45  Sport 1 Israel" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Denmark vs Portugal 20/03/25 - 19:45  Sport 1 Israel (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -2231,6 +2213,12 @@ https://nfsnew.iosplayer.ru/nfs/premium26/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium144/mono.m3u8
 
+#EXTINF:-1 tvg-id="Euroleague - Magenta Sport 305" tvg-name="Euroleague : Baskonia Vitoria-Gasteiz vs. Bayern Munich 20/03/25 - 19:30  Magenta Sport 305" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Euroleague : Baskonia Vitoria-Gasteiz vs. Bayern Munich 20/03/25 - 19:30  Magenta Sport 305 (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium23/mono.m3u8
+
 #EXTINF:-1 tvg-id="Euroleague - Movistar Deportes Spain" tvg-name="Euroleague : Baskonia Vitoria-Gasteiz vs. Bayern Munich 20/03/25 - 19:30  Movistar Deportes Spain" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Euroleague : Baskonia Vitoria-Gasteiz vs. Bayern Munich 20/03/25 - 19:30  Movistar Deportes Spain (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2512,6 +2500,12 @@ https://zekonew.iosplayer.ru/zeko/premium404/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium105/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Away Feed" tvg-name="NBA : Toronto Raptors vs Golden State Warriors 20/03/25 - 02:00  Away Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Toronto Raptors vs Golden State Warriors 20/03/25 - 02:00  Away Feed (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium106/mono.m3u8
 
 #EXTINF:-1 tvg-id="NBA - NBCS Bay Area" tvg-name="NBA : Toronto Raptors vs Golden State Warriors 20/03/25 - 02:00  NBCS Bay Area" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Toronto Raptors vs Golden State Warriors 20/03/25 - 02:00  NBCS Bay Area (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -2818,6 +2812,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium540/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium76/mono.m3u8
+
+#EXTINF:-1 tvg-id="Slovenian League (M) - Sport Klub 9 Serbia" tvg-name="Slovenian League (M) : Gorenje vs Krka 20/03/25 - 17:00  Sport Klub 9 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Slovenian League (M) : Gorenje vs Krka 20/03/25 - 17:00  Sport Klub 9 Serbia (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium77/mono.m3u8
 
 #EXTINF:-1 tvg-id="Denmark, Handboldligaen - TV2 Sport Denmark" tvg-name="Denmark, Handboldligaen : Skanderborg-Aarhus Haandbold vs. Soenderjyske HK 20/03/25 - 17:30  TV2 Sport Denmark" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Denmark, Handboldligaen : Skanderborg-Aarhus Haandbold vs. Soenderjyske HK 20/03/25 - 17:30  TV2 Sport Denmark (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -3172,6 +3172,12 @@ https://nfsnew.iosplayer.ru/nfs/premium21/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium22/mono.m3u8
+
+#EXTINF:-1 tvg-id="NHL - Away Feed" tvg-name="NHL : Tampa Bay Lightning vs Dallas Stars 20/03/25 - 00:00  Away Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Tampa Bay Lightning vs Dallas Stars 20/03/25 - 00:00  Away Feed (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium23/mono.m3u8
 
 #EXTINF:-1 tvg-id="NHL - Bally Sports Sun" tvg-name="NHL : Tampa Bay Lightning vs Dallas Stars 20/03/25 - 00:00  Bally Sports Sun" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Tampa Bay Lightning vs Dallas Stars 20/03/25 - 00:00  Bally Sports Sun (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
