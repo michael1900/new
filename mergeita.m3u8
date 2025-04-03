@@ -3017,24 +3017,6 @@ https://nfsnew.iosplayer.ru/nfs/premium7/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium8/mono.m3u8
 
-#EXTINF:-1 tvg-id="NHL - Sportsnet One" tvg-name="NHL : Calgary Flames vs New Jersey Devils 20/03/25 - 23:00  Sportsnet One" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Calgary Flames vs New Jersey Devils 20/03/25 - 23:00  Sportsnet One (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://zekonew.iosplayer.ru/zeko/premium411/mono.m3u8
-
-#EXTINF:-1 tvg-id="NHL - Vodafone Sport" tvg-name="NHL : Calgary Flames vs New Jersey Devils 20/03/25 - 23:00  Vodafone Sport" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Calgary Flames vs New Jersey Devils 20/03/25 - 23:00  Vodafone Sport (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium260/mono.m3u8
-
-#EXTINF:-1 tvg-id="NHL - Home Feed" tvg-name="NHL : Toronto Maple Leafs vs New York Rangers 20/03/25 - 23:00  Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Toronto Maple Leafs vs New York Rangers 20/03/25 - 23:00  Home Feed (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://nfsnew.iosplayer.ru/nfs/premium9/mono.m3u8
-
 #EXTINF:-1 tvg-id="NHL - Away Feed" tvg-name="NHL : Toronto Maple Leafs vs New York Rangers 20/03/25 - 23:00  Away Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Toronto Maple Leafs vs New York Rangers 20/03/25 - 23:00  Away Feed (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
