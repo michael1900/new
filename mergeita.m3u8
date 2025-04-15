@@ -1,3 +1,40 @@
+#EXTM3U url-tvg="http://epg-guide.com/it.gz"
+#EXTINF:-1 tvg-id="Hell's Kitchen Season 12, Episode 17 - AXS TV USA" tvg-name="Hell's Kitchen Season 12, Episode 17 20/03/25 - 12:00  AXS TV USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Hell's Kitchen Season 12, Episode 17 20/03/25 - 12:00  AXS TV USA (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium742/mono.m3u8
+
+#EXTINF:-1 tvg-id="Life Below Zero - Nat Geo Wild" tvg-name="Life Below Zero: Next Generation Season 2, Episode 11 20/03/25 - 16:00  Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Life Below Zero: Next Generation Season 2, Episode 11 20/03/25 - 16:00  Nat Geo Wild (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium745/mono.m3u8
+
+#EXTINF:-1 tvg-id="Big Xii Pro Day Live - NFL Network USA" tvg-name="Big Xii Pro Day Live 20/03/25 - 17:00  NFL Network USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Big Xii Pro Day Live 20/03/25 - 17:00  NFL Network USA (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium405/mono.m3u8
+
+#EXTINF:-1 tvg-id="Pictionary Season 3, Episode 114 - FOXNY USA" tvg-name="Pictionary Season 3, Episode 114 20/03/25 - 18:00  FOXNY USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Pictionary Season 3, Episode 114 20/03/25 - 18:00  FOXNY USA (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium768/mono.m3u8
+
+#EXTINF:-1 tvg-id="General Hospital Season 62, Episode 133 - ABC NY USA" tvg-name="General Hospital Season 62, Episode 133 20/03/25 - 19:00  ABC NY USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", General Hospital Season 62, Episode 133 20/03/25 - 19:00  ABC NY USA (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium766/mono.m3u8
+
+#EXTINF:-1 tvg-id="FanDuel Racing Live - NBC Sports Bay Area" tvg-name="FanDuel Racing Live 20/03/25 - 20:00  NBC Sports Bay Area" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", FanDuel Racing Live 20/03/25 - 20:00  NBC Sports Bay Area (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium753/mono.m3u8
+
 #EXTINF:-1 tvg-id="Rubble &amp; Crew Season 3 - Nick JR USA" tvg-name="Rubble &amp; Crew Season 3 20/03/25 - 21:00  Nick JR USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Rubble &amp; Crew Season 3 20/03/25 - 21:00  Nick JR USA (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
