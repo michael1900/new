@@ -689,6 +689,12 @@ https://zekonew.iosplayer.ru/zeko/premium147/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium94/mono.m3u8
 
+#EXTINF:-1 tvg-id="World Cup Qualifying - Jordan Sport" tvg-name="World Cup Qualifying : Jordan vs Palestine 20/03/25 - 18:15  Jordan Sport" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", World Cup Qualifying : Jordan vs Palestine 20/03/25 - 18:15  Jordan Sport (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium4/mono.m3u8
+
 #EXTINF:-1 tvg-id="World Cup Qualifying - beIN Sports MENA 5" tvg-name="World Cup Qualifying : Jordan vs Palestine 20/03/25 - 18:15  beIN Sports MENA 5" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", World Cup Qualifying : Jordan vs Palestine 20/03/25 - 18:15  beIN Sports MENA 5 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
