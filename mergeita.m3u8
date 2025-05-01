@@ -713,12 +713,6 @@ https://dokko1new.iosplayer.ru/dokko1/premium91/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium291/mono.m3u8
 
-#EXTINF:-1 tvg-id="UEFA Nations League - L'Équipe France" tvg-name="UEFA Nations League : Simulcast 20/03/25 - 19:45  L'Équipe France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Simulcast 20/03/25 - 19:45  L'Équipe France (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://dokko1new.iosplayer.ru/dokko1/premium645/mono.m3u8
-
 #EXTINF:-1 tvg-id="UEFA Nations League - Nova Sports 1 Greece" tvg-name="UEFA Nations League : Simulcast 20/03/25 - 19:45  Nova Sports 1 Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Simulcast 20/03/25 - 19:45  Nova Sports 1 Greece (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1072,12 +1066,6 @@ https://zekonew.iosplayer.ru/zeko/premium143/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium758/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Nations League - TF1 France" tvg-name="UEFA Nations League : Croatia vs France 20/03/25 - 19:45  TF1 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Croatia vs France 20/03/25 - 19:45  TF1 France (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium469/mono.m3u8
 
 #EXTINF:-1 tvg-id="UEFA Nations League - Nova TV Croatia" tvg-name="UEFA Nations League : Croatia vs France 20/03/25 - 19:45  Nova TV Croatia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Croatia vs France 20/03/25 - 19:45  Nova TV Croatia (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -3442,6 +3430,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium850/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium851/mono.m3u8
+
+#EXTINF:-1 tvg-id="rai 3" tvg-name="Rai 3 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai Tv", Rai 3  (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium852/mono.m3u8
 
 #EXTINF:-1 tvg-id="rai 3" tvg-name="Rai 3 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai Tv", Rai 3  (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
