@@ -1979,6 +1979,12 @@ https://windnew.iosplayer.ru/wind/premium399/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium407/mono.m3u8
 
+#EXTINF:-1 tvg-id="MLB - beIN Sports 4 Max France" tvg-name="MLB : Philadelphia Phillies vs Atlanta Braves 20/03/25 - 17:05  beIN Sports 4 Max France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", MLB : Philadelphia Phillies vs Atlanta Braves 20/03/25 - 17:05  beIN Sports 4 Max France (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium494/mono.m3u8
+
 #EXTINF:-1 tvg-id="MLB - MLB Network" tvg-name="MLB : Los Angeles Angels vs Chicago White Sox 20/03/25 - 20:05  MLB Network" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", MLB : Los Angeles Angels vs Chicago White Sox 20/03/25 - 20:05  MLB Network (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2482,6 +2488,12 @@ https://zekonew.iosplayer.ru/zeko/premium436/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium290/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - beIN Sports 4 Max France" tvg-name="NBA : Toronto Raptors vs Golden State Warriors 20/03/25 - 02:00  beIN Sports 4 Max France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Toronto Raptors vs Golden State Warriors 20/03/25 - 02:00  beIN Sports 4 Max France (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium494/mono.m3u8
 
 #EXTINF:-1 tvg-id="NBA - Cosmote Sport 7 Greece" tvg-name="NBA : Toronto Raptors vs Golden State Warriors 20/03/25 - 02:00  Cosmote Sport 7 Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Toronto Raptors vs Golden State Warriors 20/03/25 - 02:00  Cosmote Sport 7 Greece (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
