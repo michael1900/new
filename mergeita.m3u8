@@ -527,12 +527,6 @@ https://ddy6new.iosplayer.ru/ddy6/premium85/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium150/mono.m3u8
 
-#EXTINF:-1 tvg-id="UEFA Nations League - SuperSport Premier League" tvg-name="UEFA Nations League : Turkey vs Hungary 20/03/25 - 17:00  SuperSport Premier League" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Turkey vs Hungary 20/03/25 - 17:00  SuperSport Premier League (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium414/mono.m3u8
-
 #EXTINF:-1 tvg-id="UEFA Nations League - beIN Sports MENA 2" tvg-name="UEFA Nations League : Turkey vs Hungary 20/03/25 - 17:00  beIN Sports MENA 2" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Turkey vs Hungary 20/03/25 - 17:00  beIN Sports MENA 2 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -605,6 +599,12 @@ https://windnew.iosplayer.ru/wind/premium886/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium913/mono.m3u8
 
+#EXTINF:-1 tvg-id="UEFA Nations League - Digi Sport 3 Romania" tvg-name="UEFA Nations League : Armenia vs Georgia 20/03/25 - 17:00  Digi Sport 3 Romania" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Armenia vs Georgia 20/03/25 - 17:00  Digi Sport 3 Romania (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://top1new.iosplayer.ru/top1/premium402/mono.m3u8
+
 #EXTINF:-1 tvg-id="UEFA Nations League - Prima Sport 2 Romania" tvg-name="UEFA Nations League : Armenia vs Georgia 20/03/25 - 17:00  Prima Sport 2 Romania" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Armenia vs Georgia 20/03/25 - 17:00  Prima Sport 2 Romania (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -622,6 +622,12 @@ https://dokko1new.iosplayer.ru/dokko1/premium637/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium468/mono.m3u8
+
+#EXTINF:-1 tvg-id="UEFA Nations League - SuperSport Football" tvg-name="UEFA Nations League : Armenia vs Georgia 20/03/25 - 17:00  SuperSport Football" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Armenia vs Georgia 20/03/25 - 17:00  SuperSport Football (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium56/mono.m3u8
 
 #EXTINF:-1 tvg-id="UEFA Nations League - beIN Sports MENA 8" tvg-name="UEFA Nations League : Armenia vs Georgia 20/03/25 - 17:00  beIN Sports MENA 8" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Armenia vs Georgia 20/03/25 - 17:00  beIN Sports MENA 8 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -947,6 +953,12 @@ https://nfsnew.iosplayer.ru/nfs/premium9/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium10/mono.m3u8
 
+#EXTINF:-1 tvg-id="UEFA Nations League - Virgin Media Two UK" tvg-name="UEFA Nations League : Italy vs Germany 20/03/25 - 19:45  Virgin Media Two UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Italy vs Germany 20/03/25 - 19:45  Virgin Media Two UK (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium55/mono.m3u8
+
 #EXTINF:-1 tvg-id="UEFA Nations League - Sky Sport 3 NZ" tvg-name="UEFA Nations League : Italy vs Germany 20/03/25 - 19:45  Sky Sport 3 NZ" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Italy vs Germany 20/03/25 - 19:45  Sky Sport 3 NZ (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1085,6 +1097,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium289/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium13/mono.m3u8
 
+#EXTINF:-1 tvg-id="UEFA Nations League - Digi Sport 3 Romania" tvg-name="UEFA Nations League : Croatia vs France 20/03/25 - 19:45  Digi Sport 3 Romania" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Croatia vs France 20/03/25 - 19:45  Digi Sport 3 Romania (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://top1new.iosplayer.ru/top1/premium402/mono.m3u8
+
 #EXTINF:-1 tvg-id="UEFA Nations League - Prima Sport 4 Romania" tvg-name="UEFA Nations League : Croatia vs France 20/03/25 - 19:45  Prima Sport 4 Romania" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Croatia vs France 20/03/25 - 19:45  Prima Sport 4 Romania (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1108,12 +1126,6 @@ https://zekonew.iosplayer.ru/zeko/premium430/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium78/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Nations League - V Sport Football" tvg-name="UEFA Nations League : Croatia vs France 20/03/25 - 19:45  V Sport Football" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Croatia vs France 20/03/25 - 19:45  V Sport Football (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium59/mono.m3u8
 
 #EXTINF:-1 tvg-id="UEFA Nations League - Diema Sport Bulgaria" tvg-name="UEFA Nations League : Croatia vs France 20/03/25 - 19:45  Diema Sport Bulgaria" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Croatia vs France 20/03/25 - 19:45  Diema Sport Bulgaria (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -1294,12 +1306,6 @@ https://nfsnew.iosplayer.ru/nfs/premium391/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium597/mono.m3u8
-
-#EXTINF:-1 tvg-id="World Cup Qualifying - Sport Klub 8 Serbia" tvg-name="World Cup Qualifying : Comoros vs Mali 20/03/25 - 21:00  Sport Klub 8 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", World Cup Qualifying : Comoros vs Mali 20/03/25 - 21:00  Sport Klub 8 Serbia (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium68/mono.m3u8
 
 #EXTINF:-1 tvg-id="Brazil Copa do Nordeste - Premier Brasil" tvg-name="Brazil Copa do Nordeste : AA Altos vs Moto Club 20/03/25 - 22:00  Premier Brasil" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Brazil Copa do Nordeste : AA Altos vs Moto Club 20/03/25 - 22:00  Premier Brasil (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -1973,12 +1979,6 @@ https://windnew.iosplayer.ru/wind/premium399/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium407/mono.m3u8
 
-#EXTINF:-1 tvg-id="MLB - beIN Sports 4 Max France" tvg-name="MLB : Philadelphia Phillies vs Atlanta Braves 20/03/25 - 17:05  beIN Sports 4 Max France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", MLB : Philadelphia Phillies vs Atlanta Braves 20/03/25 - 17:05  beIN Sports 4 Max France (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium494/mono.m3u8
-
 #EXTINF:-1 tvg-id="MLB - MLB Network" tvg-name="MLB : Los Angeles Angels vs Chicago White Sox 20/03/25 - 20:05  MLB Network" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", MLB : Los Angeles Angels vs Chicago White Sox 20/03/25 - 20:05  MLB Network (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2273,12 +2273,6 @@ https://zekonew.iosplayer.ru/zeko/premium114/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium85/mono.m3u8
 
-#EXTINF:-1 tvg-id="College Basketball - March Madness (RD1) - Sport Klub 1 Serbia" tvg-name="College Basketball - March Madness (RD1): Tennessee vs Wofford 20/03/25 - 22:50  Sport Klub 1 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", College Basketball - March Madness (RD1): Tennessee vs Wofford 20/03/25 - 22:50  Sport Klub 1 Serbia (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium101/mono.m3u8
-
 #EXTINF:-1 tvg-id="NBA G-League - NBCS Boston USA" tvg-name="NBA G-League : Maine Celtics vs Lakeland Magic 20/03/25 - 23:00  NBCS Boston USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA G-League : Maine Celtics vs Lakeland Magic 20/03/25 - 23:00  NBCS Boston USA (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2308,12 +2302,6 @@ https://ddy6new.iosplayer.ru/ddy6/premium152/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium153/mono.m3u8
-
-#EXTINF:-1 tvg-id="College Basketball - March Madness (RD1) - Sport Klub 1 Serbia" tvg-name="College Basketball - March Madness (RD1): UCLA vs Utah State 20/03/25 - 01:20  Sport Klub 1 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", College Basketball - March Madness (RD1): UCLA vs Utah State 20/03/25 - 01:20  Sport Klub 1 Serbia (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium101/mono.m3u8
 
 #EXTINF:-1 tvg-id="College Basketball - March Madness (RD1) - Sport Klub 2 Serbia" tvg-name="College Basketball - March Madness (RD1): St. John's vs Omaha 20/03/25 - 01:45  Sport Klub 2 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", College Basketball - March Madness (RD1): St. John's vs Omaha 20/03/25 - 01:45  Sport Klub 2 Serbia (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -2459,6 +2447,12 @@ https://zekonew.iosplayer.ru/zeko/premium404/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium105/mono.m3u8
 
+#EXTINF:-1 tvg-id="NBA - Away Feed" tvg-name="NBA : Toronto Raptors vs Golden State Warriors 20/03/25 - 02:00  Away Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Toronto Raptors vs Golden State Warriors 20/03/25 - 02:00  Away Feed (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium106/mono.m3u8
+
 #EXTINF:-1 tvg-id="NBA - NBCS Bay Area" tvg-name="NBA : Toronto Raptors vs Golden State Warriors 20/03/25 - 02:00  NBCS Bay Area" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Toronto Raptors vs Golden State Warriors 20/03/25 - 02:00  NBCS Bay Area (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2482,12 +2476,6 @@ https://zekonew.iosplayer.ru/zeko/premium436/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium290/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA - beIN Sports 4 Max France" tvg-name="NBA : Toronto Raptors vs Golden State Warriors 20/03/25 - 02:00  beIN Sports 4 Max France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Toronto Raptors vs Golden State Warriors 20/03/25 - 02:00  beIN Sports 4 Max France (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium494/mono.m3u8
 
 #EXTINF:-1 tvg-id="NBA - Cosmote Sport 7 Greece" tvg-name="NBA : Toronto Raptors vs Golden State Warriors 20/03/25 - 02:00  Cosmote Sport 7 Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Toronto Raptors vs Golden State Warriors 20/03/25 - 02:00  Cosmote Sport 7 Greece (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -2524,12 +2512,6 @@ https://windnew.iosplayer.ru/wind/premium755/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium404/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA - Home Feed" tvg-name="NBA : Milwaukee Bucks vs Los Angeles Lakers 20/03/25 - 02:30  Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Milwaukee Bucks vs Los Angeles Lakers 20/03/25 - 02:30  Home Feed (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium109/mono.m3u8
 
 #EXTINF:-1 tvg-id="NBA - Away Feed" tvg-name="NBA : Milwaukee Bucks vs Los Angeles Lakers 20/03/25 - 02:30  Away Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Milwaukee Bucks vs Los Angeles Lakers 20/03/25 - 02:30  Away Feed (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -3191,6 +3173,12 @@ https://nfsnew.iosplayer.ru/nfs/premium29/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium30/mono.m3u8
 
+#EXTINF:-1 tvg-id="NHL - Away Feed" tvg-name="NHL : Boston Bruins vs Vegas Golden Knights 20/03/25 - 02:00  Away Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Boston Bruins vs Vegas Golden Knights 20/03/25 - 02:00  Away Feed (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium55/mono.m3u8
+
 #EXTINF:-1 tvg-id="NHL - NESN USA" tvg-name="NHL : Boston Bruins vs Vegas Golden Knights 20/03/25 - 02:00  NESN USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Boston Bruins vs Vegas Golden Knights 20/03/25 - 02:00  NESN USA (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -3238,18 +3226,6 @@ https://windnew.iosplayer.ru/wind/premium473/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium4/mono.m3u8
-
-#EXTINF:-1 tvg-id="NHL - Home Feed" tvg-name="NHL : Carolina Hurricanes vs San Jose Sharks 20/03/25 - 02:30  Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Carolina Hurricanes vs San Jose Sharks 20/03/25 - 02:30  Home Feed (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium59/mono.m3u8
-
-#EXTINF:-1 tvg-id="NHL - Away Feed" tvg-name="NHL : Carolina Hurricanes vs San Jose Sharks 20/03/25 - 02:30  Away Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Carolina Hurricanes vs San Jose Sharks 20/03/25 - 02:30  Away Feed (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium68/mono.m3u8
 
 #EXTINF:-1 tvg-id="NHL - V Sport Premium Sweden" tvg-name="NHL : Carolina Hurricanes vs San Jose Sharks 20/03/25 - 02:30  V Sport Premium Sweden" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NHL : Carolina Hurricanes vs San Jose Sharks 20/03/25 - 02:30  V Sport Premium Sweden (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -3401,6 +3377,12 @@ https://nfsnew.iosplayer.ru/nfs/premium34/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium58/mono.m3u8
 
+#EXTINF:-1 tvg-id="European Open Classic Powerlifting Championships Session 3 | Malaga - EuroSport 2 Spain" tvg-name="European Open Classic Powerlifting Championships Session 3 | Malaga 20/03/25 - 15:00  EuroSport 2 Spain" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", European Open Classic Powerlifting Championships Session 3 | Malaga 20/03/25 - 15:00  EuroSport 2 Spain (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium525/mono.m3u8
+
 #EXTINF:-1 tvg-id="European Open Classic Powerlifting Championships Session 3 | Malaga - EuroSport 2 France" tvg-name="European Open Classic Powerlifting Championships Session 3 | Malaga 20/03/25 - 15:00  EuroSport 2 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", European Open Classic Powerlifting Championships Session 3 | Malaga 20/03/25 - 15:00  EuroSport 2 France (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -3436,6 +3418,12 @@ https://nfsnew.iosplayer.ru/nfs/premium34/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium58/mono.m3u8
+
+#EXTINF:-1 tvg-id="Engadin | Parallel Giant Slalom World Championships - EuroSport 2 Spain" tvg-name="Engadin | Parallel Giant Slalom World Championships 20/03/25 - 12:00  EuroSport 2 Spain" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Engadin | Parallel Giant Slalom World Championships 20/03/25 - 12:00  EuroSport 2 Spain (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium525/mono.m3u8
 
 #EXTINF:-1 tvg-id="Engadin | Parallel Giant Slalom World Championships - EuroSport 2 France" tvg-name="Engadin | Parallel Giant Slalom World Championships 20/03/25 - 12:00  EuroSport 2 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Engadin | Parallel Giant Slalom World Championships 20/03/25 - 12:00  EuroSport 2 France (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
