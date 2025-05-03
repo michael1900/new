@@ -593,6 +593,12 @@ https://zekonew.iosplayer.ru/zeko/premium398/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium886/mono.m3u8
 
+#EXTINF:-1 tvg-id="UEFA Nations League - Cytavision Sports 3 Cyprus" tvg-name="UEFA Nations League : Armenia vs Georgia 20/03/25 - 17:00  Cytavision Sports 3 Cyprus" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Armenia vs Georgia 20/03/25 - 17:00  Cytavision Sports 3 Cyprus (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium913/mono.m3u8
+
 #EXTINF:-1 tvg-id="UEFA Nations League - Prima Sport 2 Romania" tvg-name="UEFA Nations League : Armenia vs Georgia 20/03/25 - 17:00  Prima Sport 2 Romania" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Armenia vs Georgia 20/03/25 - 17:00  Prima Sport 2 Romania (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -862,6 +868,12 @@ https://dokko1new.iosplayer.ru/dokko1/premium593/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium290/mono.m3u8
+
+#EXTINF:-1 tvg-id="UEFA Nations League - Cytavision Sports 3 Cyprus" tvg-name="UEFA Nations League : Greece vs Scotland 20/03/25 - 19:45  Cytavision Sports 3 Cyprus" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Greece vs Scotland 20/03/25 - 19:45  Cytavision Sports 3 Cyprus (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium913/mono.m3u8
 
 #EXTINF:-1 tvg-id="UEFA Nations League - Arena Sport 3 Serbia" tvg-name="UEFA Nations League : Greece vs Scotland 20/03/25 - 19:45  Arena Sport 3 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Greece vs Scotland 20/03/25 - 19:45  Arena Sport 3 Serbia (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
