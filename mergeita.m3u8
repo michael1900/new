@@ -1793,6 +1793,12 @@ https://zekonew.iosplayer.ru/zeko/premium318/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium528/mono.m3u8
 
+#EXTINF:-1 tvg-id="DP World Tour Porsche Singapore Classic - SuperSport Golf" tvg-name="DP World Tour Porsche Singapore Classic 20/03/25 - 04:00  SuperSport Golf" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", DP World Tour Porsche Singapore Classic 20/03/25 - 04:00  SuperSport Golf (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium422/mono.m3u8
+
 #EXTINF:-1 tvg-id="DP World Tour Porsche Singapore Classic - Sky Sports Main Event" tvg-name="DP World Tour Porsche Singapore Classic 20/03/25 - 04:00  Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", DP World Tour Porsche Singapore Classic 20/03/25 - 04:00  Sky Sports Main Event (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1822,6 +1828,12 @@ https://zekonew.iosplayer.ru/zeko/premium318/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium528/mono.m3u8
+
+#EXTINF:-1 tvg-id="PGA Tour Valspar Championship - SuperSport Golf" tvg-name="PGA Tour Valspar Championship 20/03/25 - 17:00  SuperSport Golf" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", PGA Tour Valspar Championship 20/03/25 - 17:00  SuperSport Golf (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium422/mono.m3u8
 
 #EXTINF:-1 tvg-id="PGA Tour Valspar Championship - Sky Sports Main Event" tvg-name="PGA Tour Valspar Championship 20/03/25 - 17:00  Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", PGA Tour Valspar Championship 20/03/25 - 17:00  Sky Sports Main Event (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -2411,6 +2423,12 @@ https://zekonew.iosplayer.ru/zeko/premium765/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium77/mono.m3u8
 
+#EXTINF:-1 tvg-id="NBA - Away Feed" tvg-name="NBA : Brooklyn Nets vs Indiana Pacers 20/03/25 - 23:00  Away Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Brooklyn Nets vs Indiana Pacers 20/03/25 - 23:00  Away Feed (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium86/mono.m3u8
+
 #EXTINF:-1 tvg-id="NBA - YES USA" tvg-name="NBA : Brooklyn Nets vs Indiana Pacers 20/03/25 - 23:00  YES USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Brooklyn Nets vs Indiana Pacers 20/03/25 - 23:00  YES USA (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2800,6 +2818,12 @@ https://nfsnew.iosplayer.ru/nfs/premium7/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium5/mono.m3u8
+
+#EXTINF:-1 tvg-id="KHL - KHL Prime" tvg-name="KHL : Spartak Moscow vs Sochi 20/03/25 - 16:30  KHL Prime" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", KHL : Spartak Moscow vs Sochi 20/03/25 - 16:30  KHL Prime (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium86/mono.m3u8
 
 #EXTINF:-1 tvg-id="KHL - Match TV Russia" tvg-name="KHL : Nizhny Novgorod vs Cherepovets 20/03/25 - 16:30  Match TV Russia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", KHL : Nizhny Novgorod vs Cherepovets 20/03/25 - 16:30  Match TV Russia (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -3598,6 +3622,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium868/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium869/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sky Sport Calcio" tvg-name="Sky Sport Calcio " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport", Sky Sport Calcio  (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium870/mono.m3u8
 
 #EXTINF:-1 tvg-id="Sky Sport" tvg-name="Sky Calcio 1  " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-1-alt-de.png" group-title="Sport", Sky Calcio 1   (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
