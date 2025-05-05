@@ -1,3 +1,10 @@
+#EXTM3U url-tvg="http://epg-guide.com/it.gz"
+#EXTINF:-1 tvg-id="Hell's Kitchen Season 12, Episode 17 - AXS TV USA" tvg-name="Hell's Kitchen Season 12, Episode 17 20/03/25 - 12:00  AXS TV USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Hell's Kitchen Season 12, Episode 17 20/03/25 - 12:00  AXS TV USA (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium742/mono.m3u8
+
 #EXTINF:-1 tvg-id="Life Below Zero - Nat Geo Wild" tvg-name="Life Below Zero: Next Generation Season 2, Episode 11 20/03/25 - 16:00  Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Life Below Zero: Next Generation Season 2, Episode 11 20/03/25 - 16:00  Nat Geo Wild (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -46,6 +53,12 @@ https://zekonew.iosplayer.ru/zeko/premium766/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium306/mono.m3u8
 
+#EXTINF:-1 tvg-id="Swamp People Season 16, Episode 12 - History USA" tvg-name="Swamp People Season 16, Episode 12 20/03/25 - 00:00  History USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Swamp People Season 16, Episode 12 20/03/25 - 00:00  History USA (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium322/mono.m3u8
+
 #EXTINF:-1 tvg-id="The First 48 Season 27, Episode 10 - A&amp;E TV USA" tvg-name="The First 48 Season 27, Episode 10 20/03/25 - 00:00  A&amp;E TV USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", The First 48 Season 27, Episode 10 20/03/25 - 00:00  A&amp;E TV USA (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -57,6 +70,12 @@ https://zekonew.iosplayer.ru/zeko/premium302/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium307/mono.m3u8
+
+#EXTINF:-1 tvg-id="Police 24/7 Season 2, Episode 9 - CW USA" tvg-name="Police 24/7 Season 2, Episode 9 20/03/25 - 00:00  CW USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Police 24/7 Season 2, Episode 9 20/03/25 - 00:00  CW USA (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium300/mono.m3u8
 
 #EXTINF:-1 tvg-id="Police 24/7 Season 2, Episode 9 - CW PIX 11 USA" tvg-name="Police 24/7 Season 2, Episode 9 20/03/25 - 00:00  CW PIX 11 USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Police 24/7 Season 2, Episode 9 20/03/25 - 00:00  CW PIX 11 USA (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -106,6 +125,12 @@ https://nfsnew.iosplayer.ru/nfs/premium371/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium921/mono.m3u8
 
+#EXTINF:-1 tvg-id="Crime Nation Season 2, Episode 9 - CW USA" tvg-name="Crime Nation Season 2, Episode 9 20/03/25 - 01:00  CW USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Crime Nation Season 2, Episode 9 20/03/25 - 01:00  CW USA (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium300/mono.m3u8
+
 #EXTINF:-1 tvg-id="Crime Nation Season 2, Episode 9 - CW PIX 11 USA" tvg-name="Crime Nation Season 2, Episode 9 20/03/25 - 01:00  CW PIX 11 USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Crime Nation Season 2, Episode 9 20/03/25 - 01:00  CW PIX 11 USA (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -154,11 +179,23 @@ https://nfsnew.iosplayer.ru/nfs/premium307/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium302/mono.m3u8
 
+#EXTINF:-1 tvg-id="Swamp Mysteries Season 3, Episode 4 - History USA" tvg-name="Swamp Mysteries Season 3, Episode 4 20/03/25 - 01:30  History USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Swamp Mysteries Season 3, Episode 4 20/03/25 - 01:30  History USA (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium322/mono.m3u8
+
 #EXTINF:-1 tvg-id="NCAA March Madness 360 Live - CBS Sports Network USA" tvg-name="NCAA March Madness 360 Live 20/03/25 - 02:00  CBS Sports Network USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NCAA March Madness 360 Live 20/03/25 - 02:00  CBS Sports Network USA (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium308/mono.m3u8
+
+#EXTINF:-1 tvg-id="How I Escaped My Cult Season 1, Episode 3 - Freeform USA" tvg-name="How I Escaped My Cult Season 1, Episode 3 20/03/25 - 02:00  Freeform USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", How I Escaped My Cult Season 1, Episode 3 20/03/25 - 02:00  Freeform USA (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium301/mono.m3u8
 
 #EXTINF:-1 tvg-id="Accused - A&amp;E TV USA" tvg-name="Accused: Guilty or Innocent? Season 7, Episode 2 20/03/25 - 02:00  A&amp;E TV USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Accused: Guilty or Innocent? Season 7, Episode 2 20/03/25 - 02:00  A&amp;E TV USA (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -279,12 +316,6 @@ https://zekonew.iosplayer.ru/zeko/premium145/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium379/mono.m3u8
-
-#EXTINF:-1 tvg-id="World Cup Qualifying - ESPN 3 NL" tvg-name="World Cup Qualifying : Korea Republic vs Oman 20/03/25 - 11:00  ESPN 3 NL" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", World Cup Qualifying : Korea Republic vs Oman 20/03/25 - 11:00  ESPN 3 NL (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium888/mono.m3u8
 
 #EXTINF:-1 tvg-id="World Cup Qualifying - Diema Sport 3 Bulgaria" tvg-name="World Cup Qualifying : Korea Republic vs Oman 20/03/25 - 11:00  Diema Sport 3 Bulgaria" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", World Cup Qualifying : Korea Republic vs Oman 20/03/25 - 11:00  Diema Sport 3 Bulgaria (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -1288,12 +1319,6 @@ https://zekonew.iosplayer.ru/zeko/premium142/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium910/mono.m3u8
 
-#EXTINF:-1 tvg-id="CONCACAF Nations League - ESPN 3 NL" tvg-name="CONCACAF Nations League : USA vs Panama 20/03/25 - 23:00  ESPN 3 NL" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", CONCACAF Nations League : USA vs Panama 20/03/25 - 23:00  ESPN 3 NL (D)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium888/mono.m3u8
-
 #EXTINF:-1 tvg-id="CONCACAF Nations League - TUDN USA" tvg-name="CONCACAF Nations League : USA vs Panama 20/03/25 - 23:00  TUDN USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", CONCACAF Nations League : USA vs Panama 20/03/25 - 23:00  TUDN USA (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1702,6 +1727,12 @@ https://zekonew.iosplayer.ru/zeko/premium318/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium528/mono.m3u8
 
+#EXTINF:-1 tvg-id="DP World Tour Porsche Singapore Classic - SuperSport Golf" tvg-name="DP World Tour Porsche Singapore Classic 20/03/25 - 04:00  SuperSport Golf" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", DP World Tour Porsche Singapore Classic 20/03/25 - 04:00  SuperSport Golf (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium422/mono.m3u8
+
 #EXTINF:-1 tvg-id="DP World Tour Porsche Singapore Classic - Sky Sports Main Event" tvg-name="DP World Tour Porsche Singapore Classic 20/03/25 - 04:00  Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", DP World Tour Porsche Singapore Classic 20/03/25 - 04:00  Sky Sports Main Event (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1731,6 +1762,12 @@ https://zekonew.iosplayer.ru/zeko/premium318/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium528/mono.m3u8
+
+#EXTINF:-1 tvg-id="PGA Tour Valspar Championship - SuperSport Golf" tvg-name="PGA Tour Valspar Championship 20/03/25 - 17:00  SuperSport Golf" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", PGA Tour Valspar Championship 20/03/25 - 17:00  SuperSport Golf (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium422/mono.m3u8
 
 #EXTINF:-1 tvg-id="PGA Tour Valspar Championship - Sky Sports Main Event" tvg-name="PGA Tour Valspar Championship 20/03/25 - 17:00  Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", PGA Tour Valspar Championship 20/03/25 - 17:00  Sky Sports Main Event (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -1888,6 +1925,12 @@ https://windnew.iosplayer.ru/wind/premium399/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium407/mono.m3u8
 
+#EXTINF:-1 tvg-id="MLB - beIN Sports 4 Max France" tvg-name="MLB : Philadelphia Phillies vs Atlanta Braves 20/03/25 - 17:05  beIN Sports 4 Max France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", MLB : Philadelphia Phillies vs Atlanta Braves 20/03/25 - 17:05  beIN Sports 4 Max France (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium494/mono.m3u8
+
 #EXTINF:-1 tvg-id="MLB - MLB Network" tvg-name="MLB : Los Angeles Angels vs Chicago White Sox 20/03/25 - 20:05  MLB Network" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", MLB : Los Angeles Angels vs Chicago White Sox 20/03/25 - 20:05  MLB Network (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1960,11 +2003,23 @@ https://dokko1new.iosplayer.ru/dokko1/premium341/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium111/mono.m3u8
 
+#EXTINF:-1 tvg-id="ABA Liga 2 - Arena Sport 1 Serbia" tvg-name="ABA Liga 2 : Kk Zlatibor vs. Kk Podgorica 20/03/25 - 17:00  Arena Sport 1 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", ABA Liga 2 : Kk Zlatibor vs. Kk Podgorica 20/03/25 - 17:00  Arena Sport 1 Serbia (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium429/mono.m3u8
+
 #EXTINF:-1 tvg-id="ABA Liga 2 - Arena Sport 1 Croatia" tvg-name="ABA Liga 2 : Kk Zlatibor vs. Kk Podgorica 20/03/25 - 17:00  Arena Sport 1 Croatia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", ABA Liga 2 : Kk Zlatibor vs. Kk Podgorica 20/03/25 - 17:00  Arena Sport 1 Croatia (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium432/mono.m3u8
+
+#EXTINF:-1 tvg-id="Czech Republic ZBL - Nova Sport 1 Czech" tvg-name="Czech Republic ZBL : KP Brno vs. Sokol Hradec Kralove 20/03/25 - 17:00  Nova Sport 1 Czech" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Czech Republic ZBL : KP Brno vs. Sokol Hradec Kralove 20/03/25 - 17:00  Nova Sport 1 Czech (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium30/mono.m3u8
 
 #EXTINF:-1 tvg-id="Euroleague - Magenta Sport 304" tvg-name="Euroleague : BC Olympiakos Piraeus vs. KK Crvena zvezda Belgrade 20/03/25 - 18:00  Magenta Sport 304" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Euroleague : BC Olympiakos Piraeus vs. KK Crvena zvezda Belgrade 20/03/25 - 18:00  Magenta Sport 304 (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -1977,6 +2032,12 @@ https://nfsnew.iosplayer.ru/nfs/premium20/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium634/mono.m3u8
+
+#EXTINF:-1 tvg-id="Euroleague - Movistar Deportes 4 Spain" tvg-name="Euroleague : BC Olympiakos Piraeus vs. KK Crvena zvezda Belgrade 20/03/25 - 18:00  Movistar Deportes 4 Spain" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Euroleague : BC Olympiakos Piraeus vs. KK Crvena zvezda Belgrade 20/03/25 - 18:00  Movistar Deportes 4 Spain (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium527/mono.m3u8
 
 #EXTINF:-1 tvg-id="Euroleague - MAX Sport 2 Bulgaria" tvg-name="Euroleague : BC Olympiakos Piraeus vs. KK Crvena zvezda Belgrade 20/03/25 - 18:00  MAX Sport 2 Bulgaria" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Euroleague : BC Olympiakos Piraeus vs. KK Crvena zvezda Belgrade 20/03/25 - 18:00  MAX Sport 2 Bulgaria (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -1995,6 +2056,18 @@ https://ddy6new.iosplayer.ru/ddy6/premium101/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium146/mono.m3u8
+
+#EXTINF:-1 tvg-id="Euroleague - Magenta Sport 302" tvg-name="Euroleague : AS Monaco vs. Fenerbahce Istanbul 20/03/25 - 18:00  Magenta Sport 302" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Euroleague : AS Monaco vs. Fenerbahce Istanbul 20/03/25 - 18:00  Magenta Sport 302 (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium21/mono.m3u8
+
+#EXTINF:-1 tvg-id="Euroleague - Movistar Deportes 3 Spain" tvg-name="Euroleague : AS Monaco vs. Fenerbahce Istanbul 20/03/25 - 18:00  Movistar Deportes 3 Spain" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Euroleague : AS Monaco vs. Fenerbahce Istanbul 20/03/25 - 18:00  Movistar Deportes 3 Spain (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium526/mono.m3u8
 
 #EXTINF:-1 tvg-id="Euroleague - Nova Sports 5 Greece" tvg-name="Euroleague : AS Monaco vs. Fenerbahce Istanbul 20/03/25 - 18:00  Nova Sports 5 Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Euroleague : AS Monaco vs. Fenerbahce Istanbul 20/03/25 - 18:00  Nova Sports 5 Greece (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -2073,6 +2146,12 @@ https://dokko1new.iosplayer.ru/dokko1/premium637/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium102/mono.m3u8
+
+#EXTINF:-1 tvg-id="Euroleague - Magenta Sport 306" tvg-name="Euroleague : Real Madrid vs. ASVEL Lyon Villeurbanne 20/03/25 - 19:45  Magenta Sport 306" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Euroleague : Real Madrid vs. ASVEL Lyon Villeurbanne 20/03/25 - 19:45  Magenta Sport 306 (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium24/mono.m3u8
 
 #EXTINF:-1 tvg-id="Euroleague - M+ #Vamos ES" tvg-name="Euroleague : Real Madrid vs. ASVEL Lyon Villeurbanne 20/03/25 - 19:45  M+ #Vamos ES" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Euroleague : Real Madrid vs. ASVEL Lyon Villeurbanne 20/03/25 - 19:45  M+ #Vamos ES (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -2206,6 +2285,12 @@ https://zekonew.iosplayer.ru/zeko/premium112/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium308/mono.m3u8
 
+#EXTINF:-1 tvg-id="2025 NCAA Men's Basketball Tournament First Round - TNT USA" tvg-name="2025 NCAA Men's Basketball Tournament First Round: Montana vs Wisconsin 20/03/25 - 17:30  TNT USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", 2025 NCAA Men's Basketball Tournament First Round: Montana vs Wisconsin 20/03/25 - 17:30  TNT USA (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium338/mono.m3u8
+
 #EXTINF:-1 tvg-id="2025 NCAA Men's Basketball Tournament First Round - TBS USA" tvg-name="2025 NCAA Men's Basketball Tournament First Round: Southern Illinois-Edwardsville vs Houston 20/03/25 - 18:00  TBS USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", 2025 NCAA Men's Basketball Tournament First Round: Southern Illinois-Edwardsville vs Houston 20/03/25 - 18:00  TBS USA (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2223,6 +2308,12 @@ https://zekonew.iosplayer.ru/zeko/premium308/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium341/mono.m3u8
+
+#EXTINF:-1 tvg-id="2025 NCAA Men's Basketball Tournament First Round - TNT USA" tvg-name="2025 NCAA Men's Basketball Tournament First Round: VCU vs BYU 20/03/25 - 20:00  TNT USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", 2025 NCAA Men's Basketball Tournament First Round: VCU vs BYU 20/03/25 - 20:00  TNT USA (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium338/mono.m3u8
 
 #EXTINF:-1 tvg-id="2025 NCAA Men's Basketball Tournament First Round - TBS USA" tvg-name="2025 NCAA Men's Basketball Tournament First Round: Yale vs Texas A&amp;M 20/03/25 - 23:15  TBS USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", 2025 NCAA Men's Basketball Tournament First Round: Yale vs Texas A&amp;M 20/03/25 - 23:15  TBS USA (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
