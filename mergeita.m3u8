@@ -707,6 +707,12 @@ https://dokko1new.iosplayer.ru/dokko1/premium91/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium291/mono.m3u8
 
+#EXTINF:-1 tvg-id="UEFA Nations League - L'Équipe France" tvg-name="UEFA Nations League : Simulcast 20/03/25 - 19:45  L'Équipe France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Simulcast 20/03/25 - 19:45  L'Équipe France (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium645/mono.m3u8
+
 #EXTINF:-1 tvg-id="UEFA Nations League - Nova Sports 1 Greece" tvg-name="UEFA Nations League : Simulcast 20/03/25 - 19:45  Nova Sports 1 Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Simulcast 20/03/25 - 19:45  Nova Sports 1 Greece (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2302,6 +2308,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium151/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium102/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA G-League - ESPN+ USA" tvg-name="NBA G-League : Austin Toros Spurs vs Iowa Wolves 20/03/25 - 00:00  ESPN+ USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA G-League : Austin Toros Spurs vs Iowa Wolves 20/03/25 - 00:00  ESPN+ USA (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium152/mono.m3u8
 
 #EXTINF:-1 tvg-id="College Basketball - March Madness (RD1) - Sport Klub 1 Serbia" tvg-name="College Basketball - March Madness (RD1): UCLA vs Utah State 20/03/25 - 01:20  Sport Klub 1 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", College Basketball - March Madness (RD1): UCLA vs Utah State 20/03/25 - 01:20  Sport Klub 1 Serbia (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
