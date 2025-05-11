@@ -533,6 +533,12 @@ https://windnew.iosplayer.ru/wind/premium150/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium92/mono.m3u8
 
+#EXTINF:-1 tvg-id="UEFA Nations League - beIN Sports MENA English 1" tvg-name="UEFA Nations League : Turkey vs Hungary 20/03/25 - 17:00  beIN Sports MENA English 1" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Turkey vs Hungary 20/03/25 - 17:00  beIN Sports MENA English 1 (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium61/mono.m3u8
+
 #EXTINF:-1 tvg-id="UEFA Nations League - Sport 1 Israel" tvg-name="UEFA Nations League : Turkey vs Hungary 20/03/25 - 17:00  Sport 1 Israel" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Turkey vs Hungary 20/03/25 - 17:00  Sport 1 Israel (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -838,6 +844,12 @@ https://nfsnew.iosplayer.ru/nfs/premium6/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium7/mono.m3u8
+
+#EXTINF:-1 tvg-id="UEFA Nations League - Nova Sports Prime Greece" tvg-name="UEFA Nations League : Greece vs Scotland 20/03/25 - 19:45  Nova Sports Prime Greece" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Greece vs Scotland 20/03/25 - 19:45  Nova Sports Prime Greece (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium638/mono.m3u8
 
 #EXTINF:-1 tvg-id="UEFA Nations League - Sky Sport 6 NZ" tvg-name="UEFA Nations League : Greece vs Scotland 20/03/25 - 19:45  Sky Sport 6 NZ" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Greece vs Scotland 20/03/25 - 19:45  Sky Sport 6 NZ (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -1198,6 +1210,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium149/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium92/mono.m3u8
+
+#EXTINF:-1 tvg-id="UEFA Nations League - beIN Sports MENA English 1" tvg-name="UEFA Nations League : Netherlands vs Spain 20/03/25 - 19:45  beIN Sports MENA English 1" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Netherlands vs Spain 20/03/25 - 19:45  beIN Sports MENA English 1 (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium61/mono.m3u8
 
 #EXTINF:-1 tvg-id="UEFA Nations League - Sport 2 Israel" tvg-name="UEFA Nations League : Netherlands vs Spain 20/03/25 - 19:45  Sport 2 Israel" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Netherlands vs Spain 20/03/25 - 19:45  Sport 2 Israel (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
