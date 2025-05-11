@@ -2417,6 +2417,18 @@ https://windnew.iosplayer.ru/wind/premium76/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium765/mono.m3u8
 
+#EXTINF:-1 tvg-id="NBA - Home Feed" tvg-name="NBA : Brooklyn Nets vs Indiana Pacers 20/03/25 - 23:00  Home Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Brooklyn Nets vs Indiana Pacers 20/03/25 - 23:00  Home Feed (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium77/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - Away Feed" tvg-name="NBA : Brooklyn Nets vs Indiana Pacers 20/03/25 - 23:00  Away Feed" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Brooklyn Nets vs Indiana Pacers 20/03/25 - 23:00  Away Feed (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium86/mono.m3u8
+
 #EXTINF:-1 tvg-id="NBA - YES USA" tvg-name="NBA : Brooklyn Nets vs Indiana Pacers 20/03/25 - 23:00  YES USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", NBA : Brooklyn Nets vs Indiana Pacers 20/03/25 - 23:00  YES USA (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2741,6 +2753,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium540/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium76/mono.m3u8
 
+#EXTINF:-1 tvg-id="Slovenian League (M) - Sport Klub 9 Serbia" tvg-name="Slovenian League (M) : Gorenje vs Krka 20/03/25 - 17:00  Sport Klub 9 Serbia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Slovenian League (M) : Gorenje vs Krka 20/03/25 - 17:00  Sport Klub 9 Serbia (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium77/mono.m3u8
+
 #EXTINF:-1 tvg-id="Denmark, Handboldligaen - TV2 Sport Denmark" tvg-name="Denmark, Handboldligaen : Skanderborg-Aarhus Haandbold vs. Soenderjyske HK 20/03/25 - 17:30  TV2 Sport Denmark" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", Denmark, Handboldligaen : Skanderborg-Aarhus Haandbold vs. Soenderjyske HK 20/03/25 - 17:30  TV2 Sport Denmark (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2806,6 +2824,12 @@ https://nfsnew.iosplayer.ru/nfs/premium7/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium5/mono.m3u8
+
+#EXTINF:-1 tvg-id="KHL - KHL Prime" tvg-name="KHL : Spartak Moscow vs Sochi 20/03/25 - 16:30  KHL Prime" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", KHL : Spartak Moscow vs Sochi 20/03/25 - 16:30  KHL Prime (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium86/mono.m3u8
 
 #EXTINF:-1 tvg-id="KHL - Match TV Russia" tvg-name="KHL : Nizhny Novgorod vs Cherepovets 20/03/25 - 16:30  Match TV Russia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", KHL : Nizhny Novgorod vs Cherepovets 20/03/25 - 16:30  Match TV Russia (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
