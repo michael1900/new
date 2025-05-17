@@ -1061,6 +1061,12 @@ https://zekonew.iosplayer.ru/zeko/premium143/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium758/mono.m3u8
 
+#EXTINF:-1 tvg-id="UEFA Nations League - TF1 France" tvg-name="UEFA Nations League : Croatia vs France 20/03/25 - 19:45  TF1 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Croatia vs France 20/03/25 - 19:45  TF1 France (D)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium469/mono.m3u8
+
 #EXTINF:-1 tvg-id="UEFA Nations League - Nova TV Croatia" tvg-name="UEFA Nations League : Croatia vs France 20/03/25 - 19:45  Nova TV Croatia" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Eventi", UEFA Nations League : Croatia vs France 20/03/25 - 19:45  Nova TV Croatia (D)
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
